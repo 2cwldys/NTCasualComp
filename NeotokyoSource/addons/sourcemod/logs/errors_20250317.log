@@ -1,0 +1,12 @@
+L 03/17/2025 - 00:19:58: SourceMod error session started
+L 03/17/2025 - 00:19:58: Info (map "nt_rogue_ctg_b4") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250317.log")
+L 03/17/2025 - 00:19:58: [SM] Failed to load plugin "nt_flashbang.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 03/17/2025 - 14:00:05: SourceMod error session started
+L 03/17/2025 - 14:00:05: Info (map "nt_dawn_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250317.log")
+L 03/17/2025 - 14:00:05: [SM] Failed to load plugin "nt_flashbang.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 03/17/2025 - 16:24:01: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/17/2025 - 22:38:54: Error log file session closed.
+L 03/17/2025 - 22:38:54: SourceMod error session started
+L 03/17/2025 - 22:38:54: Info (map "nt_engage_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250317.log")
+L 03/17/2025 - 22:38:54: [SM] Failed to load plugin "nt_flashbang.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 03/18/2025 - 00:22:56: Error log file session closed.

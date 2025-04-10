@@ -1,0 +1,77 @@
+L 03/13/2025 - 00:52:05: SourceMod error session started
+L 03/13/2025 - 00:52:05: Info (map "nt_dawn_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250313.log")
+L 03/13/2025 - 00:52:05: [SM] Failed to load plugin "nt_flashbang.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 03/13/2025 - 00:53:16: Error log file session closed.
+L 03/13/2025 - 00:53:16: SourceMod error session started
+L 03/13/2025 - 00:53:16: Info (map "nt_dew_ctg_b1f") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250313.log")
+L 03/13/2025 - 00:53:16: [SM] Failed to load plugin "nt_flashbang.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 03/13/2025 - 01:05:03: Error log file session closed.
+L 03/13/2025 - 01:05:03: SourceMod error session started
+L 03/13/2025 - 01:05:03: Info (map "nt_hebi_ctg_a3") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250313.log")
+L 03/13/2025 - 01:05:03: [SM] Failed to load plugin "nt_flashbang.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 03/13/2025 - 01:05:05: [SM] Exception reported: Client 9 is not in game
+L 03/13/2025 - 01:05:05: [SM] Blaming: nt_comp_xp_printer.smx
+L 03/13/2025 - 01:05:05: [SM] Call stack trace:
+L 03/13/2025 - 01:05:05: [SM]   [0] GetClientFrags
+L 03/13/2025 - 01:05:05: [SM]   [1] Line 139, M:\Server Files\scripting\include\neotokyo.inc::GetPlayerXP
+L 03/13/2025 - 01:05:05: [SM]   [2] Line 18, nt_comp_xp_printer.sp::OnClientDisconnect
+L 03/13/2025 - 01:05:05: [SM] Exception reported: Entity -1 (-1) is invalid
+L 03/13/2025 - 01:05:05: [SM] Blaming: nt_anti_ghosthop.smx
+L 03/13/2025 - 01:05:05: [SM] Call stack trace:
+L 03/13/2025 - 01:05:05: [SM]   [0] GetEntPropString
+L 03/13/2025 - 01:05:05: [SM]   [1] Line 768, entity::GetEntityClassname
+L 03/13/2025 - 01:05:05: [SM]   [2] Line 225, nt_anti_ghosthop.sp::IsGhost
+L 03/13/2025 - 01:05:05: [SM]   [3] Line 234, nt_anti_ghosthop.sp::OnEntityDestroyed
+L 03/13/2025 - 01:05:32: Error log file session closed.
+L 03/13/2025 - 01:05:32: SourceMod error session started
+L 03/13/2025 - 01:05:32: Info (map "nt_hebi_ctg_a4fix") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250313.log")
+L 03/13/2025 - 01:05:32: [SM] Failed to load plugin "nt_flashbang.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 03/13/2025 - 01:45:44: Error log file session closed.
+L 03/13/2025 - 01:45:44: SourceMod error session started
+L 03/13/2025 - 01:45:44: Info (map "nt_tetsu_ctg_b6f") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250313.log")
+L 03/13/2025 - 01:45:44: [SM] Failed to load plugin "nt_flashbang.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 03/13/2025 - 02:17:28: Error log file session closed.
+L 03/13/2025 - 02:17:28: SourceMod error session started
+L 03/13/2025 - 02:17:28: Info (map "nt_ballistremade_ctg_a16") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250313.log")
+L 03/13/2025 - 02:17:28: [SM] Failed to load plugin "nt_flashbang.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 03/13/2025 - 02:17:56: [SM] Exception reported: Client 12 is not in game
+L 03/13/2025 - 02:17:56: [SM] Blaming: nt_comp_xp_printer.smx
+L 03/13/2025 - 02:17:56: [SM] Call stack trace:
+L 03/13/2025 - 02:17:56: [SM]   [0] GetClientFrags
+L 03/13/2025 - 02:17:56: [SM]   [1] Line 139, M:\Server Files\scripting\include\neotokyo.inc::GetPlayerXP
+L 03/13/2025 - 02:17:56: [SM]   [2] Line 18, nt_comp_xp_printer.sp::OnClientDisconnect
+L 03/13/2025 - 02:17:56: [SM] Exception reported: Entity -1 (-1) is invalid
+L 03/13/2025 - 02:17:56: [SM] Blaming: nt_anti_ghosthop.smx
+L 03/13/2025 - 02:17:56: [SM] Call stack trace:
+L 03/13/2025 - 02:17:56: [SM]   [0] GetEntPropString
+L 03/13/2025 - 02:17:56: [SM]   [1] Line 768, entity::GetEntityClassname
+L 03/13/2025 - 02:17:56: [SM]   [2] Line 225, nt_anti_ghosthop.sp::IsGhost
+L 03/13/2025 - 02:17:56: [SM]   [3] Line 234, nt_anti_ghosthop.sp::OnEntityDestroyed
+L 03/13/2025 - 02:17:57: Error log file session closed.
+L 03/13/2025 - 02:17:57: SourceMod error session started
+L 03/13/2025 - 02:17:57: Info (map "nt_ballistremade_ctg_a20") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250313.log")
+L 03/13/2025 - 02:17:57: [SM] Failed to load plugin "nt_flashbang.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 03/13/2025 - 03:06:26: Error log file session closed.
+L 03/13/2025 - 03:06:26: SourceMod error session started
+L 03/13/2025 - 03:06:26: Info (map "nt_rise_ctg_dennov3") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250313.log")
+L 03/13/2025 - 03:06:26: [SM] Failed to load plugin "nt_flashbang.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 03/13/2025 - 05:29:50: SourceMod error session started
+L 03/13/2025 - 05:29:50: Info (map "nt_dawn_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250313.log")
+L 03/13/2025 - 05:29:50: [SM] Failed to load plugin "nt_flashbang.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 03/13/2025 - 08:38:33: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/13/2025 - 14:00:10: SourceMod error session started
+L 03/13/2025 - 14:00:10: Info (map "nt_dawn_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250313.log")
+L 03/13/2025 - 14:00:10: [SM] Failed to load plugin "nt_flashbang.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 03/13/2025 - 22:30:20: Error log file session closed.
+L 03/13/2025 - 22:30:20: SourceMod error session started
+L 03/13/2025 - 22:30:20: Info (map "nt_tetsu_ctg_b6f") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250313.log")
+L 03/13/2025 - 22:30:20: [SM] Failed to load plugin "nt_flashbang.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 03/13/2025 - 23:01:33: Error log file session closed.
+L 03/13/2025 - 23:01:33: SourceMod error session started
+L 03/13/2025 - 23:01:33: Info (map "nt_rise_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250313.log")
+L 03/13/2025 - 23:01:33: [SM] Failed to load plugin "nt_flashbang.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 03/13/2025 - 23:53:21: Error log file session closed.
+L 03/13/2025 - 23:53:21: SourceMod error session started
+L 03/13/2025 - 23:53:21: Info (map "nt_culvert_ctg_b4") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250313.log")
+L 03/13/2025 - 23:53:21: [SM] Failed to load plugin "nt_flashbang.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 03/14/2025 - 00:00:59: Error log file session closed.

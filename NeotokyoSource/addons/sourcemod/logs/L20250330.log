@@ -1,0 +1,114 @@
+L 03/30/2025 - 05:45:21: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250330.log") (Version "1.11.0.6939")
+L 03/30/2025 - 05:45:21: [basecommands.smx] "bauxite<25><STEAM_0:0:5757747><>" console command (cmdline "_restart")
+L 03/30/2025 - 05:45:21: Log file closed.
+L 03/30/2025 - 05:45:48: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250330.log") (Version "1.11.0.6939")
+L 03/30/2025 - 05:45:48: [nt_mapchooser_comp.smx] Starting map vote because outside request
+L 03/30/2025 - 05:45:48: [nt_mapchooser_comp.smx] Voting for next map has started.
+L 03/30/2025 - 05:45:52: [nt_mapchooser_comp.smx] Voting for next map has finished. 'No Change' was the winner
+L 03/30/2025 - 05:51:18: [nt_mapchooser_comp.smx] Starting map vote because outside request
+L 03/30/2025 - 05:51:18: [nt_mapchooser_comp.smx] Voting for next map has started.
+L 03/30/2025 - 05:51:19: [nt_mapchooser_comp.smx] Voting for next map has finished. Nextmap: nt_rise_ctg_dennov3.
+L 03/30/2025 - 05:51:21: [SM] Changed map to "nt_rise_ctg_dennov3"
+L 03/30/2025 - 05:51:23: -------- Mapchange to nt_rise_ctg_dennov3 --------
+L 03/30/2025 - 05:51:42: [nt_mapchooser_comp.smx] Starting map vote because outside request
+L 03/30/2025 - 05:51:42: [nt_mapchooser_comp.smx] Voting for next map has started.
+L 03/30/2025 - 05:51:51: [nt_mapchooser_comp.smx] Voting for next map has finished. 'No Change' was the winner
+L 03/30/2025 - 05:53:27: [nt_mapchooser_comp.smx] Starting map vote because outside request
+L 03/30/2025 - 05:53:27: [nt_mapchooser_comp.smx] Voting for next map has started.
+L 03/30/2025 - 05:53:32: [nt_mapchooser_comp.smx] Voting for next map has finished. 'No Change' was the winner
+L 03/30/2025 - 05:54:04: [nt_mapchooser_comp.smx] Starting map vote because outside request
+L 03/30/2025 - 05:54:04: [nt_mapchooser_comp.smx] Voting for next map has started.
+L 03/30/2025 - 05:54:05: [nt_mapchooser_comp.smx] Voting for next map has finished. 'No Change' was the winner
+L 03/30/2025 - 06:27:34: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "_restart")
+L 03/30/2025 - 06:27:34: Log file closed.
+L 03/30/2025 - 06:28:05: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250330.log") (Version "1.11.0.6939")
+L 03/30/2025 - 06:28:05: [nt_mapchooser_comp.smx] Starting map vote because outside request
+L 03/30/2025 - 06:28:05: [nt_mapchooser_comp.smx] Voting for next map has started.
+L 03/30/2025 - 06:43:44: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "_restart")
+L 03/30/2025 - 06:43:44: Log file closed.
+L 03/30/2025 - 06:44:43: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250330.log") (Version "1.11.0.6939")
+L 03/30/2025 - 06:44:43: [nt_mapchooser_comp.smx] Starting map vote because outside request
+L 03/30/2025 - 06:44:43: [nt_mapchooser_comp.smx] Voting for next map has started.
+L 03/30/2025 - 06:44:52: [nt_mapchooser_comp.smx] Voting for next map has finished. Nextmap: nt_ghost_ctg.
+L 03/30/2025 - 06:44:54: [SM] Changed map to "nt_ghost_ctg"
+L 03/30/2025 - 06:44:55: -------- Mapchange to nt_ghost_ctg --------
+L 03/30/2025 - 06:45:12: [nt_mapchooser_comp.smx] Starting map vote because outside request
+L 03/30/2025 - 06:45:12: [nt_mapchooser_comp.smx] Voting for next map has started.
+L 03/30/2025 - 06:45:22: [nt_mapchooser_comp.smx] Voting for next map has finished. 'No Change' was the winner
+L 03/30/2025 - 07:11:53: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "_restart")
+L 03/30/2025 - 07:11:53: Log file closed.
+L 03/30/2025 - 07:13:01: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250330.log") (Version "1.11.0.6939")
+L 03/30/2025 - 07:13:01: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "_restart")
+L 03/30/2025 - 07:13:01: Log file closed.
+L 03/30/2025 - 07:13:26: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250330.log") (Version "1.11.0.6939")
+L 03/30/2025 - 07:13:26: [nt_mapchooser_comp.smx] Starting map vote because outside request
+L 03/30/2025 - 07:13:26: [nt_mapchooser_comp.smx] Voting for next map has started.
+L 03/30/2025 - 07:14:38: [nt_mapchooser_comp.smx] Starting map vote because outside request
+L 03/30/2025 - 07:14:38: [nt_mapchooser_comp.smx] Voting for next map has started.
+L 03/30/2025 - 07:21:21: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "_restart")
+L 03/30/2025 - 07:21:22: Log file closed.
+L 03/30/2025 - 07:22:06: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250330.log") (Version "1.11.0.6939")
+L 03/30/2025 - 07:22:06: [nt_mapchooser_comp.smx] Starting map vote because outside request
+L 03/30/2025 - 07:22:06: [nt_mapchooser_comp.smx] Voting for next map has started.
+L 03/30/2025 - 07:22:19: [nt_mapchooser_comp.smx] Voting for next map has finished. Nextmap: nt_shrine_ctg.
+L 03/30/2025 - 07:22:21: [SM] Changed map to "nt_shrine_ctg"
+L 03/30/2025 - 07:22:22: -------- Mapchange to nt_shrine_ctg --------
+L 03/30/2025 - 07:22:38: [nt_mapchooser_comp.smx] Starting map vote because outside request
+L 03/30/2025 - 07:22:38: [nt_mapchooser_comp.smx] Voting for next map has started.
+L 03/30/2025 - 07:23:06: [nt_mapchooser_comp.smx] Voting for next map has finished. Nextmap: nt_rising_ctg_b2.
+L 03/30/2025 - 07:23:08: [SM] Changed map to "nt_rising_ctg_b2"
+L 03/30/2025 - 07:23:09: -------- Mapchange to nt_rising_ctg_b2 --------
+L 03/30/2025 - 07:23:55: [nt_mapchooser_comp.smx] Starting map vote because outside request
+L 03/30/2025 - 07:23:55: [nt_mapchooser_comp.smx] Voting for next map has started.
+L 03/30/2025 - 07:23:59: [nt_mapchooser_comp.smx] Voting for next map has finished. Nextmap: nt_shrine_ctg.
+L 03/30/2025 - 07:24:01: [SM] Changed map to "nt_shrine_ctg"
+L 03/30/2025 - 07:24:01: -------- Mapchange to nt_shrine_ctg --------
+L 03/30/2025 - 07:25:31: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed cvar (cvar "sm_mapvote_exclude") (value "10")
+L 03/30/2025 - 07:25:46: [nt_mapchooser_comp.smx] Starting map vote because outside request
+L 03/30/2025 - 07:25:46: [nt_mapchooser_comp.smx] Voting for next map has started.
+L 03/30/2025 - 07:25:47: [nt_mapchooser_comp.smx] Voting for next map has finished. Nextmap: nt_dawn_ctg.
+L 03/30/2025 - 07:25:49: [SM] Changed map to "nt_dawn_ctg"
+L 03/30/2025 - 07:25:49: -------- Mapchange to nt_dawn_ctg --------
+L 03/30/2025 - 07:26:21: [nt_mapchooser_comp.smx] Starting map vote because outside request
+L 03/30/2025 - 07:26:21: [nt_mapchooser_comp.smx] Voting for next map has started.
+L 03/30/2025 - 07:26:23: [nt_mapchooser_comp.smx] Voting for next map has finished. Nextmap: nt_culvert_ctg_b4.
+L 03/30/2025 - 07:26:25: [SM] Changed map to "nt_culvert_ctg_b4"
+L 03/30/2025 - 07:26:25: -------- Mapchange to nt_culvert_ctg_b4 --------
+L 03/30/2025 - 07:26:44: [nt_mapchooser_comp.smx] Starting map vote because outside request
+L 03/30/2025 - 07:26:44: [nt_mapchooser_comp.smx] Voting for next map has started.
+L 03/30/2025 - 07:27:06: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "_restart")
+L 03/30/2025 - 07:27:07: Log file closed.
+L 03/30/2025 - 07:29:56: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250330.log") (Version "1.11.0.6939")
+L 03/30/2025 - 07:29:56: [nt_mapchooser_comp.smx] Starting map vote because outside request
+L 03/30/2025 - 07:29:56: [nt_mapchooser_comp.smx] Voting for next map has started.
+L 03/30/2025 - 07:29:57: [nt_mapchooser_comp.smx] Voting for next map has finished. Nextmap: nt_shrine_ctg.
+L 03/30/2025 - 07:29:59: [SM] Changed map to "nt_shrine_ctg"
+L 03/30/2025 - 07:29:59: -------- Mapchange to nt_shrine_ctg --------
+L 03/30/2025 - 21:08:09: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250330.log") (Version "1.11.0.6939")
+L 03/30/2025 - 21:08:09: [basechat.smx] "bauxite<4><STEAM_0:0:5757747><>" triggered sm_say (text restarting)
+L 03/30/2025 - 21:08:12: [basecommands.smx] "bauxite<4><STEAM_0:0:5757747><>" console command (cmdline "_restart")
+L 03/30/2025 - 21:08:12: Log file closed.
+L 03/30/2025 - 21:16:06: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250330.log") (Version "1.11.0.6939")
+L 03/30/2025 - 21:16:06: [nt_mapchooser_comp.smx] Starting map vote because outside request
+L 03/30/2025 - 21:16:06: [nt_mapchooser_comp.smx] Voting for next map has started.
+L 03/30/2025 - 21:16:41: [nt_mapchooser_comp.smx] Voting for next map has finished. Nextmap: nt_tetsu_ctg_b7_proto_v2.
+L 03/30/2025 - 21:16:43: [SM] Changed map to "nt_tetsu_ctg_b7_proto_v2"
+L 03/30/2025 - 21:16:43: -------- Mapchange to nt_tetsu_ctg_b7_proto_v2 --------
+L 03/30/2025 - 21:25:56: [basecommands.smx] "Door<2><STEAM_0:0:19204218><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/30/2025 - 21:47:43: [nt_mapchooser_comp.smx] Starting map vote because outside request
+L 03/30/2025 - 21:47:43: [nt_mapchooser_comp.smx] Voting for next map has started.
+L 03/30/2025 - 21:47:56: [nt_mapchooser_comp.smx] Voting for next map was indecisive, beginning runoff vote
+L 03/30/2025 - 21:48:14: [nt_mapchooser_comp.smx] Voting for next map has finished. Nextmap: nt_safehouse_atk_a2.
+L 03/30/2025 - 21:48:16: [SM] Changed map to "nt_safehouse_atk_a2"
+L 03/30/2025 - 21:48:16: -------- Mapchange to nt_safehouse_atk_a2 --------
+L 03/30/2025 - 21:53:56: [basecommands.smx] "Door<2><STEAM_0:0:19204218><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/30/2025 - 22:14:37: [nt_mapchooser_comp.smx] Starting map vote because outside request
+L 03/30/2025 - 22:14:37: [nt_mapchooser_comp.smx] Voting for next map has started.
+L 03/30/2025 - 22:15:12: [nt_mapchooser_comp.smx] Voting for next map was indecisive, beginning runoff vote
+L 03/30/2025 - 22:15:48: [nt_mapchooser_comp.smx] Voting for next map has finished. Nextmap: nt_ballistremade_ctg_a16.
+L 03/30/2025 - 22:15:51: [SM] Changed map to "nt_ballistremade_ctg_a16"
+L 03/30/2025 - 22:15:52: -------- Mapchange to nt_ballistremade_ctg_a16 --------
+L 03/30/2025 - 22:17:07: [basecommands.smx] "Door<2><STEAM_0:0:19204218><>" changed map to "nt_ballistremade_ctg_a20"
+L 03/30/2025 - 22:17:10: [SM] Changed map to "nt_ballistremade_ctg_a20"
+L 03/30/2025 - 22:17:11: -------- Mapchange to nt_ballistremade_ctg_a20 --------
+L 03/31/2025 - 03:54:36: Log file closed.

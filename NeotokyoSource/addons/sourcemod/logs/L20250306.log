@@ -1,0 +1,60 @@
+L 03/06/2025 - 00:00:24: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250306.log") (Version "1.11.0.6939")
+L 03/06/2025 - 00:00:24: [basecommands.smx] "Door<6><STEAM_0:0:19204218><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/06/2025 - 00:14:32: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/06/2025 - 00:14:32: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/06/2025 - 00:15:06: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_izakaya_ctg_a15c.
+L 03/06/2025 - 00:15:08: [SM] Changed map to "nt_izakaya_ctg_a15c"
+L 03/06/2025 - 00:15:09: -------- Mapchange to nt_izakaya_ctg_a15c --------
+L 03/06/2025 - 00:16:30: [basecommands.smx] "bauxite<11><STEAM_0:0:5757747><>" changed map to "nt_izakaya_ctg_b16"
+L 03/06/2025 - 00:16:33: [SM] Changed map to "nt_izakaya_ctg_b16"
+L 03/06/2025 - 00:16:34: -------- Mapchange to nt_izakaya_ctg_b16 --------
+L 03/06/2025 - 00:24:33: [funcommands.smx] "[BONK] kinoko<16><STEAM_0:0:83067719><>" toggled noclip on "[BONK] kinoko<16><STEAM_0:0:83067719><>"
+L 03/06/2025 - 00:24:45: [funcommands.smx] "[BONK] kinoko<16><STEAM_0:0:83067719><>" toggled noclip on "Steve'o<9><STEAM_0:0:58236849><>"
+L 03/06/2025 - 00:26:10: [basecommands.smx] "Door<6><STEAM_0:0:19204218><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/06/2025 - 00:42:33: [basechat.smx] "[BONK] kinoko<16><STEAM_0:0:83067719><>" triggered sm_say (text kude lmfao)
+L 03/06/2025 - 00:43:43: [basechat.smx] "[BONK] kinoko<16><STEAM_0:0:83067719><>" triggered sm_say (text i was trying to get on top of the map but one of my teammates smoked me off >:()
+L 03/06/2025 - 00:44:11: [basechat.smx] "[BONK] kinoko<16><STEAM_0:0:83067719><>" triggered sm_say (text yea i figured it out but like i got cucked by the smoke i couldnt see shit)
+L 03/06/2025 - 00:46:13: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/06/2025 - 00:46:13: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/06/2025 - 00:46:23: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_hebi_ctg_a3.
+L 03/06/2025 - 00:46:25: [SM] Changed map to "nt_hebi_ctg_a3"
+L 03/06/2025 - 00:46:25: -------- Mapchange to nt_hebi_ctg_a3 --------
+L 03/06/2025 - 00:47:52: [basecommands.smx] "[BONK] kinoko<16><STEAM_0:0:83067719><>" changed map to "nt_hebi_ctg_a4"
+L 03/06/2025 - 00:47:55: [SM] Changed map to "nt_hebi_ctg_a4"
+L 03/06/2025 - 00:47:56: -------- Mapchange to nt_hebi_ctg_a4 --------
+L 03/06/2025 - 00:49:35: [basecommands.smx] "Door<6><STEAM_0:0:19204218><>" changed map to "nt_hebi_ctg_a4fix"
+L 03/06/2025 - 00:49:38: [SM] Changed map to "nt_hebi_ctg_a4fix"
+L 03/06/2025 - 00:49:38: -------- Mapchange to nt_hebi_ctg_a4fix --------
+L 03/06/2025 - 00:57:37: [basecommands.smx] "Door<6><STEAM_0:0:19204218><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/06/2025 - 01:23:40: [basecommands.smx] "[BONK] kinoko<16><STEAM_0:0:83067719><>" changed map to "nt_yuzu_ctg_a2_test_v3"
+L 03/06/2025 - 01:23:43: [SM] Changed map to "nt_yuzu_ctg_a2_test_v3"
+L 03/06/2025 - 01:23:44: -------- Mapchange to nt_yuzu_ctg_a2_test_v3 --------
+L 03/06/2025 - 01:25:12: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/06/2025 - 01:25:12: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/06/2025 - 01:25:46: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_pagoda_ctg_fix_a2.
+L 03/06/2025 - 01:25:48: [SM] Changed map to "nt_pagoda_ctg_fix_a2"
+L 03/06/2025 - 01:25:49: -------- Mapchange to nt_pagoda_ctg_fix_a2 --------
+L 03/06/2025 - 01:32:19: [basecommands.smx] "Door<6><STEAM_0:0:19204218><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/06/2025 - 01:57:39: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/06/2025 - 01:57:39: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/06/2025 - 01:58:12: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_fleshworld_redux_ctg_b2.
+L 03/06/2025 - 01:58:14: [SM] Changed map to "nt_fleshworld_redux_ctg_b2"
+L 03/06/2025 - 01:58:15: -------- Mapchange to nt_fleshworld_redux_ctg_b2 --------
+L 03/06/2025 - 02:05:09: [basecommands.smx] "Door<6><STEAM_0:0:19204218><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/06/2025 - 02:31:40: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/06/2025 - 02:31:40: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/06/2025 - 02:32:14: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_culvert_ctg_b4.
+L 03/06/2025 - 02:32:16: [SM] Changed map to "nt_culvert_ctg_b4"
+L 03/06/2025 - 02:32:17: -------- Mapchange to nt_culvert_ctg_b4 --------
+L 03/06/2025 - 02:39:15: [basecommands.smx] "Door<6><STEAM_0:0:19204218><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/06/2025 - 03:09:22: [basecommands.smx] "Door<6><STEAM_0:0:19204218><>" changed map to "nt_safehold_ctg_a2"
+L 03/06/2025 - 03:09:25: [SM] Changed map to "nt_safehold_ctg_a2"
+L 03/06/2025 - 03:09:25: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/06/2025 - 03:09:25: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/06/2025 - 03:09:25: -------- Mapchange to nt_safehold_ctg_a2 --------
+L 03/06/2025 - 03:22:58: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/06/2025 - 03:22:58: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/06/2025 - 03:23:32: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_rise_ctg_dennov3.
+L 03/06/2025 - 03:23:34: [SM] Changed map to "nt_rise_ctg_dennov3"
+L 03/06/2025 - 03:23:35: -------- Mapchange to nt_rise_ctg_dennov3 --------
+L 03/06/2025 - 03:38:07: [basecommands.smx] "Door<27><STEAM_0:0:19204218><>" changed cvar (cvar "mp_forcecamera") (value "0")

@@ -1,0 +1,32 @@
+L 03/19/2025 - 06:24:35: SourceMod error session started
+L 03/19/2025 - 06:24:35: Info (map "nt_ttk_a1") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250319.log")
+L 03/19/2025 - 06:24:35: Console detour tried to unhook command "sm_dump_handles" but it wasn't found
+L 03/19/2025 - 06:24:35: Console detour tried to unhook command "sm" but it wasn't found
+L 03/19/2025 - 06:24:35: Console detour tried to unhook command "sm_dump_admcache" but it wasn't found
+L 03/19/2025 - 06:24:35: Console detour tried to unhook command "sm_reload_databases" but it wasn't found
+L 03/19/2025 - 06:24:35: Console detour tried to unhook command "sm_reload_translations" but it wasn't found
+L 03/19/2025 - 06:24:35: Error log file session closed.
+L 03/19/2025 - 22:12:54: SourceMod error session started
+L 03/19/2025 - 22:12:54: Info (map "nt_veil_ctg_a4f") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250319.log")
+L 03/19/2025 - 22:12:54: [SM] Exception reported: Client 9 is not in game
+L 03/19/2025 - 22:12:54: [SM] Blaming: nt_comp_xp_printer.smx
+L 03/19/2025 - 22:12:54: [SM] Call stack trace:
+L 03/19/2025 - 22:12:54: [SM]   [0] GetClientFrags
+L 03/19/2025 - 22:12:54: [SM]   [1] Line 139, M:\Server Files\scripting\include\neotokyo.inc::GetPlayerXP
+L 03/19/2025 - 22:12:54: [SM]   [2] Line 18, nt_comp_xp_printer.sp::OnClientDisconnect
+L 03/19/2025 - 22:12:54: [SM] Exception reported: Entity -1 (-1) is invalid
+L 03/19/2025 - 22:12:54: [SM] Blaming: nt_anti_ghosthop.smx
+L 03/19/2025 - 22:12:54: [SM] Call stack trace:
+L 03/19/2025 - 22:12:54: [SM]   [0] GetEntPropString
+L 03/19/2025 - 22:12:54: [SM]   [1] Line 768, entity::GetEntityClassname
+L 03/19/2025 - 22:12:54: [SM]   [2] Line 225, nt_anti_ghosthop.sp::IsGhost
+L 03/19/2025 - 22:12:54: [SM]   [3] Line 234, nt_anti_ghosthop.sp::OnEntityDestroyed
+L 03/19/2025 - 23:35:14: Error log file session closed.
+L 03/19/2025 - 23:42:09: SourceMod error session started
+L 03/19/2025 - 23:42:09: Info (map "nt_ttk_a1") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250319.log")
+L 03/19/2025 - 23:42:09: Console detour tried to unhook command "sm_dump_handles" but it wasn't found
+L 03/19/2025 - 23:42:09: Console detour tried to unhook command "sm" but it wasn't found
+L 03/19/2025 - 23:42:09: Console detour tried to unhook command "sm_dump_admcache" but it wasn't found
+L 03/19/2025 - 23:42:09: Console detour tried to unhook command "sm_reload_databases" but it wasn't found
+L 03/19/2025 - 23:42:09: Console detour tried to unhook command "sm_reload_translations" but it wasn't found
+L 03/19/2025 - 23:42:09: Error log file session closed.

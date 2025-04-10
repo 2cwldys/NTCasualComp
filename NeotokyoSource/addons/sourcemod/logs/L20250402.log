@@ -1,0 +1,14 @@
+L 04/02/2025 - 20:33:13: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250402.log") (Version "1.11.0.6939")
+L 04/02/2025 - 20:33:13: [nt_mapchooser_comp.smx] Starting map vote because outside request
+L 04/02/2025 - 20:33:13: [nt_mapchooser_comp.smx] Voting for next map has started.
+L 04/02/2025 - 20:33:48: [nt_mapchooser_comp.smx] Voting for next map has finished. Nextmap: nt_rogue_ctg_b4.
+L 04/02/2025 - 20:33:50: [SM] Changed map to "nt_rogue_ctg_b4"
+L 04/02/2025 - 20:33:51: -------- Mapchange to nt_rogue_ctg_b4 --------
+L 04/02/2025 - 20:37:18: [basecommands.smx] "bauxite<7><STEAM_0:0:5757747><>" changed map to "nt_snowfall_ctg_b12"
+L 04/02/2025 - 20:37:21: [SM] Changed map to "nt_snowfall_ctg_b12"
+L 04/02/2025 - 20:37:23: -------- Mapchange to nt_snowfall_ctg_b12 --------
+L 04/02/2025 - 20:44:26: [basechat.smx] "bauxite<7><STEAM_0:0:5757747><>" triggered sm_say (text ok guys if ur friendly icons and other hud icons break type !hud in chat)
+L 04/02/2025 - 20:44:35: [basechat.smx] "bauxite<7><STEAM_0:0:5757747><>" triggered sm_say (text if ur hud breaks, type !hud in chat)
+L 04/02/2025 - 20:51:31: [basechat.smx] "bauxite<7><STEAM_0:0:5757747><>" triggered sm_say (text we are going live,glhf)
+L 04/02/2025 - 20:52:52: [basecommands.smx] "bauxite<7><STEAM_0:0:5757747><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 04/02/2025 - 20:53:22: [basechat.smx] "bauxite<7><STEAM_0:0:5757747><>" triggered sm_say (text btw we enabled death cam so new players can see, but dont callout stuff which dont immediately after death)

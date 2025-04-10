@@ -1,0 +1,53 @@
+L 03/24/2025 - 00:51:40: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250324.log") (Version "1.11.0.6939")
+L 03/24/2025 - 00:51:40: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed map to "nt_ttk_a1"
+L 03/24/2025 - 00:51:43: [SM] Changed map to "nt_ttk_a1"
+L 03/24/2025 - 00:51:43: -------- Mapchange to nt_ttk_a1 --------
+L 03/24/2025 - 00:52:15: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed cvar (cvar "sv_cheats") (value "1")
+L 03/24/2025 - 01:00:40: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "sm plugins unload ttkbots")
+L 03/24/2025 - 01:00:44: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed map to "nt_ttk_a1"
+L 03/24/2025 - 01:00:47: [SM] Changed map to "nt_ttk_a1"
+L 03/24/2025 - 01:00:47: -------- Mapchange to nt_ttk_a1 --------
+L 03/24/2025 - 01:01:06: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed cvar (cvar "sv_cheats") (value "1")
+L 03/24/2025 - 02:06:01: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "_restart")
+L 03/24/2025 - 02:06:01: Log file closed.
+L 03/24/2025 - 02:06:28: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250324.log") (Version "1.11.0.6939")
+L 03/24/2025 - 02:06:28: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed cvar (cvar "sv_cheats") (value "1")
+L 03/24/2025 - 02:30:56: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "_RESTART")
+L 03/24/2025 - 02:30:56: Log file closed.
+L 03/24/2025 - 02:36:36: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250324.log") (Version "1.11.0.6939")
+L 03/24/2025 - 02:36:36: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed cvar (cvar "sv_cheats") (value "1")
+L 03/24/2025 - 03:08:10: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "_restart")
+L 03/24/2025 - 03:08:10: Log file closed.
+L 03/24/2025 - 03:13:57: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250324.log") (Version "1.11.0.6939")
+L 03/24/2025 - 03:13:57: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed cvar (cvar "sv_cheats") (value "1")
+L 03/24/2025 - 03:40:42: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "_restart")
+L 03/24/2025 - 03:40:42: Log file closed.
+L 03/24/2025 - 04:26:43: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250324.log") (Version "1.11.0.6939")
+L 03/24/2025 - 04:26:43: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed map to "nt_ttk_a1"
+L 03/24/2025 - 04:26:46: [SM] Changed map to "nt_ttk_a1"
+L 03/24/2025 - 04:26:46: -------- Mapchange to nt_ttk_a1 --------
+L 03/24/2025 - 04:27:19: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed cvar (cvar "sv_cheats") (value "1")
+L 03/24/2025 - 04:39:16: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" kicked "SourceTV<3><BOT><>" (reason "")
+L 03/24/2025 - 04:39:16: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" kicked "<4><BOT><>" (reason "")
+L 03/24/2025 - 04:39:16: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" kicked "<5><BOT><>" (reason "")
+L 03/24/2025 - 04:39:16: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" kicked "<6><BOT><>" (reason "")
+L 03/24/2025 - 04:39:16: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" kicked "<7><BOT><>" (reason "")
+L 03/24/2025 - 04:39:16: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" kicked "<8><BOT><>" (reason "")
+L 03/24/2025 - 04:39:16: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" kicked "<9><BOT><>" (reason "")
+L 03/24/2025 - 04:39:16: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" kicked "<10><BOT><>" (reason "")
+L 03/24/2025 - 04:39:16: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" kicked "<11><BOT><>" (reason "")
+L 03/24/2025 - 04:39:16: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" kicked "<12><BOT><>" (reason "")
+L 03/24/2025 - 04:39:16: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" kicked "<13><BOT><>" (reason "")
+L 03/24/2025 - 04:39:16: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" kicked "<14><BOT><>" (reason "")
+L 03/24/2025 - 04:39:16: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" kicked "<15><BOT><>" (reason "")
+L 03/24/2025 - 04:39:34: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" kicked "<16><BOT><>" (reason "")
+L 03/24/2025 - 04:40:16: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" kicked "<17><BOT><>" (reason "")
+L 03/24/2025 - 04:41:16: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" kicked "<18><BOT><>" (reason "")
+L 03/24/2025 - 05:19:03: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "_restart")
+L 03/24/2025 - 05:19:03: Log file closed.
+L 03/24/2025 - 23:20:06: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250324.log") (Version "1.11.0.6939")
+L 03/24/2025 - 23:20:06: [basecommands.smx] "Door<2><STEAM_0:0:19204218><>" changed map to "nt_tetsu_ctg_b7_proto"
+L 03/24/2025 - 23:20:09: [SM] Changed map to "nt_tetsu_ctg_b7_proto"
+L 03/24/2025 - 23:20:10: -------- Mapchange to nt_tetsu_ctg_b7_proto --------
+L 03/24/2025 - 23:48:17: [basecommands.smx] "Door<2><STEAM_0:0:19204218><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/25/2025 - 00:18:42: Log file closed.

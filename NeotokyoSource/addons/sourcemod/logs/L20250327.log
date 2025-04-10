@@ -1,0 +1,54 @@
+L 03/27/2025 - 00:53:25: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250327.log") (Version "1.11.0.6939")
+L 03/27/2025 - 00:53:25: [basecommands.smx] "Door<2><STEAM_0:0:19204218><>" changed map to "nt_array_atk_b3"
+L 03/27/2025 - 00:53:28: [SM] Changed map to "nt_array_atk_b3"
+L 03/27/2025 - 00:53:28: -------- Mapchange to nt_array_atk_b3 --------
+L 03/27/2025 - 00:59:50: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/27/2025 - 00:59:50: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/27/2025 - 01:00:23: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_tetsu_ctg_b7_proto.
+L 03/27/2025 - 01:00:25: [SM] Changed map to "nt_tetsu_ctg_b7_proto"
+L 03/27/2025 - 01:00:26: -------- Mapchange to nt_tetsu_ctg_b7_proto --------
+L 03/27/2025 - 01:08:02: [basecommands.smx] "Door<2><STEAM_0:0:19204218><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/27/2025 - 01:35:29: [funcommands.smx] "kinoko<17><STEAM_0:0:83067719><>" toggled noclip on "kinoko<17><STEAM_0:0:83067719><>"
+L 03/27/2025 - 01:35:45: [funcommands.smx] "kinoko<17><STEAM_0:0:83067719><>" toggled noclip on "kinoko<17><STEAM_0:0:83067719><>"
+L 03/27/2025 - 01:37:31: [funcommands.smx] "kinoko<17><STEAM_0:0:83067719><>" toggled noclip on "kinoko<17><STEAM_0:0:83067719><>"
+L 03/27/2025 - 01:37:52: [funcommands.smx] "kinoko<17><STEAM_0:0:83067719><>" toggled noclip on "kinoko<17><STEAM_0:0:83067719><>"
+L 03/27/2025 - 01:38:06: [funcommands.smx] "kinoko<17><STEAM_0:0:83067719><>" toggled noclip on "kinoko<17><STEAM_0:0:83067719><>"
+L 03/27/2025 - 01:38:12: [funcommands.smx] "kinoko<17><STEAM_0:0:83067719><>" toggled noclip on "kinoko<17><STEAM_0:0:83067719><>"
+L 03/27/2025 - 01:41:56: [funcommands.smx] "kinoko<17><STEAM_0:0:83067719><>" toggled noclip on "kinoko<17><STEAM_0:0:83067719><>"
+L 03/27/2025 - 01:42:09: [funcommands.smx] "kinoko<17><STEAM_0:0:83067719><>" toggled noclip on "kinoko<17><STEAM_0:0:83067719><>"
+L 03/27/2025 - 21:58:22: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250327.log") (Version "1.11.0.6939")
+L 03/27/2025 - 21:58:22: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/27/2025 - 21:58:22: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/27/2025 - 21:58:24: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_tetsu_ctg_b7_proto.
+L 03/27/2025 - 21:58:26: [SM] Changed map to "nt_tetsu_ctg_b7_proto"
+L 03/27/2025 - 21:58:27: -------- Mapchange to nt_tetsu_ctg_b7_proto --------
+L 03/27/2025 - 22:08:37: [basecommands.smx] "Starflyer Lizard<6><STEAM_0:1:20336729><>" changed map to "nt_tetsu_ctg_b7_proto_v2"
+L 03/27/2025 - 22:08:40: [SM] Changed map to "nt_tetsu_ctg_b7_proto_v2"
+L 03/27/2025 - 22:08:41: -------- Mapchange to nt_tetsu_ctg_b7_proto_v2 --------
+L 03/27/2025 - 22:11:25: [basecommands.smx] "Starflyer Lizard<6><STEAM_0:1:20336729><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/27/2025 - 22:18:26: [basecommands.smx] "Starflyer Lizard<6><STEAM_0:1:20336729><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/27/2025 - 22:39:15: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/27/2025 - 22:39:15: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/27/2025 - 22:39:49: [nt_mapchooser_new.smx] Voting for next map has finished. 'No Change' was the winner
+L 03/27/2025 - 22:41:25: [basechat.smx] "bauxite<16><STEAM_0:0:5757747><>" triggered sm_say (text restarting server)
+L 03/27/2025 - 22:41:31: [basechat.smx] "bauxite<16><STEAM_0:0:5757747><>" triggered sm_say (text type retry in 10s)
+L 03/27/2025 - 22:41:35: [basechat.smx] "bauxite<16><STEAM_0:0:5757747><>" triggered sm_say (text in cosnole)
+L 03/27/2025 - 22:41:39: [basecommands.smx] "bauxite<16><STEAM_0:0:5757747><>" console command (cmdline "_restart")
+L 03/27/2025 - 22:41:40: Log file closed.
+L 03/27/2025 - 22:42:24: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250327.log") (Version "1.11.0.6939")
+L 03/27/2025 - 22:42:24: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/27/2025 - 22:42:24: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/27/2025 - 22:42:57: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_tetsu_ctg_b7_proto_v2.
+L 03/27/2025 - 22:42:59: [SM] Changed map to "nt_tetsu_ctg_b7_proto_v2"
+L 03/27/2025 - 22:43:00: -------- Mapchange to nt_tetsu_ctg_b7_proto_v2 --------
+L 03/27/2025 - 22:51:39: [basecommands.smx] "Starflyer Lizard<9><STEAM_0:1:20336729><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/27/2025 - 23:04:55: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/27/2025 - 23:04:55: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/27/2025 - 23:05:29: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_grid_ctg_b2.
+L 03/27/2025 - 23:05:31: [SM] Changed map to "nt_grid_ctg_b2"
+L 03/27/2025 - 23:05:32: -------- Mapchange to nt_grid_ctg_b2 --------
+L 03/27/2025 - 23:14:42: [basecommands.smx] "Starflyer Lizard<9><STEAM_0:1:20336729><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/27/2025 - 23:27:34: [basechat.smx] "bauxite<4><STEAM_0:0:5757747><>" triggered sm_say (text last afk)
+L 03/27/2025 - 23:27:42: [basechat.smx] "bauxite<4><STEAM_0:0:5757747><>" triggered sm_say (text afk in spawn)
+L 03/27/2025 - 23:27:58: [basechat.smx] "bauxite<4><STEAM_0:0:5757747><>" triggered sm_say (text damn bros u cap on an afk)
+L 03/28/2025 - 01:12:29: Log file closed.

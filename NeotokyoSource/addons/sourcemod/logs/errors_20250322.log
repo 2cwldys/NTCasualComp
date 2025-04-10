@@ -1,0 +1,104 @@
+L 03/22/2025 - 17:53:35: SourceMod error session started
+L 03/22/2025 - 17:53:35: Info (map "nt_dawn_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250322.log")
+L 03/22/2025 - 17:53:35: [SM] Exception reported: Client 5 is not in game
+L 03/22/2025 - 17:53:35: [SM] Blaming: nt_comp_xp_printer.smx
+L 03/22/2025 - 17:53:35: [SM] Call stack trace:
+L 03/22/2025 - 17:53:35: [SM]   [0] GetClientFrags
+L 03/22/2025 - 17:53:35: [SM]   [1] Line 139, M:\Server Files\scripting\include\neotokyo.inc::GetPlayerXP
+L 03/22/2025 - 17:53:35: [SM]   [2] Line 18, nt_comp_xp_printer.sp::OnClientDisconnect
+L 03/22/2025 - 17:53:35: [SM] Exception reported: Entity -1 (-1) is invalid
+L 03/22/2025 - 17:53:35: [SM] Blaming: nt_anti_ghosthop.smx
+L 03/22/2025 - 17:53:35: [SM] Call stack trace:
+L 03/22/2025 - 17:53:35: [SM]   [0] GetEntPropString
+L 03/22/2025 - 17:53:35: [SM]   [1] Line 768, entity::GetEntityClassname
+L 03/22/2025 - 17:53:35: [SM]   [2] Line 225, nt_anti_ghosthop.sp::IsGhost
+L 03/22/2025 - 17:53:35: [SM]   [3] Line 234, nt_anti_ghosthop.sp::OnEntityDestroyed
+L 03/22/2025 - 17:53:37: Error log file session closed.
+L 03/22/2025 - 17:55:10: SourceMod error session started
+L 03/22/2025 - 17:55:10: Info (map "nt_saitama_redux_ctg_a14_c") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250322.log")
+L 03/22/2025 - 17:55:10: [SM] Exception reported: Client 7 is not in game
+L 03/22/2025 - 17:55:10: [SM] Blaming: nt_comp_xp_printer.smx
+L 03/22/2025 - 17:55:10: [SM] Call stack trace:
+L 03/22/2025 - 17:55:10: [SM]   [0] GetClientFrags
+L 03/22/2025 - 17:55:10: [SM]   [1] Line 139, M:\Server Files\scripting\include\neotokyo.inc::GetPlayerXP
+L 03/22/2025 - 17:55:10: [SM]   [2] Line 18, nt_comp_xp_printer.sp::OnClientDisconnect
+L 03/22/2025 - 17:55:10: [SM] Exception reported: Entity -1 (-1) is invalid
+L 03/22/2025 - 17:55:10: [SM] Blaming: nt_anti_ghosthop.smx
+L 03/22/2025 - 17:55:10: [SM] Call stack trace:
+L 03/22/2025 - 17:55:10: [SM]   [0] GetEntPropString
+L 03/22/2025 - 17:55:10: [SM]   [1] Line 768, entity::GetEntityClassname
+L 03/22/2025 - 17:55:10: [SM]   [2] Line 225, nt_anti_ghosthop.sp::IsGhost
+L 03/22/2025 - 17:55:10: [SM]   [3] Line 234, nt_anti_ghosthop.sp::OnEntityDestroyed
+L 03/22/2025 - 18:35:09: Error log file session closed.
+L 03/22/2025 - 18:37:12: SourceMod error session started
+L 03/22/2025 - 18:37:12: Info (map "nt_snowfall_ctg_b12") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250322.log")
+L 03/22/2025 - 18:37:12: Console detour tried to unhook command "sm_dump_handles" but it wasn't found
+L 03/22/2025 - 18:37:12: Console detour tried to unhook command "sm" but it wasn't found
+L 03/22/2025 - 18:37:12: Console detour tried to unhook command "sm_dump_admcache" but it wasn't found
+L 03/22/2025 - 18:37:12: Console detour tried to unhook command "sm_reload_databases" but it wasn't found
+L 03/22/2025 - 18:37:12: Console detour tried to unhook command "sm_reload_translations" but it wasn't found
+L 03/22/2025 - 18:37:12: Error log file session closed.
+L 03/22/2025 - 18:37:33: SourceMod error session started
+L 03/22/2025 - 18:37:33: Info (map "nt_dawn_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250322.log")
+L 03/22/2025 - 18:37:33: [SM] Exception reported: Client 6 is not in game
+L 03/22/2025 - 18:37:33: [SM] Blaming: nt_comp_xp_printer.smx
+L 03/22/2025 - 18:37:33: [SM] Call stack trace:
+L 03/22/2025 - 18:37:33: [SM]   [0] GetClientFrags
+L 03/22/2025 - 18:37:33: [SM]   [1] Line 139, M:\Server Files\scripting\include\neotokyo.inc::GetPlayerXP
+L 03/22/2025 - 18:37:33: [SM]   [2] Line 18, nt_comp_xp_printer.sp::OnClientDisconnect
+L 03/22/2025 - 18:37:33: [SM] Exception reported: Entity -1 (-1) is invalid
+L 03/22/2025 - 18:37:33: [SM] Blaming: nt_anti_ghosthop.smx
+L 03/22/2025 - 18:37:33: [SM] Call stack trace:
+L 03/22/2025 - 18:37:33: [SM]   [0] GetEntPropString
+L 03/22/2025 - 18:37:33: [SM]   [1] Line 768, entity::GetEntityClassname
+L 03/22/2025 - 18:37:33: [SM]   [2] Line 225, nt_anti_ghosthop.sp::IsGhost
+L 03/22/2025 - 18:37:33: [SM]   [3] Line 234, nt_anti_ghosthop.sp::OnEntityDestroyed
+L 03/22/2025 - 18:37:34: Error log file session closed.
+L 03/22/2025 - 20:00:53: SourceMod error session started
+L 03/22/2025 - 20:00:53: Info (map "nt_ballistremade_ctg_a20") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250322.log")
+L 03/22/2025 - 20:00:53: [SM] Exception reported: Client 3 is not in game
+L 03/22/2025 - 20:00:53: [SM] Blaming: nt_comp_xp_printer.smx
+L 03/22/2025 - 20:00:53: [SM] Call stack trace:
+L 03/22/2025 - 20:00:53: [SM]   [0] GetClientFrags
+L 03/22/2025 - 20:00:53: [SM]   [1] Line 139, M:\Server Files\scripting\include\neotokyo.inc::GetPlayerXP
+L 03/22/2025 - 20:00:53: [SM]   [2] Line 18, nt_comp_xp_printer.sp::OnClientDisconnect
+L 03/22/2025 - 20:00:53: [SM] Exception reported: Entity -1 (-1) is invalid
+L 03/22/2025 - 20:00:53: [SM] Blaming: nt_anti_ghosthop.smx
+L 03/22/2025 - 20:00:53: [SM] Call stack trace:
+L 03/22/2025 - 20:00:53: [SM]   [0] GetEntPropString
+L 03/22/2025 - 20:00:53: [SM]   [1] Line 768, entity::GetEntityClassname
+L 03/22/2025 - 20:00:53: [SM]   [2] Line 225, nt_anti_ghosthop.sp::IsGhost
+L 03/22/2025 - 20:00:53: [SM]   [3] Line 234, nt_anti_ghosthop.sp::OnEntityDestroyed
+L 03/22/2025 - 20:27:19: Error log file session closed.
+L 03/22/2025 - 22:43:47: SourceMod error session started
+L 03/22/2025 - 22:43:47: Info (map "nt_oliostain_ctg_b3f5") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250322.log")
+L 03/22/2025 - 22:43:47: [SM] Exception reported: Client 6 is not in game
+L 03/22/2025 - 22:43:47: [SM] Blaming: nt_comp_xp_printer.smx
+L 03/22/2025 - 22:43:47: [SM] Call stack trace:
+L 03/22/2025 - 22:43:47: [SM]   [0] GetClientFrags
+L 03/22/2025 - 22:43:47: [SM]   [1] Line 139, M:\Server Files\scripting\include\neotokyo.inc::GetPlayerXP
+L 03/22/2025 - 22:43:47: [SM]   [2] Line 18, nt_comp_xp_printer.sp::OnClientDisconnect
+L 03/22/2025 - 22:43:47: [SM] Exception reported: Entity -1 (-1) is invalid
+L 03/22/2025 - 22:43:47: [SM] Blaming: nt_anti_ghosthop.smx
+L 03/22/2025 - 22:43:47: [SM] Call stack trace:
+L 03/22/2025 - 22:43:47: [SM]   [0] GetEntPropString
+L 03/22/2025 - 22:43:47: [SM]   [1] Line 768, entity::GetEntityClassname
+L 03/22/2025 - 22:43:47: [SM]   [2] Line 225, nt_anti_ghosthop.sp::IsGhost
+L 03/22/2025 - 22:43:47: [SM]   [3] Line 234, nt_anti_ghosthop.sp::OnEntityDestroyed
+L 03/22/2025 - 22:43:48: Error log file session closed.
+L 03/22/2025 - 23:23:25: SourceMod error session started
+L 03/22/2025 - 23:23:25: Info (map "nt_rise_ctg_dennov3") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250322.log")
+L 03/22/2025 - 23:23:25: [SM] Exception reported: Client 1 is not in game
+L 03/22/2025 - 23:23:25: [SM] Blaming: nt_comp_xp_printer.smx
+L 03/22/2025 - 23:23:25: [SM] Call stack trace:
+L 03/22/2025 - 23:23:25: [SM]   [0] GetClientFrags
+L 03/22/2025 - 23:23:25: [SM]   [1] Line 139, M:\Server Files\scripting\include\neotokyo.inc::GetPlayerXP
+L 03/22/2025 - 23:23:25: [SM]   [2] Line 18, nt_comp_xp_printer.sp::OnClientDisconnect
+L 03/22/2025 - 23:23:25: [SM] Exception reported: Entity -1 (-1) is invalid
+L 03/22/2025 - 23:23:25: [SM] Blaming: nt_anti_ghosthop.smx
+L 03/22/2025 - 23:23:25: [SM] Call stack trace:
+L 03/22/2025 - 23:23:25: [SM]   [0] GetEntPropString
+L 03/22/2025 - 23:23:25: [SM]   [1] Line 768, entity::GetEntityClassname
+L 03/22/2025 - 23:23:25: [SM]   [2] Line 225, nt_anti_ghosthop.sp::IsGhost
+L 03/22/2025 - 23:23:25: [SM]   [3] Line 234, nt_anti_ghosthop.sp::OnEntityDestroyed
+L 03/22/2025 - 23:23:26: Error log file session closed.

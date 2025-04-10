@@ -1,0 +1,83 @@
+L 03/20/2025 - 00:36:05: SourceMod error session started
+L 03/20/2025 - 00:36:05: Info (map "nt_ttk_a1") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250320.log")
+L 03/20/2025 - 00:36:05: Console detour tried to unhook command "sm_dump_handles" but it wasn't found
+L 03/20/2025 - 00:36:05: Console detour tried to unhook command "sm" but it wasn't found
+L 03/20/2025 - 00:36:05: Console detour tried to unhook command "sm_dump_admcache" but it wasn't found
+L 03/20/2025 - 00:36:05: Console detour tried to unhook command "sm_reload_databases" but it wasn't found
+L 03/20/2025 - 00:36:05: Console detour tried to unhook command "sm_reload_translations" but it wasn't found
+L 03/20/2025 - 00:36:05: Error log file session closed.
+L 03/20/2025 - 02:00:25: SourceMod error session started
+L 03/20/2025 - 02:00:25: Info (map "nt_dawn_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250320.log")
+L 03/20/2025 - 02:00:25: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:00:40: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:00:55: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:00:55: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:01:11: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:01:26: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:01:47: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:02:02: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:02:17: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:02:32: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:02:32: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:02:47: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:03:02: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:03:18: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:03:34: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:03:49: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:03:49: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:04:04: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:04:19: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:04:34: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:04:49: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:05:04: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:05:19: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:05:34: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:05:49: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:06:04: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:06:19: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:06:19: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:06:35: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:06:50: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:07:03: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:07:07: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:07:22: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:07:37: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:07:38: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:07:53: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:08:09: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:08:30: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:08:46: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:09:01: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:09:17: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:09:17: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:09:33: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:09:49: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:10:04: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:10:20: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:10:36: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:10:37: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:10:52: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:11:08: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:11:24: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:11:39: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:11:55: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:12:10: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:12:26: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:12:42: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:12:57: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:13:13: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:13:14: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:13:29: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:13:45: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 02:13:59: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 19:52:44: SourceMod error session started
+L 03/20/2025 - 19:52:44: Info (map "nt_dawn_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250320.log")
+L 03/20/2025 - 19:52:44: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/20/2025 - 20:21:15: Error log file session closed.
+L 03/20/2025 - 20:21:56: SourceMod error session started
+L 03/20/2025 - 20:21:56: Info (map "nt_tetsu_ctg_b6f") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250320.log")
+L 03/20/2025 - 20:21:56: [SM] Exception reported: Array index out-of-bounds (index -1, limit 4)
+L 03/20/2025 - 20:21:56: [SM] Blaming: nt_competitive.smx
+L 03/20/2025 - 20:21:56: [SM] Call stack trace:
+L 03/20/2025 - 20:21:56: [SM]   [1] Line 417, nt_competitive.sp::Command_JoinTeam
+L 03/20/2025 - 21:06:04: Error log file session closed.

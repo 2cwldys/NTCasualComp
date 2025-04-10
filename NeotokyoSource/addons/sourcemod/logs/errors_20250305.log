@@ -1,0 +1,24 @@
+L 03/05/2025 - 00:21:08: SourceMod error session started
+L 03/05/2025 - 00:21:08: Info (map "nt_snowfall_ctg_b12") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250305.log")
+L 03/05/2025 - 00:21:08: [SM] Exception reported: Client 2 is not connected
+L 03/05/2025 - 00:21:08: [SM] Blaming: nt_websocket.smx
+L 03/05/2025 - 00:21:08: [SM] Call stack trace:
+L 03/05/2025 - 00:21:08: [SM]   [0] GetClientUserId
+L 03/05/2025 - 00:21:08: [SM]   [1] Line 737, nt_websocket.sp::CmdLstnr_Say
+L 03/05/2025 - 00:51:06: [SM] Exception reported: Client 1 is not in game
+L 03/05/2025 - 00:51:06: [SM] Blaming: nt_comp_xp_printer.smx
+L 03/05/2025 - 00:51:06: [SM] Call stack trace:
+L 03/05/2025 - 00:51:06: [SM]   [0] GetClientFrags
+L 03/05/2025 - 00:51:06: [SM]   [1] Line 139, M:\Server Files\scripting\include\neotokyo.inc::GetPlayerXP
+L 03/05/2025 - 00:51:06: [SM]   [2] Line 18, nt_comp_xp_printer.sp::OnClientDisconnect
+L 03/05/2025 - 00:51:06: [SM] Exception reported: Entity -1 (-1) is invalid
+L 03/05/2025 - 00:51:06: [SM] Blaming: nt_anti_ghosthop.smx
+L 03/05/2025 - 00:51:06: [SM] Call stack trace:
+L 03/05/2025 - 00:51:06: [SM]   [0] GetEntPropString
+L 03/05/2025 - 00:51:06: [SM]   [1] Line 768, entity::GetEntityClassname
+L 03/05/2025 - 00:51:06: [SM]   [2] Line 225, nt_anti_ghosthop.sp::IsGhost
+L 03/05/2025 - 00:51:06: [SM]   [3] Line 234, nt_anti_ghosthop.sp::OnEntityDestroyed
+L 03/05/2025 - 00:51:07: Error log file session closed.
+L 03/05/2025 - 01:56:33: SourceMod error session started
+L 03/05/2025 - 01:56:33: Info (map "nt_culvert_ctg_b4") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250305.log")
+L 03/05/2025 - 01:56:33: [websocket.smx] Can't find the Key in the http protocol upgrade request.

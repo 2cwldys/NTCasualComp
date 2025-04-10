@@ -1,0 +1,65 @@
+L 03/16/2025 - 00:00:17: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250316.log") (Version "1.11.0.6939")
+L 03/16/2025 - 00:00:17: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "_restart")
+L 03/16/2025 - 00:00:18: Log file closed.
+L 03/16/2025 - 00:01:27: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250316.log") (Version "1.11.0.6939")
+L 03/16/2025 - 00:01:27: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed cvar (cvar "sm_ntdamage_damage") (value "10")
+L 03/16/2025 - 00:02:10: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/16/2025 - 00:02:10: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/16/2025 - 00:02:43: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_oliostain_ctg_b3f5.
+L 03/16/2025 - 00:02:45: [SM] Changed map to "nt_oliostain_ctg_b3f5"
+L 03/16/2025 - 00:02:46: -------- Mapchange to nt_oliostain_ctg_b3f5 --------
+L 03/16/2025 - 00:03:19: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed cvar (cvar "sm_ntdamage_damage") (value "10")
+L 03/16/2025 - 00:05:37: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed cvar (cvar "sm_ntdamage_damage") (value "50")
+L 03/16/2025 - 00:06:57: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed map to "nt_oliostain_ctg_b3f5"
+L 03/16/2025 - 00:07:00: [SM] Changed map to "nt_oliostain_ctg_b3f5"
+L 03/16/2025 - 00:07:00: -------- Mapchange to nt_oliostain_ctg_b3f5 --------
+L 03/16/2025 - 00:10:48: [basecommands.smx] "Door<4><STEAM_0:0:19204218><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/16/2025 - 00:36:25: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/16/2025 - 00:36:25: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/16/2025 - 00:36:58: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_snowfall_ctg_b12.
+L 03/16/2025 - 00:37:00: [SM] Changed map to "nt_snowfall_ctg_b12"
+L 03/16/2025 - 00:37:01: -------- Mapchange to nt_snowfall_ctg_b12 --------
+L 03/16/2025 - 00:52:07: [basecommands.smx] "Door<4><STEAM_0:0:19204218><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/16/2025 - 20:16:03: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250316.log") (Version "1.11.0.6939")
+L 03/16/2025 - 20:16:03: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/16/2025 - 20:16:03: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/16/2025 - 20:16:36: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_ballistremade_ctg_a16.
+L 03/16/2025 - 20:16:38: [SM] Changed map to "nt_ballistremade_ctg_a16"
+L 03/16/2025 - 20:16:39: -------- Mapchange to nt_ballistremade_ctg_a16 --------
+L 03/16/2025 - 20:17:32: [basecommands.smx] "Door<2><STEAM_0:0:19204218><>" changed map to "nt_ballistremade_ctg_a20"
+L 03/16/2025 - 20:17:35: [SM] Changed map to "nt_ballistremade_ctg_a20"
+L 03/16/2025 - 20:17:36: -------- Mapchange to nt_ballistremade_ctg_a20 --------
+L 03/16/2025 - 20:25:27: [basecommands.smx] "Door<2><STEAM_0:0:19204218><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/16/2025 - 20:54:25: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/16/2025 - 20:54:25: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/16/2025 - 20:54:50: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_tetsu_ctg_b6f.
+L 03/16/2025 - 20:54:53: [SM] Changed map to "nt_tetsu_ctg_b6f"
+L 03/16/2025 - 20:54:53: -------- Mapchange to nt_tetsu_ctg_b6f --------
+L 03/16/2025 - 20:57:42: [basecommands.smx] "kino<7><STEAM_0:0:83067719><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/16/2025 - 21:36:53: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/16/2025 - 21:36:53: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/16/2025 - 21:37:26: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_hebi_ctg_a4fix.
+L 03/16/2025 - 21:37:28: [SM] Changed map to "nt_hebi_ctg_a4fix"
+L 03/16/2025 - 21:37:28: -------- Mapchange to nt_hebi_ctg_a4fix --------
+L 03/16/2025 - 21:44:36: [basecommands.smx] "Door<2><STEAM_0:0:19204218><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/16/2025 - 22:10:37: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/16/2025 - 22:10:37: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/16/2025 - 22:11:10: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_threadplate_ctg.
+L 03/16/2025 - 22:11:12: [SM] Changed map to "nt_threadplate_ctg"
+L 03/16/2025 - 22:11:13: -------- Mapchange to nt_threadplate_ctg --------
+L 03/16/2025 - 22:11:36: [basecommands.smx] "Door<2><STEAM_0:0:19204218><>" changed map to "nt_threadtest_ctg_a1_alt"
+L 03/16/2025 - 22:11:39: [SM] Changed map to "nt_threadtest_ctg_a1_alt"
+L 03/16/2025 - 22:11:40: -------- Mapchange to nt_threadtest_ctg_a1_alt --------
+L 03/16/2025 - 22:20:39: [basecommands.smx] "Door<2><STEAM_0:0:19204218><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/16/2025 - 22:21:17: [basecommands.smx] "Door<2><STEAM_0:0:19204218><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/16/2025 - 22:53:14: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/16/2025 - 22:53:14: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/16/2025 - 22:53:48: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_saitama_redux_ctg_a14_c.
+L 03/16/2025 - 22:53:50: [SM] Changed map to "nt_saitama_redux_ctg_a14_c"
+L 03/16/2025 - 22:53:52: -------- Mapchange to nt_saitama_redux_ctg_a14_c --------
+L 03/16/2025 - 22:55:17: [basecommands.smx] "bauxite<33><STEAM_0:0:5757747><>" changed cvar (cvar "sm_competitive_round_limit") (value "3")
+L 03/16/2025 - 22:55:48: [funcommands.smx] "bauxite<33><STEAM_0:0:5757747><>" toggled noclip on "bauxite<33><STEAM_0:0:5757747><>"
+L 03/16/2025 - 22:56:23: [funcommands.smx] "bauxite<33><STEAM_0:0:5757747><>" toggled noclip on "bauxite<33><STEAM_0:0:5757747><>"
+L 03/16/2025 - 22:57:22: [basecommands.smx] "bauxite<33><STEAM_0:0:5757747><>" changed cvar (cvar "sm_competitive_round_limit") (value "15")
+L 03/16/2025 - 23:19:18: [basecommands.smx] "Door<32><STEAM_0:0:19204218><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/17/2025 - 00:19:35: Log file closed.

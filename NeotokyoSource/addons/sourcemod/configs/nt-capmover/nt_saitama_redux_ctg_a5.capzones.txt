@@ -1,0 +1,28 @@
+CapZones
+{
+	timer "0"
+	CapZone 
+	{
+		team "0"
+		Radius "128"
+		origin "-890.0 479.0 32.0"
+	}
+	CapZone 
+	{
+		team "0"
+		Radius "128"
+		origin "36.0 -87.0 -80.0"
+	}
+	CapZone 
+	{
+		team "1"
+		Radius "128"
+		origin "1276.0 3549.0 352.0"
+	}
+	CapZone 
+	{
+		team "1"
+		Radius "128"
+		origin "260.0 2870.0 297.0"
+	}
+}

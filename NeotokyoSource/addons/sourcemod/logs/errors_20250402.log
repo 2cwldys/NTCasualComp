@@ -1,0 +1,75 @@
+L 04/02/2025 - 11:57:58: SourceMod error session started
+L 04/02/2025 - 11:57:58: Info (map "nt_dawn_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250402.log")
+L 04/02/2025 - 11:57:58: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 04/02/2025 - 20:09:26: SourceMod error session started
+L 04/02/2025 - 20:09:26: Info (map "nt_dawn_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250402.log")
+L 04/02/2025 - 20:09:26: [SM] Exception reported: Client 1 is not in game
+L 04/02/2025 - 20:09:26: [SM] Blaming: nt_comp_xp_printer.smx
+L 04/02/2025 - 20:09:26: [SM] Call stack trace:
+L 04/02/2025 - 20:09:26: [SM]   [0] GetClientFrags
+L 04/02/2025 - 20:09:26: [SM]   [1] Line 139, M:\Server Files\scripting\include\neotokyo.inc::GetPlayerXP
+L 04/02/2025 - 20:09:26: [SM]   [2] Line 18, nt_comp_xp_printer.sp::OnClientDisconnect
+L 04/02/2025 - 20:09:26: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/02/2025 - 20:09:26: [SM] Blaming: nt_anti_ghosthop.smx
+L 04/02/2025 - 20:09:26: [SM] Call stack trace:
+L 04/02/2025 - 20:09:26: [SM]   [0] GetEntPropString
+L 04/02/2025 - 20:09:26: [SM]   [1] Line 768, entity::GetEntityClassname
+L 04/02/2025 - 20:09:26: [SM]   [2] Line 225, nt_anti_ghosthop.sp::IsGhost
+L 04/02/2025 - 20:09:26: [SM]   [3] Line 234, nt_anti_ghosthop.sp::OnEntityDestroyed
+L 04/02/2025 - 20:33:51: Error log file session closed.
+L 04/02/2025 - 20:37:21: SourceMod error session started
+L 04/02/2025 - 20:37:21: Info (map "nt_rogue_ctg_b4") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250402.log")
+L 04/02/2025 - 20:37:21: [SM] Exception reported: Client 13 is not in game
+L 04/02/2025 - 20:37:21: [SM] Blaming: nt_comp_xp_printer.smx
+L 04/02/2025 - 20:37:21: [SM] Call stack trace:
+L 04/02/2025 - 20:37:21: [SM]   [0] GetClientFrags
+L 04/02/2025 - 20:37:21: [SM]   [1] Line 139, M:\Server Files\scripting\include\neotokyo.inc::GetPlayerXP
+L 04/02/2025 - 20:37:21: [SM]   [2] Line 18, nt_comp_xp_printer.sp::OnClientDisconnect
+L 04/02/2025 - 20:37:21: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/02/2025 - 20:37:21: [SM] Blaming: nt_anti_ghosthop.smx
+L 04/02/2025 - 20:37:21: [SM] Call stack trace:
+L 04/02/2025 - 20:37:21: [SM]   [0] GetEntPropString
+L 04/02/2025 - 20:37:21: [SM]   [1] Line 768, entity::GetEntityClassname
+L 04/02/2025 - 20:37:21: [SM]   [2] Line 225, nt_anti_ghosthop.sp::IsGhost
+L 04/02/2025 - 20:37:21: [SM]   [3] Line 234, nt_anti_ghosthop.sp::OnEntityDestroyed
+L 04/02/2025 - 20:37:21: [SM] Exception reported: Client 14 is not in game
+L 04/02/2025 - 20:37:21: [SM] Blaming: nt_comp_xp_printer.smx
+L 04/02/2025 - 20:37:21: [SM] Call stack trace:
+L 04/02/2025 - 20:37:21: [SM]   [0] GetClientFrags
+L 04/02/2025 - 20:37:21: [SM]   [1] Line 139, M:\Server Files\scripting\include\neotokyo.inc::GetPlayerXP
+L 04/02/2025 - 20:37:21: [SM]   [2] Line 18, nt_comp_xp_printer.sp::OnClientDisconnect
+L 04/02/2025 - 20:37:21: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/02/2025 - 20:37:21: [SM] Blaming: nt_anti_ghosthop.smx
+L 04/02/2025 - 20:37:21: [SM] Call stack trace:
+L 04/02/2025 - 20:37:21: [SM]   [0] GetEntPropString
+L 04/02/2025 - 20:37:21: [SM]   [1] Line 768, entity::GetEntityClassname
+L 04/02/2025 - 20:37:21: [SM]   [2] Line 225, nt_anti_ghosthop.sp::IsGhost
+L 04/02/2025 - 20:37:21: [SM]   [3] Line 234, nt_anti_ghosthop.sp::OnEntityDestroyed
+L 04/02/2025 - 20:37:23: Error log file session closed.
+L 04/02/2025 - 20:53:12: SourceMod error session started
+L 04/02/2025 - 20:53:12: Info (map "nt_snowfall_ctg_b12") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250402.log")
+L 04/02/2025 - 20:53:12: [SM] Exception reported: Client 2 is not connected
+L 04/02/2025 - 20:53:12: [SM] Blaming: 123.smx
+L 04/02/2025 - 20:53:12: [SM] Call stack trace:
+L 04/02/2025 - 20:53:12: [SM]   [0] IsFakeClient
+L 04/02/2025 - 20:53:12: [SM]   [1] Line 477, M:\Server Files\scripting\123.sp::OnClientDisconnect_Post
+L 04/02/2025 - 20:54:20: [SM] Exception reported: Client 4 is not connected
+L 04/02/2025 - 20:54:20: [SM] Blaming: 123.smx
+L 04/02/2025 - 20:54:20: [SM] Call stack trace:
+L 04/02/2025 - 20:54:20: [SM]   [0] IsFakeClient
+L 04/02/2025 - 20:54:20: [SM]   [1] Line 477, M:\Server Files\scripting\123.sp::OnClientDisconnect_Post
+L 04/02/2025 - 20:54:42: [SM] Exception reported: Client 6 is not connected
+L 04/02/2025 - 20:54:42: [SM] Blaming: 123.smx
+L 04/02/2025 - 20:54:42: [SM] Call stack trace:
+L 04/02/2025 - 20:54:42: [SM]   [0] IsFakeClient
+L 04/02/2025 - 20:54:42: [SM]   [1] Line 477, M:\Server Files\scripting\123.sp::OnClientDisconnect_Post
+L 04/02/2025 - 20:57:44: [SM] Exception reported: Client 4 is not connected
+L 04/02/2025 - 20:57:44: [SM] Blaming: 123.smx
+L 04/02/2025 - 20:57:44: [SM] Call stack trace:
+L 04/02/2025 - 20:57:44: [SM]   [0] IsFakeClient
+L 04/02/2025 - 20:57:44: [SM]   [1] Line 477, M:\Server Files\scripting\123.sp::OnClientDisconnect_Post
+L 04/02/2025 - 20:59:26: [SM] Exception reported: Client 1 is not connected
+L 04/02/2025 - 20:59:26: [SM] Blaming: 123.smx
+L 04/02/2025 - 20:59:26: [SM] Call stack trace:
+L 04/02/2025 - 20:59:26: [SM]   [0] IsFakeClient
+L 04/02/2025 - 20:59:26: [SM]   [1] Line 477, M:\Server Files\scripting\123.sp::OnClientDisconnect_Post

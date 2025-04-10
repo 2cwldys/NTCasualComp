@@ -1,0 +1,51 @@
+L 03/27/2025 - 00:50:00: SourceMod error session started
+L 03/27/2025 - 00:50:00: Info (map "nt_dawn_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250327.log")
+L 03/27/2025 - 00:50:00: [SM] Exception reported: Client 2 is not in game
+L 03/27/2025 - 00:50:00: [SM] Blaming: nt_comp_xp_printer.smx
+L 03/27/2025 - 00:50:00: [SM] Call stack trace:
+L 03/27/2025 - 00:50:00: [SM]   [0] GetClientFrags
+L 03/27/2025 - 00:50:00: [SM]   [1] Line 139, M:\Server Files\scripting\include\neotokyo.inc::GetPlayerXP
+L 03/27/2025 - 00:50:00: [SM]   [2] Line 18, nt_comp_xp_printer.sp::OnClientDisconnect
+L 03/27/2025 - 00:50:00: [SM] Exception reported: Entity -1 (-1) is invalid
+L 03/27/2025 - 00:50:00: [SM] Blaming: nt_anti_ghosthop.smx
+L 03/27/2025 - 00:50:00: [SM] Call stack trace:
+L 03/27/2025 - 00:50:00: [SM]   [0] GetEntPropString
+L 03/27/2025 - 00:50:00: [SM]   [1] Line 768, entity::GetEntityClassname
+L 03/27/2025 - 00:50:00: [SM]   [2] Line 225, nt_anti_ghosthop.sp::IsGhost
+L 03/27/2025 - 00:50:00: [SM]   [3] Line 234, nt_anti_ghosthop.sp::OnEntityDestroyed
+L 03/27/2025 - 00:53:28: Error log file session closed.
+L 03/27/2025 - 00:57:28: SourceMod error session started
+L 03/27/2025 - 00:57:28: Info (map "nt_array_atk_b3") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250327.log")
+L 03/27/2025 - 00:57:28: [SM] Exception reported: Data pack operation is out of bounds.
+L 03/27/2025 - 00:57:28: [SM] Blaming: nt_fadefix.smx
+L 03/27/2025 - 00:57:28: [SM] Call stack trace:
+L 03/27/2025 - 00:57:28: [SM]   [0] DataPack.ReadCell
+L 03/27/2025 - 00:57:28: [SM]   [1] Line 575, nt_fadefix.sp::Timer_SendModifiedUserMsg
+L 03/27/2025 - 01:00:26: Error log file session closed.
+L 03/27/2025 - 11:17:12: SourceMod error session started
+L 03/27/2025 - 11:17:12: Info (map "nt_tetsu_ctg_b7_proto") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250327.log")
+L 03/27/2025 - 11:17:12: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/27/2025 - 22:04:28: SourceMod error session started
+L 03/27/2025 - 22:04:28: Info (map "nt_tetsu_ctg_b7_proto") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250327.log")
+L 03/27/2025 - 22:04:28: [SM] Exception reported: Client 3 is not in game
+L 03/27/2025 - 22:04:28: [SM] Blaming: nt_comp_xp_printer.smx
+L 03/27/2025 - 22:04:28: [SM] Call stack trace:
+L 03/27/2025 - 22:04:28: [SM]   [0] GetClientFrags
+L 03/27/2025 - 22:04:28: [SM]   [1] Line 139, M:\Server Files\scripting\include\neotokyo.inc::GetPlayerXP
+L 03/27/2025 - 22:04:28: [SM]   [2] Line 18, nt_comp_xp_printer.sp::OnClientDisconnect
+L 03/27/2025 - 22:04:28: [SM] Exception reported: Entity -1 (-1) is invalid
+L 03/27/2025 - 22:04:28: [SM] Blaming: nt_anti_ghosthop.smx
+L 03/27/2025 - 22:04:28: [SM] Call stack trace:
+L 03/27/2025 - 22:04:28: [SM]   [0] GetEntPropString
+L 03/27/2025 - 22:04:28: [SM]   [1] Line 768, entity::GetEntityClassname
+L 03/27/2025 - 22:04:28: [SM]   [2] Line 225, nt_anti_ghosthop.sp::IsGhost
+L 03/27/2025 - 22:04:28: [SM]   [3] Line 234, nt_anti_ghosthop.sp::OnEntityDestroyed
+L 03/27/2025 - 22:08:41: Error log file session closed.
+L 03/27/2025 - 22:41:40: SourceMod error session started
+L 03/27/2025 - 22:41:40: Info (map "nt_tetsu_ctg_b7_proto_v2") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250327.log")
+L 03/27/2025 - 22:41:40: Console detour tried to unhook command "sm_dump_handles" but it wasn't found
+L 03/27/2025 - 22:41:40: Console detour tried to unhook command "sm" but it wasn't found
+L 03/27/2025 - 22:41:40: Console detour tried to unhook command "sm_dump_admcache" but it wasn't found
+L 03/27/2025 - 22:41:40: Console detour tried to unhook command "sm_reload_databases" but it wasn't found
+L 03/27/2025 - 22:41:40: Console detour tried to unhook command "sm_reload_translations" but it wasn't found
+L 03/27/2025 - 22:41:40: Error log file session closed.

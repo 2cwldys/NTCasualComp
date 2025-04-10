@@ -1,0 +1,8 @@
+L 03/12/2025 - 14:00:04: SourceMod error session started
+L 03/12/2025 - 14:00:04: Info (map "nt_dawn_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250312.log")
+L 03/12/2025 - 14:00:04: [SM] Failed to load plugin "nt_flashbang.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 03/12/2025 - 14:37:43: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/12/2025 - 17:47:40: Error log file session closed.
+L 03/12/2025 - 17:47:40: SourceMod error session started
+L 03/12/2025 - 17:47:40: Info (map "nt_veil_ctg_a4f") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250312.log")
+L 03/12/2025 - 17:47:40: [SM] Failed to load plugin "nt_flashbang.smx": Unable to load plugin (unsupported feature set; code is too new).

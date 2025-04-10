@@ -1,0 +1,130 @@
+L 03/10/2025 - 00:27:20: SourceMod error session started
+L 03/10/2025 - 00:27:20: Info (map "nt_tetsu_ctg_b6f") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250310.log")
+L 03/10/2025 - 00:27:20: [SM] Failed to load plugin "nt_flashbang.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 03/10/2025 - 01:01:02: Error log file session closed.
+L 03/10/2025 - 01:01:02: SourceMod error session started
+L 03/10/2025 - 01:01:02: Info (map "nt_rise_ctg_dennov3") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250310.log")
+L 03/10/2025 - 01:01:02: [SM] Failed to load plugin "nt_flashbang.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 03/10/2025 - 01:34:09: Error log file session closed.
+L 03/10/2025 - 01:34:09: SourceMod error session started
+L 03/10/2025 - 01:34:09: Info (map "nt_hebi_ctg_a3") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250310.log")
+L 03/10/2025 - 01:34:09: [SM] Failed to load plugin "nt_flashbang.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 03/10/2025 - 01:34:14: [SM] Exception reported: Client 9 is not in game
+L 03/10/2025 - 01:34:14: [SM] Blaming: nt_comp_xp_printer.smx
+L 03/10/2025 - 01:34:14: [SM] Call stack trace:
+L 03/10/2025 - 01:34:14: [SM]   [0] GetClientFrags
+L 03/10/2025 - 01:34:14: [SM]   [1] Line 139, M:\Server Files\scripting\include\neotokyo.inc::GetPlayerXP
+L 03/10/2025 - 01:34:14: [SM]   [2] Line 18, nt_comp_xp_printer.sp::OnClientDisconnect
+L 03/10/2025 - 01:34:14: [SM] Exception reported: Entity -1 (-1) is invalid
+L 03/10/2025 - 01:34:14: [SM] Blaming: nt_anti_ghosthop.smx
+L 03/10/2025 - 01:34:14: [SM] Call stack trace:
+L 03/10/2025 - 01:34:14: [SM]   [0] GetEntPropString
+L 03/10/2025 - 01:34:14: [SM]   [1] Line 768, entity::GetEntityClassname
+L 03/10/2025 - 01:34:14: [SM]   [2] Line 225, nt_anti_ghosthop.sp::IsGhost
+L 03/10/2025 - 01:34:14: [SM]   [3] Line 234, nt_anti_ghosthop.sp::OnEntityDestroyed
+L 03/10/2025 - 01:34:30: Error log file session closed.
+L 03/10/2025 - 01:34:30: SourceMod error session started
+L 03/10/2025 - 01:34:30: Info (map "nt_hebi_ctg_a4fix") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250310.log")
+L 03/10/2025 - 01:34:30: [SM] Failed to load plugin "nt_flashbang.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 03/10/2025 - 01:52:53: Error log file session closed.
+L 03/10/2025 - 01:52:53: SourceMod error session started
+L 03/10/2025 - 01:52:53: Info (map "nt_oliostain_ctg_b3f5") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250310.log")
+L 03/10/2025 - 01:52:53: [SM] Failed to load plugin "nt_flashbang.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 03/10/2025 - 02:27:54: Error log file session closed.
+L 03/10/2025 - 02:27:54: SourceMod error session started
+L 03/10/2025 - 02:27:54: Info (map "nt_envoy_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250310.log")
+L 03/10/2025 - 02:27:54: [SM] Failed to load plugin "nt_flashbang.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 03/10/2025 - 02:35:35: Error log file session closed.
+L 03/10/2025 - 02:35:35: SourceMod error session started
+L 03/10/2025 - 02:35:35: Info (map "nt_saitama_redux_ctg_a14_c") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250310.log")
+L 03/10/2025 - 02:35:35: [SM] Failed to load plugin "nt_flashbang.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 03/10/2025 - 14:00:05: SourceMod error session started
+L 03/10/2025 - 14:00:05: Info (map "nt_dawn_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250310.log")
+L 03/10/2025 - 14:00:05: [SM] Failed to load plugin "nt_flashbang.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 03/10/2025 - 23:32:44: [SM] Exception reported: Client 10 is not in game
+L 03/10/2025 - 23:32:44: [SM] Blaming: nt_comp_xp_printer.smx
+L 03/10/2025 - 23:32:44: [SM] Call stack trace:
+L 03/10/2025 - 23:32:44: [SM]   [0] GetClientFrags
+L 03/10/2025 - 23:32:44: [SM]   [1] Line 139, M:\Server Files\scripting\include\neotokyo.inc::GetPlayerXP
+L 03/10/2025 - 23:32:44: [SM]   [2] Line 18, nt_comp_xp_printer.sp::OnClientDisconnect
+L 03/10/2025 - 23:32:44: [SM] Exception reported: Entity -1 (-1) is invalid
+L 03/10/2025 - 23:32:44: [SM] Blaming: nt_anti_ghosthop.smx
+L 03/10/2025 - 23:32:44: [SM] Call stack trace:
+L 03/10/2025 - 23:32:44: [SM]   [0] GetEntPropString
+L 03/10/2025 - 23:32:44: [SM]   [1] Line 768, entity::GetEntityClassname
+L 03/10/2025 - 23:32:44: [SM]   [2] Line 225, nt_anti_ghosthop.sp::IsGhost
+L 03/10/2025 - 23:32:44: [SM]   [3] Line 234, nt_anti_ghosthop.sp::OnEntityDestroyed
+L 03/10/2025 - 23:32:44: Error log file session closed.
+L 03/10/2025 - 23:32:44: SourceMod error session started
+L 03/10/2025 - 23:32:44: Info (map "nt_hebi_ctg_a3") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250310.log")
+L 03/10/2025 - 23:32:44: [SM] Failed to load plugin "nt_flashbang.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 03/10/2025 - 23:32:46: [SM] Exception reported: Client 3 is not in game
+L 03/10/2025 - 23:32:46: [SM] Blaming: nt_comp_xp_printer.smx
+L 03/10/2025 - 23:32:46: [SM] Call stack trace:
+L 03/10/2025 - 23:32:46: [SM]   [0] GetClientFrags
+L 03/10/2025 - 23:32:46: [SM]   [1] Line 139, M:\Server Files\scripting\include\neotokyo.inc::GetPlayerXP
+L 03/10/2025 - 23:32:46: [SM]   [2] Line 18, nt_comp_xp_printer.sp::OnClientDisconnect
+L 03/10/2025 - 23:32:46: [SM] Exception reported: Entity -1 (-1) is invalid
+L 03/10/2025 - 23:32:46: [SM] Blaming: nt_anti_ghosthop.smx
+L 03/10/2025 - 23:32:46: [SM] Call stack trace:
+L 03/10/2025 - 23:32:46: [SM]   [0] GetEntPropString
+L 03/10/2025 - 23:32:46: [SM]   [1] Line 768, entity::GetEntityClassname
+L 03/10/2025 - 23:32:46: [SM]   [2] Line 225, nt_anti_ghosthop.sp::IsGhost
+L 03/10/2025 - 23:32:46: [SM]   [3] Line 234, nt_anti_ghosthop.sp::OnEntityDestroyed
+L 03/10/2025 - 23:33:03: [SM] Exception reported: Client 4 is not in game
+L 03/10/2025 - 23:33:03: [SM] Blaming: nt_comp_xp_printer.smx
+L 03/10/2025 - 23:33:03: [SM] Call stack trace:
+L 03/10/2025 - 23:33:03: [SM]   [0] GetClientFrags
+L 03/10/2025 - 23:33:03: [SM]   [1] Line 139, M:\Server Files\scripting\include\neotokyo.inc::GetPlayerXP
+L 03/10/2025 - 23:33:03: [SM]   [2] Line 18, nt_comp_xp_printer.sp::OnClientDisconnect
+L 03/10/2025 - 23:33:03: [SM] Exception reported: Entity -1 (-1) is invalid
+L 03/10/2025 - 23:33:03: [SM] Blaming: nt_anti_ghosthop.smx
+L 03/10/2025 - 23:33:03: [SM] Call stack trace:
+L 03/10/2025 - 23:33:03: [SM]   [0] GetEntPropString
+L 03/10/2025 - 23:33:03: [SM]   [1] Line 768, entity::GetEntityClassname
+L 03/10/2025 - 23:33:03: [SM]   [2] Line 225, nt_anti_ghosthop.sp::IsGhost
+L 03/10/2025 - 23:33:03: [SM]   [3] Line 234, nt_anti_ghosthop.sp::OnEntityDestroyed
+L 03/10/2025 - 23:33:03: [SM] Exception reported: Client 9 is not in game
+L 03/10/2025 - 23:33:03: [SM] Blaming: nt_comp_xp_printer.smx
+L 03/10/2025 - 23:33:03: [SM] Call stack trace:
+L 03/10/2025 - 23:33:03: [SM]   [0] GetClientFrags
+L 03/10/2025 - 23:33:03: [SM]   [1] Line 139, M:\Server Files\scripting\include\neotokyo.inc::GetPlayerXP
+L 03/10/2025 - 23:33:03: [SM]   [2] Line 18, nt_comp_xp_printer.sp::OnClientDisconnect
+L 03/10/2025 - 23:33:03: [SM] Exception reported: Entity -1 (-1) is invalid
+L 03/10/2025 - 23:33:03: [SM] Blaming: nt_anti_ghosthop.smx
+L 03/10/2025 - 23:33:03: [SM] Call stack trace:
+L 03/10/2025 - 23:33:03: [SM]   [0] GetEntPropString
+L 03/10/2025 - 23:33:03: [SM]   [1] Line 768, entity::GetEntityClassname
+L 03/10/2025 - 23:33:03: [SM]   [2] Line 225, nt_anti_ghosthop.sp::IsGhost
+L 03/10/2025 - 23:33:03: [SM]   [3] Line 234, nt_anti_ghosthop.sp::OnEntityDestroyed
+L 03/10/2025 - 23:33:03: Error log file session closed.
+L 03/10/2025 - 23:33:03: SourceMod error session started
+L 03/10/2025 - 23:33:03: Info (map "nt_hebi_ctg_a4fix") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250310.log")
+L 03/10/2025 - 23:33:03: [SM] Failed to load plugin "nt_flashbang.smx": Unable to load plugin (unsupported feature set; code is too new).
+L 03/10/2025 - 23:34:10: [SM] Exception reported: Client 9 is not in game
+L 03/10/2025 - 23:34:10: [SM] Blaming: nt_comp_xp_printer.smx
+L 03/10/2025 - 23:34:10: [SM] Call stack trace:
+L 03/10/2025 - 23:34:10: [SM]   [0] GetClientFrags
+L 03/10/2025 - 23:34:10: [SM]   [1] Line 139, M:\Server Files\scripting\include\neotokyo.inc::GetPlayerXP
+L 03/10/2025 - 23:34:10: [SM]   [2] Line 18, nt_comp_xp_printer.sp::OnClientDisconnect
+L 03/10/2025 - 23:34:10: [SM] Exception reported: Entity -1 (-1) is invalid
+L 03/10/2025 - 23:34:10: [SM] Blaming: nt_anti_ghosthop.smx
+L 03/10/2025 - 23:34:10: [SM] Call stack trace:
+L 03/10/2025 - 23:34:10: [SM]   [0] GetEntPropString
+L 03/10/2025 - 23:34:10: [SM]   [1] Line 768, entity::GetEntityClassname
+L 03/10/2025 - 23:34:10: [SM]   [2] Line 225, nt_anti_ghosthop.sp::IsGhost
+L 03/10/2025 - 23:34:10: [SM]   [3] Line 234, nt_anti_ghosthop.sp::OnEntityDestroyed
+L 03/10/2025 - 23:37:55: [SM] Exception reported: Client 12 is not in game
+L 03/10/2025 - 23:37:55: [SM] Blaming: nt_comp_xp_printer.smx
+L 03/10/2025 - 23:37:55: [SM] Call stack trace:
+L 03/10/2025 - 23:37:55: [SM]   [0] GetClientFrags
+L 03/10/2025 - 23:37:55: [SM]   [1] Line 139, M:\Server Files\scripting\include\neotokyo.inc::GetPlayerXP
+L 03/10/2025 - 23:37:55: [SM]   [2] Line 18, nt_comp_xp_printer.sp::OnClientDisconnect
+L 03/10/2025 - 23:37:55: [SM] Exception reported: Entity -1 (-1) is invalid
+L 03/10/2025 - 23:37:55: [SM] Blaming: nt_anti_ghosthop.smx
+L 03/10/2025 - 23:37:55: [SM] Call stack trace:
+L 03/10/2025 - 23:37:55: [SM]   [0] GetEntPropString
+L 03/10/2025 - 23:37:55: [SM]   [1] Line 768, entity::GetEntityClassname
+L 03/10/2025 - 23:37:55: [SM]   [2] Line 225, nt_anti_ghosthop.sp::IsGhost
+L 03/10/2025 - 23:37:55: [SM]   [3] Line 234, nt_anti_ghosthop.sp::OnEntityDestroyed
+L 03/11/2025 - 00:16:13: Error log file session closed.

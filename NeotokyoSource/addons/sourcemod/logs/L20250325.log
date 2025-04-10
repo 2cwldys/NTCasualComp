@@ -1,0 +1,127 @@
+L 03/25/2025 - 00:18:42: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250325.log") (Version "1.11.0.6939")
+L 03/25/2025 - 00:18:42: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/25/2025 - 00:18:42: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/25/2025 - 00:19:16: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_ballistremade_ctg_a16.
+L 03/25/2025 - 00:19:18: [SM] Changed map to "nt_ballistremade_ctg_a16"
+L 03/25/2025 - 00:19:19: -------- Mapchange to nt_ballistremade_ctg_a16 --------
+L 03/25/2025 - 00:19:57: [basecommands.smx] "Door<2><STEAM_0:0:19204218><>" changed map to "nt_ballistremade_ctg_a20"
+L 03/25/2025 - 00:20:00: [SM] Changed map to "nt_ballistremade_ctg_a20"
+L 03/25/2025 - 00:20:00: -------- Mapchange to nt_ballistremade_ctg_a20 --------
+L 03/25/2025 - 00:27:18: [basecommands.smx] "Door<2><STEAM_0:0:19204218><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/25/2025 - 00:49:17: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/25/2025 - 00:49:17: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/25/2025 - 00:49:51: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_snowfall_ctg_b12.
+L 03/25/2025 - 00:49:53: [SM] Changed map to "nt_snowfall_ctg_b12"
+L 03/25/2025 - 00:49:54: -------- Mapchange to nt_snowfall_ctg_b12 --------
+L 03/25/2025 - 01:03:19: [basecommands.smx] "Door<2><STEAM_0:0:19204218><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/25/2025 - 01:31:35: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/25/2025 - 01:31:35: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/25/2025 - 01:32:08: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_fleshworld_redux_ctg_b2.
+L 03/25/2025 - 01:32:10: [SM] Changed map to "nt_fleshworld_redux_ctg_b2"
+L 03/25/2025 - 01:32:11: -------- Mapchange to nt_fleshworld_redux_ctg_b2 --------
+L 03/25/2025 - 01:34:25: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/25/2025 - 01:34:25: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/25/2025 - 01:34:58: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_ridgeline_ctg.
+L 03/25/2025 - 01:35:00: [SM] Changed map to "nt_ridgeline_ctg"
+L 03/25/2025 - 01:35:02: -------- Mapchange to nt_ridgeline_ctg --------
+L 03/25/2025 - 01:51:17: [basecommands.smx] "Door<2><STEAM_0:0:19204218><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/25/2025 - 02:22:09: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/25/2025 - 02:22:09: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/25/2025 - 02:22:43: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_bullet_ctg_2caps.
+L 03/25/2025 - 02:22:45: [SM] Changed map to "nt_bullet_ctg_2caps"
+L 03/25/2025 - 02:22:45: -------- Mapchange to nt_bullet_ctg_2caps --------
+L 03/25/2025 - 02:23:12: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/25/2025 - 02:23:12: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/25/2025 - 02:23:45: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_rise_ctg_dennov3.
+L 03/25/2025 - 02:23:47: [SM] Changed map to "nt_rise_ctg_dennov3"
+L 03/25/2025 - 02:23:48: -------- Mapchange to nt_rise_ctg_dennov3 --------
+L 03/25/2025 - 02:28:43: [basecommands.smx] "Door<2><STEAM_0:0:19204218><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/25/2025 - 03:03:39: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/25/2025 - 03:03:39: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/25/2025 - 03:04:12: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_rogue_ctg_b4.
+L 03/25/2025 - 03:04:14: [SM] Changed map to "nt_rogue_ctg_b4"
+L 03/25/2025 - 03:04:14: -------- Mapchange to nt_rogue_ctg_b4 --------
+L 03/25/2025 - 03:11:57: [basecommands.smx] "Door<2><STEAM_0:0:19204218><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/25/2025 - 03:31:34: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/25/2025 - 03:31:34: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/25/2025 - 03:32:07: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_envoy_ctg.
+L 03/25/2025 - 03:32:09: [SM] Changed map to "nt_envoy_ctg"
+L 03/25/2025 - 03:32:10: -------- Mapchange to nt_envoy_ctg --------
+L 03/25/2025 - 03:43:48: [basecommands.smx] "Door<2><STEAM_0:0:19204218><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/25/2025 - 04:28:10: [basecommands.smx] "bauxite<30><STEAM_0:0:5757747><>" console command (cmdline "_restart")
+L 03/25/2025 - 04:28:11: Log file closed.
+L 03/25/2025 - 04:30:07: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250325.log") (Version "1.11.0.6939")
+L 03/25/2025 - 04:30:07: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed cvar (cvar "sv_cheats") (value "1")
+L 03/25/2025 - 04:37:16: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "_restart")
+L 03/25/2025 - 04:37:16: Log file closed.
+L 03/25/2025 - 04:38:15: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250325.log") (Version "1.11.0.6939")
+L 03/25/2025 - 04:38:15: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed cvar (cvar "sv_cheats") (value "1")
+L 03/25/2025 - 04:39:07: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "bot_mimic 1")
+L 03/25/2025 - 04:39:08: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "bot_mimic 2")
+L 03/25/2025 - 04:39:12: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed cvar (cvar "sm_nt_wincond_ghost_hold_reward") (value "1")
+L 03/25/2025 - 04:39:32: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed cvar (cvar "sm_nt_wincond_ghost_hold_reward") (value "0")
+L 03/25/2025 - 05:03:52: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "_restart")
+L 03/25/2025 - 05:03:52: Log file closed.
+L 03/25/2025 - 21:14:13: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250325.log") (Version "1.11.0.6939")
+L 03/25/2025 - 21:14:13: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed map to "nt_ttk_a1"
+L 03/25/2025 - 21:14:17: [SM] Changed map to "nt_ttk_a1"
+L 03/25/2025 - 21:14:17: -------- Mapchange to nt_ttk_a1 --------
+L 03/25/2025 - 21:14:48: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed cvar (cvar "sv_cheats") (value "1")
+L 03/25/2025 - 21:15:20: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed cvar (cvar "sv_suppress_viewpunch") (value "1")
+L 03/25/2025 - 21:28:51: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "bot_mimic 1")
+L 03/25/2025 - 21:30:06: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "bot_mimic 1")
+L 03/25/2025 - 21:31:28: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "bot_mimic 1")
+L 03/25/2025 - 21:32:29: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "_restart")
+L 03/25/2025 - 21:32:29: Log file closed.
+L 03/25/2025 - 22:10:51: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250325.log") (Version "1.11.0.6939")
+L 03/25/2025 - 22:10:51: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "_restart")
+L 03/25/2025 - 22:10:52: Log file closed.
+L 03/25/2025 - 22:12:02: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250325.log") (Version "1.11.0.6939")
+L 03/25/2025 - 22:12:02: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed map to "nt_ttk_a1"
+L 03/25/2025 - 22:12:05: [SM] Changed map to "nt_ttk_a1"
+L 03/25/2025 - 22:12:05: -------- Mapchange to nt_ttk_a1 --------
+L 03/25/2025 - 22:12:28: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "sv_cheats 1")
+L 03/25/2025 - 22:17:04: [playercommands.smx] "bauxite<16><STEAM_0:0:5757747><>" slayed "<4><BOT><>"
+L 03/25/2025 - 22:17:04: [playercommands.smx] "bauxite<16><STEAM_0:0:5757747><>" slayed "<5><BOT><>"
+L 03/25/2025 - 22:17:04: [playercommands.smx] "bauxite<16><STEAM_0:0:5757747><>" slayed "<6><BOT><>"
+L 03/25/2025 - 22:17:04: [playercommands.smx] "bauxite<16><STEAM_0:0:5757747><>" slayed "<7><BOT><>"
+L 03/25/2025 - 22:17:04: [playercommands.smx] "bauxite<16><STEAM_0:0:5757747><>" slayed "<8><BOT><>"
+L 03/25/2025 - 22:17:04: [playercommands.smx] "bauxite<16><STEAM_0:0:5757747><>" slayed "<9><BOT><>"
+L 03/25/2025 - 22:17:04: [playercommands.smx] "bauxite<16><STEAM_0:0:5757747><>" slayed "<10><BOT><>"
+L 03/25/2025 - 22:17:04: [playercommands.smx] "bauxite<16><STEAM_0:0:5757747><>" slayed "<11><BOT><>"
+L 03/25/2025 - 22:17:04: [playercommands.smx] "bauxite<16><STEAM_0:0:5757747><>" slayed "<12><BOT><>"
+L 03/25/2025 - 22:17:04: [playercommands.smx] "bauxite<16><STEAM_0:0:5757747><>" slayed "<13><BOT><>"
+L 03/25/2025 - 22:17:04: [playercommands.smx] "bauxite<16><STEAM_0:0:5757747><>" slayed "<14><BOT><>"
+L 03/25/2025 - 22:17:04: [playercommands.smx] "bauxite<16><STEAM_0:0:5757747><>" slayed "<15><BOT><>"
+L 03/25/2025 - 22:17:37: [basecommands.smx] "bauxite<16><STEAM_0:0:5757747><>" kicked "SourceTV<3><BOT><>" (reason "")
+L 03/25/2025 - 22:17:37: [basecommands.smx] "bauxite<16><STEAM_0:0:5757747><>" kicked "<4><BOT><>" (reason "")
+L 03/25/2025 - 22:17:37: [basecommands.smx] "bauxite<16><STEAM_0:0:5757747><>" kicked "<5><BOT><>" (reason "")
+L 03/25/2025 - 22:17:37: [basecommands.smx] "bauxite<16><STEAM_0:0:5757747><>" kicked "<6><BOT><>" (reason "")
+L 03/25/2025 - 22:17:37: [basecommands.smx] "bauxite<16><STEAM_0:0:5757747><>" kicked "<7><BOT><>" (reason "")
+L 03/25/2025 - 22:17:37: [basecommands.smx] "bauxite<16><STEAM_0:0:5757747><>" kicked "<8><BOT><>" (reason "")
+L 03/25/2025 - 22:17:37: [basecommands.smx] "bauxite<16><STEAM_0:0:5757747><>" kicked "<9><BOT><>" (reason "")
+L 03/25/2025 - 22:17:37: [basecommands.smx] "bauxite<16><STEAM_0:0:5757747><>" kicked "<10><BOT><>" (reason "")
+L 03/25/2025 - 22:17:37: [basecommands.smx] "bauxite<16><STEAM_0:0:5757747><>" kicked "<11><BOT><>" (reason "")
+L 03/25/2025 - 22:17:37: [basecommands.smx] "bauxite<16><STEAM_0:0:5757747><>" kicked "<12><BOT><>" (reason "")
+L 03/25/2025 - 22:17:37: [basecommands.smx] "bauxite<16><STEAM_0:0:5757747><>" kicked "<13><BOT><>" (reason "")
+L 03/25/2025 - 22:17:37: [basecommands.smx] "bauxite<16><STEAM_0:0:5757747><>" kicked "<14><BOT><>" (reason "")
+L 03/25/2025 - 22:17:37: [basecommands.smx] "bauxite<16><STEAM_0:0:5757747><>" kicked "<15><BOT><>" (reason "")
+L 03/25/2025 - 22:18:53: [basecommands.smx] "bauxite<16><STEAM_0:0:5757747><>" console command (cmdline "_restart")
+L 03/25/2025 - 22:18:53: Log file closed.
+L 03/25/2025 - 22:47:57: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250325.log") (Version "1.11.0.6939")
+L 03/25/2025 - 22:47:57: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "_restart")
+L 03/25/2025 - 22:47:57: Log file closed.
+L 03/25/2025 - 23:04:49: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250325.log") (Version "1.11.0.6939")
+L 03/25/2025 - 23:04:49: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/25/2025 - 23:04:49: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/25/2025 - 23:05:22: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_culvert_ctg_b4.
+L 03/25/2025 - 23:05:24: [SM] Changed map to "nt_culvert_ctg_b4"
+L 03/25/2025 - 23:05:25: -------- Mapchange to nt_culvert_ctg_b4 --------
+L 03/25/2025 - 23:17:12: [basecommands.smx] "Door<2><STEAM_0:0:19204218><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/25/2025 - 23:45:18: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/25/2025 - 23:45:18: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/25/2025 - 23:45:52: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_tetsu_ctg_b7_proto.
+L 03/25/2025 - 23:45:54: [SM] Changed map to "nt_tetsu_ctg_b7_proto"
+L 03/25/2025 - 23:45:55: -------- Mapchange to nt_tetsu_ctg_b7_proto --------
+L 03/25/2025 - 23:55:37: [basecommands.smx] "Door<14><STEAM_0:0:19204218><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/26/2025 - 00:26:45: Log file closed.

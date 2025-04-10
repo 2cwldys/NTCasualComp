@@ -1,0 +1,14 @@
+L 04/01/2025 - 01:43:10: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250401.log") (Version "1.11.0.6939")
+L 04/01/2025 - 01:43:10: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "sm plugins load pth")
+L 04/01/2025 - 01:43:44: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "_restart")
+L 04/01/2025 - 01:43:44: Log file closed.
+L 04/01/2025 - 01:52:24: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250401.log") (Version "1.11.0.6939")
+L 04/01/2025 - 01:52:24: [basecommands.smx] "bauxite<3><STEAM_0:0:5757747><>" console command (cmdline "sm plugins unload pth")
+L 04/01/2025 - 01:52:27: [basecommands.smx] "bauxite<3><STEAM_0:0:5757747><>" console command (cmdline "sm plugins load pth")
+L 04/01/2025 - 01:54:35: [basecommands.smx] "bauxite<3><STEAM_0:0:5757747><>" console command (cmdline "sm plugins unload pth")
+L 04/01/2025 - 01:54:37: [basecommands.smx] "bauxite<3><STEAM_0:0:5757747><>" console command (cmdline "sm plugins load pth")
+L 04/01/2025 - 02:55:42: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250401.log") (Version "1.11.0.6939")
+L 04/01/2025 - 02:55:42: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "sm plugins unload pth")
+L 04/01/2025 - 02:55:45: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "sm plugins load pth")
+L 04/01/2025 - 04:43:13: [basecommands.smx] "bauxite<3><STEAM_0:0:5757747><>" console command (cmdline "_restart")
+L 04/01/2025 - 04:43:14: Log file closed.

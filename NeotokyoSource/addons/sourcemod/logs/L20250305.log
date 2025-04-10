@@ -1,0 +1,24 @@
+L 03/05/2025 - 00:20:31: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250305.log") (Version "1.11.0.6939")
+L 03/05/2025 - 00:20:31: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/05/2025 - 00:20:31: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/05/2025 - 00:21:05: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_snowfall_ctg_b12.
+L 03/05/2025 - 00:21:07: [SM] Changed map to "nt_snowfall_ctg_b12"
+L 03/05/2025 - 00:21:08: -------- Mapchange to nt_snowfall_ctg_b12 --------
+L 03/05/2025 - 00:28:15: [basecommands.smx] "Door<33><STEAM_0:0:19204218><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/05/2025 - 00:50:45: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/05/2025 - 00:50:45: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/05/2025 - 00:51:04: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_culvert_ctg_b4.
+L 03/05/2025 - 00:51:06: [SM] Changed map to "nt_culvert_ctg_b4"
+L 03/05/2025 - 00:51:07: -------- Mapchange to nt_culvert_ctg_b4 --------
+L 03/05/2025 - 00:55:00: [basecommands.smx] "bauxite<47><STEAM_0:0:5757747><>" changed map to "nt_culvert_ctg_b4"
+L 03/05/2025 - 00:55:03: [SM] Changed map to "nt_culvert_ctg_b4"
+L 03/05/2025 - 00:55:03: -------- Mapchange to nt_culvert_ctg_b4 --------
+L 03/05/2025 - 00:55:30: [basecommands.smx] "bauxite<47><STEAM_0:0:5757747><>" console command (cmdline "sm plugins info dcomp")
+L 03/05/2025 - 00:57:11: [basecommands.smx] "Door<43><STEAM_0:0:19204218><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/05/2025 - 23:51:33: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250305.log") (Version "1.11.0.6939")
+L 03/05/2025 - 23:51:33: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/05/2025 - 23:51:33: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/05/2025 - 23:52:07: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_rise_ctg_dennov3.
+L 03/05/2025 - 23:52:09: [SM] Changed map to "nt_rise_ctg_dennov3"
+L 03/05/2025 - 23:52:10: -------- Mapchange to nt_rise_ctg_dennov3 --------
+L 03/06/2025 - 00:00:24: Log file closed.

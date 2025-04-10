@@ -1,0 +1,44 @@
+// Advertisements 2.1
+// by Tsunami
+//
+// Types
+// -----
+// center: Center message
+// chat: Chat message
+// hint: Hint message
+// menu: Menu message
+// top: Top message
+//
+// Flags (optional)
+// -----
+// Accepts flags of admins that will not see the advertisement.
+// When omitted everyone will see the advertisement.
+// When left empty only admins will see the advertisement.
+
+"Advertisements"
+{
+    "1"
+    {
+        "chat"			"!motd for all info - Map: {currentmap}"
+    }
+    "2"
+    {
+        "chat"			"!ready to ready up"
+    }
+    "3"
+    {
+        "chat"			"!start on both teams if you do not have 10 players"
+    }
+    "4"
+    {
+        "chat"			"!readylist to show who's ready"
+    }
+    "5"
+    {
+        "chat"			"!veto to veto map votes"
+    }
+    "6"
+    {
+        "chat"			"Competitive softbans are fully enforced. Please remain in server until the LIVE match ends."
+    }
+}

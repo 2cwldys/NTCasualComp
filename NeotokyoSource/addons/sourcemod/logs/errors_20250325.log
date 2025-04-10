@@ -1,0 +1,604 @@
+L 03/25/2025 - 00:20:00: SourceMod error session started
+L 03/25/2025 - 00:20:00: Info (map "nt_ballistremade_ctg_a16") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250325.log")
+L 03/25/2025 - 00:20:00: [SM] Exception reported: Client 3 is not in game
+L 03/25/2025 - 00:20:00: [SM] Blaming: nt_comp_xp_printer.smx
+L 03/25/2025 - 00:20:00: [SM] Call stack trace:
+L 03/25/2025 - 00:20:00: [SM]   [0] GetClientFrags
+L 03/25/2025 - 00:20:00: [SM]   [1] Line 139, M:\Server Files\scripting\include\neotokyo.inc::GetPlayerXP
+L 03/25/2025 - 00:20:00: [SM]   [2] Line 18, nt_comp_xp_printer.sp::OnClientDisconnect
+L 03/25/2025 - 00:20:00: [SM] Exception reported: Entity -1 (-1) is invalid
+L 03/25/2025 - 00:20:00: [SM] Blaming: nt_anti_ghosthop.smx
+L 03/25/2025 - 00:20:00: [SM] Call stack trace:
+L 03/25/2025 - 00:20:00: [SM]   [0] GetEntPropString
+L 03/25/2025 - 00:20:00: [SM]   [1] Line 768, entity::GetEntityClassname
+L 03/25/2025 - 00:20:00: [SM]   [2] Line 225, nt_anti_ghosthop.sp::IsGhost
+L 03/25/2025 - 00:20:00: [SM]   [3] Line 234, nt_anti_ghosthop.sp::OnEntityDestroyed
+L 03/25/2025 - 00:20:00: [SM] Exception reported: Client 8 is not in game
+L 03/25/2025 - 00:20:00: [SM] Blaming: nt_comp_xp_printer.smx
+L 03/25/2025 - 00:20:00: [SM] Call stack trace:
+L 03/25/2025 - 00:20:00: [SM]   [0] GetClientFrags
+L 03/25/2025 - 00:20:00: [SM]   [1] Line 139, M:\Server Files\scripting\include\neotokyo.inc::GetPlayerXP
+L 03/25/2025 - 00:20:00: [SM]   [2] Line 18, nt_comp_xp_printer.sp::OnClientDisconnect
+L 03/25/2025 - 00:20:00: [SM] Exception reported: Entity -1 (-1) is invalid
+L 03/25/2025 - 00:20:00: [SM] Blaming: nt_anti_ghosthop.smx
+L 03/25/2025 - 00:20:00: [SM] Call stack trace:
+L 03/25/2025 - 00:20:00: [SM]   [0] GetEntPropString
+L 03/25/2025 - 00:20:00: [SM]   [1] Line 768, entity::GetEntityClassname
+L 03/25/2025 - 00:20:00: [SM]   [2] Line 225, nt_anti_ghosthop.sp::IsGhost
+L 03/25/2025 - 00:20:00: [SM]   [3] Line 234, nt_anti_ghosthop.sp::OnEntityDestroyed
+L 03/25/2025 - 00:20:00: Error log file session closed.
+L 03/25/2025 - 04:28:11: SourceMod error session started
+L 03/25/2025 - 04:28:11: Info (map "nt_envoy_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250325.log")
+L 03/25/2025 - 04:28:11: Console detour tried to unhook command "sm_dump_handles" but it wasn't found
+L 03/25/2025 - 04:28:11: Console detour tried to unhook command "sm" but it wasn't found
+L 03/25/2025 - 04:28:11: Console detour tried to unhook command "sm_dump_admcache" but it wasn't found
+L 03/25/2025 - 04:28:11: Console detour tried to unhook command "sm_reload_databases" but it wasn't found
+L 03/25/2025 - 04:28:11: Console detour tried to unhook command "sm_reload_translations" but it wasn't found
+L 03/25/2025 - 04:28:11: Error log file session closed.
+L 03/25/2025 - 04:37:16: SourceMod error session started
+L 03/25/2025 - 04:37:16: Info (map "nt_dawn_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250325.log")
+L 03/25/2025 - 04:37:16: Console detour tried to unhook command "sm_dump_handles" but it wasn't found
+L 03/25/2025 - 04:37:16: Console detour tried to unhook command "sm" but it wasn't found
+L 03/25/2025 - 04:37:16: Console detour tried to unhook command "sm_dump_admcache" but it wasn't found
+L 03/25/2025 - 04:37:16: Console detour tried to unhook command "sm_reload_databases" but it wasn't found
+L 03/25/2025 - 04:37:16: Console detour tried to unhook command "sm_reload_translations" but it wasn't found
+L 03/25/2025 - 04:37:16: Error log file session closed.
+L 03/25/2025 - 05:03:52: SourceMod error session started
+L 03/25/2025 - 05:03:52: Info (map "nt_dawn_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250325.log")
+L 03/25/2025 - 05:03:52: Console detour tried to unhook command "sm_dump_handles" but it wasn't found
+L 03/25/2025 - 05:03:52: Console detour tried to unhook command "sm" but it wasn't found
+L 03/25/2025 - 05:03:52: Console detour tried to unhook command "sm_dump_admcache" but it wasn't found
+L 03/25/2025 - 05:03:52: Console detour tried to unhook command "sm_reload_databases" but it wasn't found
+L 03/25/2025 - 05:03:52: Console detour tried to unhook command "sm_reload_translations" but it wasn't found
+L 03/25/2025 - 05:03:52: Error log file session closed.
+L 03/25/2025 - 09:40:25: SourceMod error session started
+L 03/25/2025 - 09:40:25: Info (map "nt_dawn_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250325.log")
+L 03/25/2025 - 09:40:25: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/25/2025 - 09:40:35: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/25/2025 - 09:40:46: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/25/2025 - 15:29:21: SourceMod error session started
+L 03/25/2025 - 15:29:21: Info (map "nt_dawn_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250325.log")
+L 03/25/2025 - 15:29:21: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/25/2025 - 21:14:17: Error log file session closed.
+L 03/25/2025 - 21:32:29: SourceMod error session started
+L 03/25/2025 - 21:32:29: Info (map "nt_ttk_a1") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250325.log")
+L 03/25/2025 - 21:32:29: Console detour tried to unhook command "sm_dump_handles" but it wasn't found
+L 03/25/2025 - 21:32:29: Console detour tried to unhook command "sm" but it wasn't found
+L 03/25/2025 - 21:32:29: Console detour tried to unhook command "sm_dump_admcache" but it wasn't found
+L 03/25/2025 - 21:32:29: Console detour tried to unhook command "sm_reload_databases" but it wasn't found
+L 03/25/2025 - 21:32:29: Console detour tried to unhook command "sm_reload_translations" but it wasn't found
+L 03/25/2025 - 21:32:29: Error log file session closed.
+L 03/25/2025 - 22:10:52: SourceMod error session started
+L 03/25/2025 - 22:10:52: Info (map "nt_dawn_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250325.log")
+L 03/25/2025 - 22:10:52: Console detour tried to unhook command "sm_dump_handles" but it wasn't found
+L 03/25/2025 - 22:10:52: Console detour tried to unhook command "sm" but it wasn't found
+L 03/25/2025 - 22:10:52: Console detour tried to unhook command "sm_dump_admcache" but it wasn't found
+L 03/25/2025 - 22:10:52: Console detour tried to unhook command "sm_reload_databases" but it wasn't found
+L 03/25/2025 - 22:10:52: Console detour tried to unhook command "sm_reload_translations" but it wasn't found
+L 03/25/2025 - 22:10:52: Error log file session closed.
+L 03/25/2025 - 22:12:41: SourceMod error session started
+L 03/25/2025 - 22:12:41: Info (map "nt_ttk_a1") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250325.log")
+L 03/25/2025 - 22:12:41: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 1/player)
+L 03/25/2025 - 22:12:41: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:12:41: [SM] Call stack trace:
+L 03/25/2025 - 22:12:41: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:12:41: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:12:58: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 3/player)
+L 03/25/2025 - 22:12:58: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:12:58: [SM] Call stack trace:
+L 03/25/2025 - 22:12:58: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:12:58: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:12:58: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 4/player)
+L 03/25/2025 - 22:12:58: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:12:58: [SM] Call stack trace:
+L 03/25/2025 - 22:12:58: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:12:58: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:12:58: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 5/player)
+L 03/25/2025 - 22:12:58: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:12:58: [SM] Call stack trace:
+L 03/25/2025 - 22:12:58: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:12:58: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:12:58: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 6/player)
+L 03/25/2025 - 22:12:58: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:12:58: [SM] Call stack trace:
+L 03/25/2025 - 22:12:58: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:12:58: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:12:58: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 7/player)
+L 03/25/2025 - 22:12:58: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:12:58: [SM] Call stack trace:
+L 03/25/2025 - 22:12:58: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:12:58: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:12:58: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 8/player)
+L 03/25/2025 - 22:12:58: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:12:58: [SM] Call stack trace:
+L 03/25/2025 - 22:12:58: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:12:58: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:12:58: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 9/player)
+L 03/25/2025 - 22:12:58: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:12:58: [SM] Call stack trace:
+L 03/25/2025 - 22:12:58: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:12:58: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:12:58: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 10/player)
+L 03/25/2025 - 22:12:58: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:12:58: [SM] Call stack trace:
+L 03/25/2025 - 22:12:58: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:12:58: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:12:58: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 11/player)
+L 03/25/2025 - 22:12:58: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:12:58: [SM] Call stack trace:
+L 03/25/2025 - 22:12:58: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:12:58: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:12:58: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 12/player)
+L 03/25/2025 - 22:12:58: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:12:58: [SM] Call stack trace:
+L 03/25/2025 - 22:12:58: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:12:58: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:12:58: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 13/player)
+L 03/25/2025 - 22:12:58: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:12:58: [SM] Call stack trace:
+L 03/25/2025 - 22:12:58: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:12:58: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:12:58: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 14/player)
+L 03/25/2025 - 22:12:58: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:12:58: [SM] Call stack trace:
+L 03/25/2025 - 22:12:58: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:12:58: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:13:17: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 1/player)
+L 03/25/2025 - 22:13:17: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:13:17: [SM] Call stack trace:
+L 03/25/2025 - 22:13:17: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:13:17: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:13:43: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 3/player)
+L 03/25/2025 - 22:13:43: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:13:43: [SM] Call stack trace:
+L 03/25/2025 - 22:13:43: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:13:43: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:13:43: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 4/player)
+L 03/25/2025 - 22:13:43: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:13:43: [SM] Call stack trace:
+L 03/25/2025 - 22:13:43: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:13:43: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:13:43: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 5/player)
+L 03/25/2025 - 22:13:43: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:13:43: [SM] Call stack trace:
+L 03/25/2025 - 22:13:43: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:13:43: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:13:43: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 6/player)
+L 03/25/2025 - 22:13:43: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:13:43: [SM] Call stack trace:
+L 03/25/2025 - 22:13:43: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:13:43: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:13:43: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 7/player)
+L 03/25/2025 - 22:13:43: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:13:43: [SM] Call stack trace:
+L 03/25/2025 - 22:13:43: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:13:43: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:13:43: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 8/player)
+L 03/25/2025 - 22:13:43: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:13:43: [SM] Call stack trace:
+L 03/25/2025 - 22:13:43: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:13:43: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:13:43: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 9/player)
+L 03/25/2025 - 22:13:43: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:13:43: [SM] Call stack trace:
+L 03/25/2025 - 22:13:43: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:13:43: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:13:43: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 10/player)
+L 03/25/2025 - 22:13:43: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:13:43: [SM] Call stack trace:
+L 03/25/2025 - 22:13:43: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:13:43: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:13:43: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 11/player)
+L 03/25/2025 - 22:13:43: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:13:43: [SM] Call stack trace:
+L 03/25/2025 - 22:13:43: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:13:43: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:13:43: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 12/player)
+L 03/25/2025 - 22:13:43: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:13:43: [SM] Call stack trace:
+L 03/25/2025 - 22:13:43: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:13:43: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:13:43: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 13/player)
+L 03/25/2025 - 22:13:43: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:13:43: [SM] Call stack trace:
+L 03/25/2025 - 22:13:43: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:13:43: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:13:43: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 14/player)
+L 03/25/2025 - 22:13:43: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:13:43: [SM] Call stack trace:
+L 03/25/2025 - 22:13:43: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:13:43: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:14:03: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 1/player)
+L 03/25/2025 - 22:14:03: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:14:03: [SM] Call stack trace:
+L 03/25/2025 - 22:14:03: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:14:03: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:16:06: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 1/player)
+L 03/25/2025 - 22:16:06: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:16:06: [SM] Call stack trace:
+L 03/25/2025 - 22:16:06: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:16:06: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:16:16: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 1/player)
+L 03/25/2025 - 22:16:16: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:16:16: [SM] Call stack trace:
+L 03/25/2025 - 22:16:16: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:16:16: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:17: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 3/player)
+L 03/25/2025 - 22:17:17: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:17: [SM] Call stack trace:
+L 03/25/2025 - 22:17:17: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:17: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:17: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 4/player)
+L 03/25/2025 - 22:17:17: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:17: [SM] Call stack trace:
+L 03/25/2025 - 22:17:17: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:17: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:17: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 5/player)
+L 03/25/2025 - 22:17:17: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:17: [SM] Call stack trace:
+L 03/25/2025 - 22:17:17: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:17: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:17: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 6/player)
+L 03/25/2025 - 22:17:17: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:17: [SM] Call stack trace:
+L 03/25/2025 - 22:17:17: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:17: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:17: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 7/player)
+L 03/25/2025 - 22:17:17: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:17: [SM] Call stack trace:
+L 03/25/2025 - 22:17:17: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:17: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:17: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 8/player)
+L 03/25/2025 - 22:17:17: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:17: [SM] Call stack trace:
+L 03/25/2025 - 22:17:17: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:17: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:17: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 9/player)
+L 03/25/2025 - 22:17:17: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:17: [SM] Call stack trace:
+L 03/25/2025 - 22:17:17: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:17: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:17: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 10/player)
+L 03/25/2025 - 22:17:17: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:17: [SM] Call stack trace:
+L 03/25/2025 - 22:17:17: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:17: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:17: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 11/player)
+L 03/25/2025 - 22:17:17: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:17: [SM] Call stack trace:
+L 03/25/2025 - 22:17:17: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:17: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:17: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 12/player)
+L 03/25/2025 - 22:17:17: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:17: [SM] Call stack trace:
+L 03/25/2025 - 22:17:17: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:17: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:17: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 13/player)
+L 03/25/2025 - 22:17:17: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:17: [SM] Call stack trace:
+L 03/25/2025 - 22:17:17: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:17: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:17: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 14/player)
+L 03/25/2025 - 22:17:17: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:17: [SM] Call stack trace:
+L 03/25/2025 - 22:17:17: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:17: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:19: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 1/player)
+L 03/25/2025 - 22:17:19: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:19: [SM] Call stack trace:
+L 03/25/2025 - 22:17:19: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:19: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:46: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 2/player)
+L 03/25/2025 - 22:17:46: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:46: [SM] Call stack trace:
+L 03/25/2025 - 22:17:46: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:46: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:46: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 2/player)
+L 03/25/2025 - 22:17:46: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:46: [SM] Call stack trace:
+L 03/25/2025 - 22:17:46: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:46: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:47: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 2/player)
+L 03/25/2025 - 22:17:47: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:47: [SM] Call stack trace:
+L 03/25/2025 - 22:17:47: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:47: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:47: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 3/player)
+L 03/25/2025 - 22:17:47: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:47: [SM] Call stack trace:
+L 03/25/2025 - 22:17:47: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:47: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:47: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 3/player)
+L 03/25/2025 - 22:17:47: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:47: [SM] Call stack trace:
+L 03/25/2025 - 22:17:47: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:47: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:48: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 3/player)
+L 03/25/2025 - 22:17:48: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:48: [SM] Call stack trace:
+L 03/25/2025 - 22:17:48: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:48: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:48: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 4/player)
+L 03/25/2025 - 22:17:48: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:48: [SM] Call stack trace:
+L 03/25/2025 - 22:17:48: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:48: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:48: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 4/player)
+L 03/25/2025 - 22:17:48: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:48: [SM] Call stack trace:
+L 03/25/2025 - 22:17:48: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:48: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:49: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 5/player)
+L 03/25/2025 - 22:17:49: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:49: [SM] Call stack trace:
+L 03/25/2025 - 22:17:49: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:49: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:49: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 5/player)
+L 03/25/2025 - 22:17:49: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:49: [SM] Call stack trace:
+L 03/25/2025 - 22:17:49: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:49: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:49: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 4/player)
+L 03/25/2025 - 22:17:49: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:49: [SM] Call stack trace:
+L 03/25/2025 - 22:17:49: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:49: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:49: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 6/player)
+L 03/25/2025 - 22:17:49: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:49: [SM] Call stack trace:
+L 03/25/2025 - 22:17:49: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:49: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:49: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 6/player)
+L 03/25/2025 - 22:17:49: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:49: [SM] Call stack trace:
+L 03/25/2025 - 22:17:49: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:49: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:49: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 7/player)
+L 03/25/2025 - 22:17:49: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:49: [SM] Call stack trace:
+L 03/25/2025 - 22:17:49: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:49: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:49: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 7/player)
+L 03/25/2025 - 22:17:49: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:49: [SM] Call stack trace:
+L 03/25/2025 - 22:17:49: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:49: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:50: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 5/player)
+L 03/25/2025 - 22:17:50: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:50: [SM] Call stack trace:
+L 03/25/2025 - 22:17:50: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:50: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:50: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 6/player)
+L 03/25/2025 - 22:17:50: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:50: [SM] Call stack trace:
+L 03/25/2025 - 22:17:50: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:50: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:50: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 7/player)
+L 03/25/2025 - 22:17:50: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:50: [SM] Call stack trace:
+L 03/25/2025 - 22:17:50: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:50: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:50: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 8/player)
+L 03/25/2025 - 22:17:50: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:50: [SM] Call stack trace:
+L 03/25/2025 - 22:17:50: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:50: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:50: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 8/player)
+L 03/25/2025 - 22:17:50: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:50: [SM] Call stack trace:
+L 03/25/2025 - 22:17:50: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:50: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:50: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 9/player)
+L 03/25/2025 - 22:17:50: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:50: [SM] Call stack trace:
+L 03/25/2025 - 22:17:50: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:50: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:50: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 9/player)
+L 03/25/2025 - 22:17:50: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:50: [SM] Call stack trace:
+L 03/25/2025 - 22:17:50: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:50: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:51: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 8/player)
+L 03/25/2025 - 22:17:51: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:51: [SM] Call stack trace:
+L 03/25/2025 - 22:17:51: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:51: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:51: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 9/player)
+L 03/25/2025 - 22:17:51: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:51: [SM] Call stack trace:
+L 03/25/2025 - 22:17:51: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:51: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:51: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 10/player)
+L 03/25/2025 - 22:17:51: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:51: [SM] Call stack trace:
+L 03/25/2025 - 22:17:51: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:51: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:51: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 10/player)
+L 03/25/2025 - 22:17:51: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:51: [SM] Call stack trace:
+L 03/25/2025 - 22:17:51: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:51: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:51: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 11/player)
+L 03/25/2025 - 22:17:51: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:51: [SM] Call stack trace:
+L 03/25/2025 - 22:17:51: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:51: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:51: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 11/player)
+L 03/25/2025 - 22:17:51: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:51: [SM] Call stack trace:
+L 03/25/2025 - 22:17:51: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:51: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:52: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 10/player)
+L 03/25/2025 - 22:17:52: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:52: [SM] Call stack trace:
+L 03/25/2025 - 22:17:52: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:52: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:52: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 11/player)
+L 03/25/2025 - 22:17:52: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:52: [SM] Call stack trace:
+L 03/25/2025 - 22:17:52: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:52: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:53: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 12/player)
+L 03/25/2025 - 22:17:53: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:53: [SM] Call stack trace:
+L 03/25/2025 - 22:17:53: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:53: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:53: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 12/player)
+L 03/25/2025 - 22:17:53: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:53: [SM] Call stack trace:
+L 03/25/2025 - 22:17:53: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:53: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:53: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 13/player)
+L 03/25/2025 - 22:17:53: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:53: [SM] Call stack trace:
+L 03/25/2025 - 22:17:53: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:53: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:53: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 13/player)
+L 03/25/2025 - 22:17:53: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:53: [SM] Call stack trace:
+L 03/25/2025 - 22:17:53: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:53: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:54: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 2/player)
+L 03/25/2025 - 22:17:54: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:54: [SM] Call stack trace:
+L 03/25/2025 - 22:17:54: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:54: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:54: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 3/player)
+L 03/25/2025 - 22:17:54: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:54: [SM] Call stack trace:
+L 03/25/2025 - 22:17:54: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:54: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:54: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 4/player)
+L 03/25/2025 - 22:17:54: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:54: [SM] Call stack trace:
+L 03/25/2025 - 22:17:54: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:54: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:54: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 5/player)
+L 03/25/2025 - 22:17:54: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:54: [SM] Call stack trace:
+L 03/25/2025 - 22:17:54: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:54: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:54: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 6/player)
+L 03/25/2025 - 22:17:54: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:54: [SM] Call stack trace:
+L 03/25/2025 - 22:17:54: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:54: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:54: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 7/player)
+L 03/25/2025 - 22:17:54: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:54: [SM] Call stack trace:
+L 03/25/2025 - 22:17:54: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:54: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:54: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 8/player)
+L 03/25/2025 - 22:17:54: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:54: [SM] Call stack trace:
+L 03/25/2025 - 22:17:54: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:54: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:54: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 9/player)
+L 03/25/2025 - 22:17:54: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:54: [SM] Call stack trace:
+L 03/25/2025 - 22:17:54: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:54: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:54: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 10/player)
+L 03/25/2025 - 22:17:54: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:54: [SM] Call stack trace:
+L 03/25/2025 - 22:17:54: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:54: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:54: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 11/player)
+L 03/25/2025 - 22:17:54: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:54: [SM] Call stack trace:
+L 03/25/2025 - 22:17:54: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:54: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:54: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 12/player)
+L 03/25/2025 - 22:17:54: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:54: [SM] Call stack trace:
+L 03/25/2025 - 22:17:54: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:54: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:54: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 13/player)
+L 03/25/2025 - 22:17:54: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:54: [SM] Call stack trace:
+L 03/25/2025 - 22:17:54: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:54: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:17:55: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 1/player)
+L 03/25/2025 - 22:17:55: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:17:55: [SM] Call stack trace:
+L 03/25/2025 - 22:17:55: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:17:55: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:18:19: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 2/player)
+L 03/25/2025 - 22:18:19: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:18:19: [SM] Call stack trace:
+L 03/25/2025 - 22:18:19: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:18:19: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:18:19: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 3/player)
+L 03/25/2025 - 22:18:19: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:18:19: [SM] Call stack trace:
+L 03/25/2025 - 22:18:19: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:18:19: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:18:19: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 4/player)
+L 03/25/2025 - 22:18:19: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:18:19: [SM] Call stack trace:
+L 03/25/2025 - 22:18:19: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:18:19: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:18:19: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 5/player)
+L 03/25/2025 - 22:18:19: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:18:19: [SM] Call stack trace:
+L 03/25/2025 - 22:18:19: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:18:19: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:18:19: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 6/player)
+L 03/25/2025 - 22:18:19: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:18:19: [SM] Call stack trace:
+L 03/25/2025 - 22:18:19: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:18:19: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:18:19: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 7/player)
+L 03/25/2025 - 22:18:19: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:18:19: [SM] Call stack trace:
+L 03/25/2025 - 22:18:19: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:18:19: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:18:19: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 8/player)
+L 03/25/2025 - 22:18:19: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:18:19: [SM] Call stack trace:
+L 03/25/2025 - 22:18:19: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:18:19: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:18:19: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 9/player)
+L 03/25/2025 - 22:18:19: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:18:19: [SM] Call stack trace:
+L 03/25/2025 - 22:18:19: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:18:19: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:18:19: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 10/player)
+L 03/25/2025 - 22:18:19: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:18:19: [SM] Call stack trace:
+L 03/25/2025 - 22:18:19: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:18:19: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:18:19: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 11/player)
+L 03/25/2025 - 22:18:19: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:18:19: [SM] Call stack trace:
+L 03/25/2025 - 22:18:19: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:18:19: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:18:19: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 12/player)
+L 03/25/2025 - 22:18:19: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:18:19: [SM] Call stack trace:
+L 03/25/2025 - 22:18:19: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:18:19: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:18:19: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 13/player)
+L 03/25/2025 - 22:18:19: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:18:19: [SM] Call stack trace:
+L 03/25/2025 - 22:18:19: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:18:19: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:18:37: [SM] Exception reported: Property "m_flDamageAccumulator " not found (entity 1/player)
+L 03/25/2025 - 22:18:37: [SM] Blaming: ttkbots.smx
+L 03/25/2025 - 22:18:37: [SM] Call stack trace:
+L 03/25/2025 - 22:18:37: [SM]   [0] SetEntPropFloat
+L 03/25/2025 - 22:18:37: [SM]   [1] Line 199, M:\Server Files\scripting\ttkbots.sp::OnPlayerSpawn
+L 03/25/2025 - 22:18:53: Console detour tried to unhook command "sm_dump_handles" but it wasn't found
+L 03/25/2025 - 22:18:53: Console detour tried to unhook command "sm" but it wasn't found
+L 03/25/2025 - 22:18:53: Console detour tried to unhook command "sm_dump_admcache" but it wasn't found
+L 03/25/2025 - 22:18:53: Console detour tried to unhook command "sm_reload_databases" but it wasn't found
+L 03/25/2025 - 22:18:53: Console detour tried to unhook command "sm_reload_translations" but it wasn't found
+L 03/25/2025 - 22:18:53: Error log file session closed.
+L 03/25/2025 - 22:47:57: SourceMod error session started
+L 03/25/2025 - 22:47:57: Info (map "nt_dawn_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250325.log")
+L 03/25/2025 - 22:47:57: Console detour tried to unhook command "sm_dump_handles" but it wasn't found
+L 03/25/2025 - 22:47:57: Console detour tried to unhook command "sm" but it wasn't found
+L 03/25/2025 - 22:47:57: Console detour tried to unhook command "sm_dump_admcache" but it wasn't found
+L 03/25/2025 - 22:47:57: Console detour tried to unhook command "sm_reload_databases" but it wasn't found
+L 03/25/2025 - 22:47:57: Console detour tried to unhook command "sm_reload_translations" but it wasn't found
+L 03/25/2025 - 22:47:57: Error log file session closed.

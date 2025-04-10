@@ -1,0 +1,60 @@
+"Games"
+{
+	"NeotokyoSource"
+	{
+		"Signatures"
+		{
+			"Sig_FireBullet"
+			{
+				"library"   "server"
+				"windows"	"\x55\x8B\xEC\x83\xE4\xF8\x8B\x45\x08\x81\xEC\x9C\x00\x00\x00\x53"
+			}
+		}
+		"Functions"
+		{
+			"Fn_FireBullet"
+			{
+				"signature"	"Sig_FireBullet"
+				"hooktype"	"raw"
+				"callconv"	"cdecl"
+				"return"	"void"
+				"this"		"ignore"
+				"arguments"
+				{
+					"iPlayerIndex"
+					{
+						"type" "int"
+					}
+					"vOrigin"
+					{
+						"type" "vectorptr"
+					}
+					"vAngles"
+					{
+						"type" "objectptr"
+					}
+					"iWeaponID"
+					{
+						"type" "int"
+					}
+					"iMode"
+					{
+						"type" "int"
+					}
+					"iSeed"
+					{
+						"type" "int"
+					}
+					"flSpread"
+					{
+						"type" "float"
+					}
+					"iPenetration"
+					{
+						"type" "int"
+					}
+				}
+			}
+		}
+	}
+}

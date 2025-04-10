@@ -1,0 +1,40 @@
+L 03/23/2025 - 03:15:53: SourceMod error session started
+L 03/23/2025 - 03:15:53: Info (map "nt_shipment_ctg_comp_rc1") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250323.log")
+L 03/23/2025 - 03:15:53: Console detour tried to unhook command "sm_dump_handles" but it wasn't found
+L 03/23/2025 - 03:15:53: Console detour tried to unhook command "sm" but it wasn't found
+L 03/23/2025 - 03:15:53: Console detour tried to unhook command "sm_dump_admcache" but it wasn't found
+L 03/23/2025 - 03:15:53: Console detour tried to unhook command "sm_reload_databases" but it wasn't found
+L 03/23/2025 - 03:15:53: Console detour tried to unhook command "sm_reload_translations" but it wasn't found
+L 03/23/2025 - 03:15:53: Error log file session closed.
+L 03/23/2025 - 03:43:59: SourceMod error session started
+L 03/23/2025 - 03:43:59: Info (map "nt_rust_koth_a1") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250323.log")
+L 03/23/2025 - 03:43:59: Console detour tried to unhook command "sm_dump_handles" but it wasn't found
+L 03/23/2025 - 03:43:59: Console detour tried to unhook command "sm" but it wasn't found
+L 03/23/2025 - 03:43:59: Console detour tried to unhook command "sm_dump_admcache" but it wasn't found
+L 03/23/2025 - 03:43:59: Console detour tried to unhook command "sm_reload_databases" but it wasn't found
+L 03/23/2025 - 03:43:59: Console detour tried to unhook command "sm_reload_translations" but it wasn't found
+L 03/23/2025 - 03:43:59: Error log file session closed.
+L 03/23/2025 - 07:01:18: SourceMod error session started
+L 03/23/2025 - 07:01:18: Info (map "nt_ttk_a1") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250323.log")
+L 03/23/2025 - 07:01:18: Console detour tried to unhook command "sm_dump_handles" but it wasn't found
+L 03/23/2025 - 07:01:18: Console detour tried to unhook command "sm" but it wasn't found
+L 03/23/2025 - 07:01:18: Console detour tried to unhook command "sm_dump_admcache" but it wasn't found
+L 03/23/2025 - 07:01:18: Console detour tried to unhook command "sm_reload_databases" but it wasn't found
+L 03/23/2025 - 07:01:18: Console detour tried to unhook command "sm_reload_translations" but it wasn't found
+L 03/23/2025 - 07:01:18: Error log file session closed.
+L 03/23/2025 - 20:35:32: SourceMod error session started
+L 03/23/2025 - 20:35:32: Info (map "nt_ttk_a1") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250323.log")
+L 03/23/2025 - 20:35:32: Console detour tried to unhook command "sm_dump_handles" but it wasn't found
+L 03/23/2025 - 20:35:32: Console detour tried to unhook command "sm" but it wasn't found
+L 03/23/2025 - 20:35:32: Console detour tried to unhook command "sm_dump_admcache" but it wasn't found
+L 03/23/2025 - 20:35:32: Console detour tried to unhook command "sm_reload_databases" but it wasn't found
+L 03/23/2025 - 20:35:32: Console detour tried to unhook command "sm_reload_translations" but it wasn't found
+L 03/23/2025 - 20:35:32: Error log file session closed.
+L 03/23/2025 - 23:32:04: SourceMod error session started
+L 03/23/2025 - 23:32:04: Info (map "nt_ttk_a1") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250323.log")
+L 03/23/2025 - 23:32:04: Console detour tried to unhook command "sm_dump_handles" but it wasn't found
+L 03/23/2025 - 23:32:04: Console detour tried to unhook command "sm" but it wasn't found
+L 03/23/2025 - 23:32:04: Console detour tried to unhook command "sm_dump_admcache" but it wasn't found
+L 03/23/2025 - 23:32:04: Console detour tried to unhook command "sm_reload_databases" but it wasn't found
+L 03/23/2025 - 23:32:04: Console detour tried to unhook command "sm_reload_translations" but it wasn't found
+L 03/23/2025 - 23:32:04: Error log file session closed.

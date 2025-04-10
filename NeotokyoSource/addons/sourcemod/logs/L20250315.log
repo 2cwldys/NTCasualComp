@@ -1,0 +1,55 @@
+L 03/15/2025 - 23:04:30: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250315.log") (Version "1.11.0.6939")
+L 03/15/2025 - 23:04:30: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "_restart")
+L 03/15/2025 - 23:04:31: Log file closed.
+L 03/15/2025 - 23:14:28: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250315.log") (Version "1.11.0.6939")
+L 03/15/2025 - 23:14:28: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed map to "nt_sprint_bhop_b2"
+L 03/15/2025 - 23:14:31: [SM] Changed map to "nt_sprint_bhop_b2"
+L 03/15/2025 - 23:14:31: -------- Mapchange to nt_sprint_bhop_b2 --------
+L 03/15/2025 - 23:14:46: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed cvar (cvar "sv_cheats") (value "1")
+L 03/15/2025 - 23:14:55: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "bot_mimic 1")
+L 03/15/2025 - 23:14:57: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "bot_mimic 2")
+L 03/15/2025 - 23:15:22: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "bot_mimic 1")
+L 03/15/2025 - 23:15:47: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "bot_mimic 2")
+L 03/15/2025 - 23:16:12: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "bot_mimic 1")
+L 03/15/2025 - 23:16:34: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "bot_mimic 2")
+L 03/15/2025 - 23:16:49: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "bot_mimic 2")
+L 03/15/2025 - 23:16:51: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "bot_mimic 1")
+L 03/15/2025 - 23:25:49: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed map to "nt_sprint_bhop_b2"
+L 03/15/2025 - 23:25:52: [SM] Changed map to "nt_sprint_bhop_b2"
+L 03/15/2025 - 23:25:52: -------- Mapchange to nt_sprint_bhop_b2 --------
+L 03/15/2025 - 23:31:40: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed map to "nt_envoy_ctg"
+L 03/15/2025 - 23:31:43: [SM] Changed map to "nt_envoy_ctg"
+L 03/15/2025 - 23:31:44: -------- Mapchange to nt_envoy_ctg --------
+L 03/15/2025 - 23:32:28: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed cvar (cvar "sv_cheats") (value "1")
+L 03/15/2025 - 23:32:38: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "bot_mimic 1")
+L 03/15/2025 - 23:32:39: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "bot_mimic 2")
+L 03/15/2025 - 23:33:59: [funcommands.smx] "bauxite<2><STEAM_0:0:5757747><>" toggled noclip on "bauxite<2><STEAM_0:0:5757747><>"
+L 03/15/2025 - 23:34:09: [funcommands.smx] "bauxite<2><STEAM_0:0:5757747><>" toggled noclip on "bauxite<2><STEAM_0:0:5757747><>"
+L 03/15/2025 - 23:34:20: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "bot_mimic 1")
+L 03/15/2025 - 23:34:55: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "bot_mimic 2")
+L 03/15/2025 - 23:34:58: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "bot_mimic 3")
+L 03/15/2025 - 23:35:02: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "bot_mimic 3")
+L 03/15/2025 - 23:35:04: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "bot_mimic 4")
+L 03/15/2025 - 23:35:37: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/15/2025 - 23:35:37: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/15/2025 - 23:36:05: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_tetsu_ctg_b6f.
+L 03/15/2025 - 23:36:07: [SM] Changed map to "nt_tetsu_ctg_b6f"
+L 03/15/2025 - 23:36:07: -------- Mapchange to nt_tetsu_ctg_b6f --------
+L 03/15/2025 - 23:37:50: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed cvar (cvar "sm_ntdamage_damage") (value "10")
+L 03/15/2025 - 23:39:07: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "sm plugins unload dcomp")
+L 03/15/2025 - 23:39:10: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "sm plugins load dcomp")
+L 03/15/2025 - 23:39:14: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed cvar (cvar "sm_ntdamage_damage") (value "10")
+L 03/15/2025 - 23:41:00: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "sm plugins unload dcomp")
+L 03/15/2025 - 23:41:02: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "sm plugins load dcomp")
+L 03/15/2025 - 23:43:19: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "sm plugins unload nt_assist")
+L 03/15/2025 - 23:43:24: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "sm plugins unload dcomp")
+L 03/15/2025 - 23:43:27: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "sm plugins load dcomp")
+L 03/15/2025 - 23:44:02: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed cvar (cvar "sm_ntdamage_damage") (value "10")
+L 03/15/2025 - 23:44:14: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed cvar (cvar "sm_ntdamage_damage") (value "50")
+L 03/15/2025 - 23:45:13: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "sm plugins unload dcomp")
+L 03/15/2025 - 23:45:17: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" console command (cmdline "sm plugins load dcomp")
+L 03/15/2025 - 23:45:23: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed cvar (cvar "sm_ntdamage_damage") (value "10")
+L 03/15/2025 - 23:45:29: [basecommands.smx] "bauxite<2><STEAM_0:0:5757747><>" changed cvar (cvar "sm_ntdamage_damage") (value "50")
+L 03/15/2025 - 23:46:42: [basecommands.smx] "Door<11><STEAM_0:0:19204218><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/15/2025 - 23:59:55: [basechat.smx] "bauxite<2><STEAM_0:0:5757747><>" triggered sm_say (text restarting server)
+L 03/16/2025 - 00:00:17: Log file closed.

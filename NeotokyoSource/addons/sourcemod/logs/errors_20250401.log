@@ -1,0 +1,22 @@
+L 04/01/2025 - 01:43:10: SourceMod error session started
+L 04/01/2025 - 01:43:10: Info (map "nt_dawn_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250401.log")
+L 04/01/2025 - 01:43:10: [SM] Unable to load extension "system2.ext": The specified module could not be found.
+
+L 04/01/2025 - 01:43:44: Console detour tried to unhook command "sm_dump_handles" but it wasn't found
+L 04/01/2025 - 01:43:44: Console detour tried to unhook command "sm" but it wasn't found
+L 04/01/2025 - 01:43:44: Console detour tried to unhook command "sm_dump_admcache" but it wasn't found
+L 04/01/2025 - 01:43:44: Console detour tried to unhook command "sm_reload_databases" but it wasn't found
+L 04/01/2025 - 01:43:44: Console detour tried to unhook command "sm_reload_translations" but it wasn't found
+L 04/01/2025 - 01:43:44: Error log file session closed.
+L 04/01/2025 - 04:43:14: SourceMod error session started
+L 04/01/2025 - 04:43:14: Info (map "nt_dawn_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250401.log")
+L 04/01/2025 - 04:43:14: Console detour tried to unhook command "sm_dump_handles" but it wasn't found
+L 04/01/2025 - 04:43:14: Console detour tried to unhook command "sm" but it wasn't found
+L 04/01/2025 - 04:43:14: Console detour tried to unhook command "sm_dump_admcache" but it wasn't found
+L 04/01/2025 - 04:43:14: Console detour tried to unhook command "sm_reload_databases" but it wasn't found
+L 04/01/2025 - 04:43:14: Console detour tried to unhook command "sm_reload_translations" but it wasn't found
+L 04/01/2025 - 04:43:14: Error log file session closed.
+L 04/01/2025 - 16:38:34: SourceMod error session started
+L 04/01/2025 - 16:38:34: Info (map "nt_dawn_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250401.log")
+L 04/01/2025 - 16:38:34: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 04/02/2025 - 11:57:58: Error log file session closed.

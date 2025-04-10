@@ -1,0 +1,123 @@
+"Games"
+{
+	"NeotokyoSource"
+	{
+		"Signatures"
+		{
+			"Sig_CBaseEntity_CollisionRulesChanged"
+			{
+				"library"	"server"
+				"windows"	"\x81\xEC\x80\x00\x00\x00\x56\x8B\xF1\x83\xBE\xF8\x01\x00\x00\x00"
+			}
+			"Sig_CGameMovement_CheckStuck"
+			{
+				"library"	"server"
+				"windows"	"\x81\xEC\x80\x00\x00\x00\x56\x57\x8B\xF1"
+			}
+			"Sig_CGameMovement_ProcessMovement"
+			{
+				"library"	"server"
+				"windows"	"\x51\xA1\x2A\x2A\x2A\x2A\xD9\x40\x10\x56\x8B\xF1\xD9\x5C\x24\x04"
+			}
+			"Sig_CBaseEntity_SetCollisionGroup"
+			{
+				"library"	"server"
+				"windows"	"\x56\x8B\xF1\x8B\x86\xF4\x01\x00\x00"
+			}
+			"Sig_CPhysicsProp__VPhysicsCollision"
+			{
+				"library"	"server"
+				"windows"	"\x81\xEC\x88\x00\x00\x00\x53\x55\x8B\xAC\x24\x94\x00\x00\x00\x56"
+			}
+			"Sig_CPhysicsProp__OnTakeDamage"
+			{
+				"library"	"server"
+				"windows"	"\x83\xEC\x6C\x53\x8B\x5C\x24\x74\x55"
+			}
+		}
+		"Functions"
+		{
+			"Fn_CPhysicsProp__OnTakeDamage"
+			{
+				"signature"	"Sig_CPhysicsProp__OnTakeDamage"
+				"callconv"	"thiscall"
+				"return"	"int"
+				"this"		"entity"
+				"arguments"
+				{
+					"takedmginfo"
+					{
+						"type"	"objectptr"
+					}
+				}
+			}
+			"Fn_CPhysicsProp__VPhysicsCollision"
+			{
+				"signature"	"Sig_CPhysicsProp__VPhysicsCollision"
+				"callconv"	"thiscall"
+				"return"	"void"
+				"this"		"entity"
+				"arguments"
+				{
+					"index"
+					{
+						"type"	"int"
+					}
+					"event"
+					{
+						"type"	"objectptr"
+					}
+				}
+			}
+			"Fn_SetCollisionGroup"
+			{
+				"signature"	"Sig_CBaseEntity_SetCollisionGroup"
+				"callconv"	"thiscall"
+				"hooktype"	"entity"
+				"return"	"void"
+				"this"		"entity"
+				"arguments"
+				{
+					"collisiongroup"
+					{
+						"type"	"int"
+					}
+				}
+			}
+			"Fn_CheckStuck"
+			{
+				"signature"	"Sig_CGameMovement_CheckStuck"
+				"callconv"	"thiscall"
+				"hooktype"	"raw"
+				"return"	"int"
+				"this"		"address"
+			}
+			"Fn_ProcessMovement"
+			{
+				"signature"	"Sig_CGameMovement_ProcessMovement"
+				"callconv"	"thiscall"
+				"hooktype"	"raw"
+				"return"	"void"
+				"this"		"address"
+				"arguments"
+				{
+					"player"
+					{
+						"type"	"cbaseentity"
+					}
+					"movedata"
+					{
+						"type"	"objectptr"
+					}
+				}
+			}
+			"Fn_CollisionRulesChanged"
+			{
+				"signature"	"Sig_CBaseEntity_CollisionRulesChanged"
+				"callconv"	"thiscall"
+				"return"	"void"
+				"this"		"entity"
+			}
+		}
+	}
+}

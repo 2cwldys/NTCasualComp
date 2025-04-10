@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+	"alias"		"sourcemod"
+	"file"		"../NeotokyoSource/addons/sourcemod/bin/sourcemod_mm"
+}

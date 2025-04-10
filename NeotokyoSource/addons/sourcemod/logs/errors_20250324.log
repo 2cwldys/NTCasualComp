@@ -1,0 +1,141 @@
+L 03/24/2025 - 02:06:01: SourceMod error session started
+L 03/24/2025 - 02:06:01: Info (map "nt_ttk_a1") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250324.log")
+L 03/24/2025 - 02:06:01: Console detour tried to unhook command "sm_dump_handles" but it wasn't found
+L 03/24/2025 - 02:06:01: Console detour tried to unhook command "sm" but it wasn't found
+L 03/24/2025 - 02:06:01: Console detour tried to unhook command "sm_dump_admcache" but it wasn't found
+L 03/24/2025 - 02:06:01: Console detour tried to unhook command "sm_reload_databases" but it wasn't found
+L 03/24/2025 - 02:06:01: Console detour tried to unhook command "sm_reload_translations" but it wasn't found
+L 03/24/2025 - 02:06:01: Error log file session closed.
+L 03/24/2025 - 02:08:51: SourceMod error session started
+L 03/24/2025 - 02:08:51: Info (map "nt_dawn_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250324.log")
+L 03/24/2025 - 02:08:51: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 02:30:56: Console detour tried to unhook command "sm_dump_handles" but it wasn't found
+L 03/24/2025 - 02:30:56: Console detour tried to unhook command "sm" but it wasn't found
+L 03/24/2025 - 02:30:56: Console detour tried to unhook command "sm_dump_admcache" but it wasn't found
+L 03/24/2025 - 02:30:56: Console detour tried to unhook command "sm_reload_databases" but it wasn't found
+L 03/24/2025 - 02:30:56: Console detour tried to unhook command "sm_reload_translations" but it wasn't found
+L 03/24/2025 - 02:30:56: Error log file session closed.
+L 03/24/2025 - 03:08:10: SourceMod error session started
+L 03/24/2025 - 03:08:10: Info (map "nt_dawn_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250324.log")
+L 03/24/2025 - 03:08:10: Console detour tried to unhook command "sm_dump_handles" but it wasn't found
+L 03/24/2025 - 03:08:10: Console detour tried to unhook command "sm" but it wasn't found
+L 03/24/2025 - 03:08:10: Console detour tried to unhook command "sm_dump_admcache" but it wasn't found
+L 03/24/2025 - 03:08:10: Console detour tried to unhook command "sm_reload_databases" but it wasn't found
+L 03/24/2025 - 03:08:10: Console detour tried to unhook command "sm_reload_translations" but it wasn't found
+L 03/24/2025 - 03:08:10: Error log file session closed.
+L 03/24/2025 - 03:40:42: SourceMod error session started
+L 03/24/2025 - 03:40:42: Info (map "nt_dawn_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250324.log")
+L 03/24/2025 - 03:40:42: Console detour tried to unhook command "sm_dump_handles" but it wasn't found
+L 03/24/2025 - 03:40:42: Console detour tried to unhook command "sm" but it wasn't found
+L 03/24/2025 - 03:40:42: Console detour tried to unhook command "sm_dump_admcache" but it wasn't found
+L 03/24/2025 - 03:40:42: Console detour tried to unhook command "sm_reload_databases" but it wasn't found
+L 03/24/2025 - 03:40:42: Console detour tried to unhook command "sm_reload_translations" but it wasn't found
+L 03/24/2025 - 03:40:42: Error log file session closed.
+L 03/24/2025 - 04:18:44: SourceMod error session started
+L 03/24/2025 - 04:18:44: Info (map "nt_dawn_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250324.log")
+L 03/24/2025 - 04:18:44: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 04:26:46: Error log file session closed.
+L 03/24/2025 - 05:19:03: SourceMod error session started
+L 03/24/2025 - 05:19:03: Info (map "nt_ttk_a1") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250324.log")
+L 03/24/2025 - 05:19:03: Console detour tried to unhook command "sm_dump_handles" but it wasn't found
+L 03/24/2025 - 05:19:03: Console detour tried to unhook command "sm" but it wasn't found
+L 03/24/2025 - 05:19:03: Console detour tried to unhook command "sm_dump_admcache" but it wasn't found
+L 03/24/2025 - 05:19:03: Console detour tried to unhook command "sm_reload_databases" but it wasn't found
+L 03/24/2025 - 05:19:03: Console detour tried to unhook command "sm_reload_translations" but it wasn't found
+L 03/24/2025 - 05:19:03: Error log file session closed.
+L 03/24/2025 - 11:02:09: SourceMod error session started
+L 03/24/2025 - 11:02:09: Info (map "nt_dawn_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250324.log")
+L 03/24/2025 - 11:02:09: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:02:24: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:02:40: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:02:40: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:02:55: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:03:10: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:03:31: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:03:46: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:04:01: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:04:16: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:04:16: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:04:31: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:04:46: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:05:01: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:05:16: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:05:31: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:05:31: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:05:46: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:06:02: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:06:17: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:06:32: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:06:47: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:07:02: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:07:17: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:07:32: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:07:48: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:08:03: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:08:03: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:08:18: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:08:33: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:08:46: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:08:50: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:09:05: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:09:21: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:09:21: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:09:37: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:09:52: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:10:14: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:10:29: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:10:45: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:11:00: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:11:01: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:11:16: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:11:32: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:11:47: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:12:03: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:12:18: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:12:19: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:12:34: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:12:50: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:13:05: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:13:21: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:13:36: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:13:52: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:14:20: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:14:35: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:14:51: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:15:06: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:15:07: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:15:22: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:15:38: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 11:15:51: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/24/2025 - 23:20:09: SourceMod error session started
+L 03/24/2025 - 23:20:09: Info (map "nt_dawn_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250324.log")
+L 03/24/2025 - 23:20:09: [SM] Exception reported: Client 3 is not in game
+L 03/24/2025 - 23:20:09: [SM] Blaming: nt_comp_xp_printer.smx
+L 03/24/2025 - 23:20:09: [SM] Call stack trace:
+L 03/24/2025 - 23:20:09: [SM]   [0] GetClientFrags
+L 03/24/2025 - 23:20:09: [SM]   [1] Line 139, M:\Server Files\scripting\include\neotokyo.inc::GetPlayerXP
+L 03/24/2025 - 23:20:09: [SM]   [2] Line 18, nt_comp_xp_printer.sp::OnClientDisconnect
+L 03/24/2025 - 23:20:09: [SM] Exception reported: Entity -1 (-1) is invalid
+L 03/24/2025 - 23:20:09: [SM] Blaming: nt_anti_ghosthop.smx
+L 03/24/2025 - 23:20:09: [SM] Call stack trace:
+L 03/24/2025 - 23:20:09: [SM]   [0] GetEntPropString
+L 03/24/2025 - 23:20:09: [SM]   [1] Line 768, entity::GetEntityClassname
+L 03/24/2025 - 23:20:09: [SM]   [2] Line 225, nt_anti_ghosthop.sp::IsGhost
+L 03/24/2025 - 23:20:09: [SM]   [3] Line 234, nt_anti_ghosthop.sp::OnEntityDestroyed
+L 03/24/2025 - 23:20:10: Error log file session closed.
+L 03/24/2025 - 23:39:56: SourceMod error session started
+L 03/24/2025 - 23:39:56: Info (map "nt_tetsu_ctg_b7_proto") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250324.log")
+L 03/24/2025 - 23:39:56: [SM] Exception reported: Client 10 is not in game
+L 03/24/2025 - 23:39:56: [SM] Blaming: nt_comp_xp_printer.smx
+L 03/24/2025 - 23:39:56: [SM] Call stack trace:
+L 03/24/2025 - 23:39:56: [SM]   [0] GetClientFrags
+L 03/24/2025 - 23:39:56: [SM]   [1] Line 139, M:\Server Files\scripting\include\neotokyo.inc::GetPlayerXP
+L 03/24/2025 - 23:39:56: [SM]   [2] Line 18, nt_comp_xp_printer.sp::OnClientDisconnect
+L 03/24/2025 - 23:39:56: [SM] Exception reported: Entity -1 (-1) is invalid
+L 03/24/2025 - 23:39:56: [SM] Blaming: nt_anti_ghosthop.smx
+L 03/24/2025 - 23:39:56: [SM] Call stack trace:
+L 03/24/2025 - 23:39:56: [SM]   [0] GetEntPropString
+L 03/24/2025 - 23:39:56: [SM]   [1] Line 768, entity::GetEntityClassname
+L 03/24/2025 - 23:39:56: [SM]   [2] Line 225, nt_anti_ghosthop.sp::IsGhost
+L 03/24/2025 - 23:39:56: [SM]   [3] Line 234, nt_anti_ghosthop.sp::OnEntityDestroyed
+L 03/25/2025 - 00:18:42: Error log file session closed.

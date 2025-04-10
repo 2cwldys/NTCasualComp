@@ -1,0 +1,61 @@
+L 03/06/2025 - 00:15:53: SourceMod error session started
+L 03/06/2025 - 00:15:53: Info (map "nt_izakaya_ctg_a15c") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250306.log")
+L 03/06/2025 - 00:15:53: [SM] Exception reported: Client 6 is not in game
+L 03/06/2025 - 00:15:53: [SM] Blaming: nt_comp_xp_printer.smx
+L 03/06/2025 - 00:15:53: [SM] Call stack trace:
+L 03/06/2025 - 00:15:53: [SM]   [0] GetClientFrags
+L 03/06/2025 - 00:15:53: [SM]   [1] Line 139, M:\Server Files\scripting\include\neotokyo.inc::GetPlayerXP
+L 03/06/2025 - 00:15:53: [SM]   [2] Line 18, nt_comp_xp_printer.sp::OnClientDisconnect
+L 03/06/2025 - 00:15:53: [SM] Exception reported: Entity -1 (-1) is invalid
+L 03/06/2025 - 00:15:53: [SM] Blaming: nt_anti_ghosthop.smx
+L 03/06/2025 - 00:15:53: [SM] Call stack trace:
+L 03/06/2025 - 00:15:53: [SM]   [0] GetEntPropString
+L 03/06/2025 - 00:15:53: [SM]   [1] Line 768, entity::GetEntityClassname
+L 03/06/2025 - 00:15:53: [SM]   [2] Line 225, nt_anti_ghosthop.sp::IsGhost
+L 03/06/2025 - 00:15:53: [SM]   [3] Line 234, nt_anti_ghosthop.sp::OnEntityDestroyed
+L 03/06/2025 - 00:16:34: Error log file session closed.
+L 03/06/2025 - 00:46:26: SourceMod error session started
+L 03/06/2025 - 00:46:26: Info (map "nt_hebi_ctg_a3") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250306.log")
+L 03/06/2025 - 00:46:26: [SM] Exception reported: Client 4 is not in game
+L 03/06/2025 - 00:46:26: [SM] Blaming: nt_comp_xp_printer.smx
+L 03/06/2025 - 00:46:26: [SM] Call stack trace:
+L 03/06/2025 - 00:46:26: [SM]   [0] GetClientFrags
+L 03/06/2025 - 00:46:26: [SM]   [1] Line 139, M:\Server Files\scripting\include\neotokyo.inc::GetPlayerXP
+L 03/06/2025 - 00:46:26: [SM]   [2] Line 18, nt_comp_xp_printer.sp::OnClientDisconnect
+L 03/06/2025 - 00:46:26: [SM] Exception reported: Entity -1 (-1) is invalid
+L 03/06/2025 - 00:46:26: [SM] Blaming: nt_anti_ghosthop.smx
+L 03/06/2025 - 00:46:26: [SM] Call stack trace:
+L 03/06/2025 - 00:46:26: [SM]   [0] GetEntPropString
+L 03/06/2025 - 00:46:26: [SM]   [1] Line 768, entity::GetEntityClassname
+L 03/06/2025 - 00:46:26: [SM]   [2] Line 225, nt_anti_ghosthop.sp::IsGhost
+L 03/06/2025 - 00:46:26: [SM]   [3] Line 234, nt_anti_ghosthop.sp::OnEntityDestroyed
+L 03/06/2025 - 00:47:56: Error log file session closed.
+L 03/06/2025 - 01:25:48: SourceMod error session started
+L 03/06/2025 - 01:25:48: Info (map "nt_yuzu_ctg_a2_test_v3") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250306.log")
+L 03/06/2025 - 01:25:48: [SM] Exception reported: Client 3 is not in game
+L 03/06/2025 - 01:25:48: [SM] Blaming: nt_comp_xp_printer.smx
+L 03/06/2025 - 01:25:48: [SM] Call stack trace:
+L 03/06/2025 - 01:25:48: [SM]   [0] GetClientFrags
+L 03/06/2025 - 01:25:48: [SM]   [1] Line 139, M:\Server Files\scripting\include\neotokyo.inc::GetPlayerXP
+L 03/06/2025 - 01:25:48: [SM]   [2] Line 18, nt_comp_xp_printer.sp::OnClientDisconnect
+L 03/06/2025 - 01:25:48: [SM] Exception reported: Entity -1 (-1) is invalid
+L 03/06/2025 - 01:25:48: [SM] Blaming: nt_anti_ghosthop.smx
+L 03/06/2025 - 01:25:48: [SM] Call stack trace:
+L 03/06/2025 - 01:25:48: [SM]   [0] GetEntPropString
+L 03/06/2025 - 01:25:48: [SM]   [1] Line 768, entity::GetEntityClassname
+L 03/06/2025 - 01:25:48: [SM]   [2] Line 225, nt_anti_ghosthop.sp::IsGhost
+L 03/06/2025 - 01:25:48: [SM]   [3] Line 234, nt_anti_ghosthop.sp::OnEntityDestroyed
+L 03/06/2025 - 01:25:49: Error log file session closed.
+L 03/06/2025 - 11:59:27: SourceMod error session started
+L 03/06/2025 - 11:59:27: Info (map "nt_rise_ctg_dennov3") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250306.log")
+L 03/06/2025 - 11:59:27: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/06/2025 - 15:33:55: SourceMod error session started
+L 03/06/2025 - 15:33:55: Info (map "nt_dawn_ctg") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250306.log")
+L 03/06/2025 - 15:33:55: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/06/2025 - 15:34:06: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/06/2025 - 15:34:06: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/06/2025 - 15:34:07: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/06/2025 - 15:34:07: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/06/2025 - 15:34:08: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/06/2025 - 21:03:15: [websocket.smx] Can't find the Key in the http protocol upgrade request.
+L 03/07/2025 - 08:15:58: Error log file session closed.

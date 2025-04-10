@@ -1,0 +1,32 @@
+L 03/04/2025 - 23:09:48: SourceMod error session started
+L 03/04/2025 - 23:09:48: Info (map "nt_fleshworld_ctg_b2f") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250304.log")
+L 03/04/2025 - 23:09:48: [SM] Exception reported: Client 8 is not in game
+L 03/04/2025 - 23:09:48: [SM] Blaming: nt_comp_xp_printer.smx
+L 03/04/2025 - 23:09:48: [SM] Call stack trace:
+L 03/04/2025 - 23:09:48: [SM]   [0] GetClientFrags
+L 03/04/2025 - 23:09:48: [SM]   [1] Line 139, M:\Server Files\scripting\include\neotokyo.inc::GetPlayerXP
+L 03/04/2025 - 23:09:48: [SM]   [2] Line 18, nt_comp_xp_printer.sp::OnClientDisconnect
+L 03/04/2025 - 23:09:48: [SM] Exception reported: Entity -1 (-1) is invalid
+L 03/04/2025 - 23:09:48: [SM] Blaming: nt_anti_ghosthop.smx
+L 03/04/2025 - 23:09:48: [SM] Call stack trace:
+L 03/04/2025 - 23:09:48: [SM]   [0] GetEntPropString
+L 03/04/2025 - 23:09:48: [SM]   [1] Line 768, entity::GetEntityClassname
+L 03/04/2025 - 23:09:48: [SM]   [2] Line 225, nt_anti_ghosthop.sp::IsGhost
+L 03/04/2025 - 23:09:48: [SM]   [3] Line 234, nt_anti_ghosthop.sp::OnEntityDestroyed
+L 03/04/2025 - 23:44:19: Error log file session closed.
+L 03/04/2025 - 23:57:10: SourceMod error session started
+L 03/04/2025 - 23:57:10: Info (map "nt_ballistremade_ctg_a20") (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\errors_20250304.log")
+L 03/04/2025 - 23:57:10: [SM] Exception reported: Client 11 is not in game
+L 03/04/2025 - 23:57:10: [SM] Blaming: nt_comp_xp_printer.smx
+L 03/04/2025 - 23:57:10: [SM] Call stack trace:
+L 03/04/2025 - 23:57:10: [SM]   [0] GetClientFrags
+L 03/04/2025 - 23:57:10: [SM]   [1] Line 139, M:\Server Files\scripting\include\neotokyo.inc::GetPlayerXP
+L 03/04/2025 - 23:57:10: [SM]   [2] Line 18, nt_comp_xp_printer.sp::OnClientDisconnect
+L 03/04/2025 - 23:57:10: [SM] Exception reported: Entity -1 (-1) is invalid
+L 03/04/2025 - 23:57:10: [SM] Blaming: nt_anti_ghosthop.smx
+L 03/04/2025 - 23:57:10: [SM] Call stack trace:
+L 03/04/2025 - 23:57:10: [SM]   [0] GetEntPropString
+L 03/04/2025 - 23:57:10: [SM]   [1] Line 768, entity::GetEntityClassname
+L 03/04/2025 - 23:57:10: [SM]   [2] Line 225, nt_anti_ghosthop.sp::IsGhost
+L 03/04/2025 - 23:57:10: [SM]   [3] Line 234, nt_anti_ghosthop.sp::OnEntityDestroyed
+L 03/05/2025 - 00:20:31: Error log file session closed.

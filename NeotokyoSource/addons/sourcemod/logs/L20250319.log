@@ -1,0 +1,111 @@
+L 03/19/2025 - 03:26:00: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250319.log") (Version "1.11.0.6939")
+L 03/19/2025 - 03:26:00: [basecommands.smx] "bauxite<24><STEAM_0:0:5757747><>" changed map to "nt_ttk_a1"
+L 03/19/2025 - 03:26:03: [SM] Changed map to "nt_ttk_a1"
+L 03/19/2025 - 03:26:03: -------- Mapchange to nt_ttk_a1 --------
+L 03/19/2025 - 03:26:39: [basecommands.smx] "bauxite<24><STEAM_0:0:5757747><>" changed cvar (cvar "sv_cheats") (value "1")
+L 03/19/2025 - 03:27:00: [basecommands.smx] "bauxite<24><STEAM_0:0:5757747><>" kicked "PGR Bot<23><BOT><>" (reason "")
+L 03/19/2025 - 03:31:24: [basecommands.smx] "bauxite<24><STEAM_0:0:5757747><>" changed map to "nt_ttk_a1"
+L 03/19/2025 - 03:31:27: [SM] Changed map to "nt_ttk_a1"
+L 03/19/2025 - 03:31:27: -------- Mapchange to nt_ttk_a1 --------
+L 03/19/2025 - 03:31:50: [basecommands.smx] "bauxite<24><STEAM_0:0:5757747><>" changed cvar (cvar "sv_cheats") (value "1")
+L 03/19/2025 - 03:32:57: [basecommands.smx] "bauxite<24><STEAM_0:0:5757747><>" kicked "SourceTV<37><BOT><>" (reason "")
+L 03/19/2025 - 03:43:47: [basecommands.smx] "bauxite<24><STEAM_0:0:5757747><>" console command (cmdline "sm plugins unload ttkbots")
+L 03/19/2025 - 03:43:52: [basecommands.smx] "bauxite<24><STEAM_0:0:5757747><>" console command (cmdline "sm plugins load ttkbots")
+L 03/19/2025 - 03:44:14: [playercommands.smx] "bauxite<24><STEAM_0:0:5757747><>" slayed "<38><BOT><>"
+L 03/19/2025 - 03:44:14: [playercommands.smx] "bauxite<24><STEAM_0:0:5757747><>" slayed "<39><BOT><>"
+L 03/19/2025 - 03:44:14: [playercommands.smx] "bauxite<24><STEAM_0:0:5757747><>" slayed "<40><BOT><>"
+L 03/19/2025 - 03:44:14: [playercommands.smx] "bauxite<24><STEAM_0:0:5757747><>" slayed "<41><BOT><>"
+L 03/19/2025 - 03:44:14: [playercommands.smx] "bauxite<24><STEAM_0:0:5757747><>" slayed "<42><BOT><>"
+L 03/19/2025 - 03:44:14: [playercommands.smx] "bauxite<24><STEAM_0:0:5757747><>" slayed "<43><BOT><>"
+L 03/19/2025 - 03:44:14: [playercommands.smx] "bauxite<24><STEAM_0:0:5757747><>" slayed "<44><BOT><>"
+L 03/19/2025 - 03:44:14: [playercommands.smx] "bauxite<24><STEAM_0:0:5757747><>" slayed "<45><BOT><>"
+L 03/19/2025 - 03:44:14: [playercommands.smx] "bauxite<24><STEAM_0:0:5757747><>" slayed "<46><BOT><>"
+L 03/19/2025 - 03:44:14: [playercommands.smx] "bauxite<24><STEAM_0:0:5757747><>" slayed "<47><BOT><>"
+L 03/19/2025 - 03:44:14: [playercommands.smx] "bauxite<24><STEAM_0:0:5757747><>" slayed "<48><BOT><>"
+L 03/19/2025 - 03:44:14: [playercommands.smx] "bauxite<24><STEAM_0:0:5757747><>" slayed "<49><BOT><>"
+L 03/19/2025 - 03:45:30: [basecommands.smx] "bauxite<24><STEAM_0:0:5757747><>" console command (cmdline "sm plugins unload ttkbots")
+L 03/19/2025 - 03:45:40: [basecommands.smx] "bauxite<24><STEAM_0:0:5757747><>" console command (cmdline "sm plugins load ttkbots")
+L 03/19/2025 - 03:46:09: [playercommands.smx] "bauxite<24><STEAM_0:0:5757747><>" slayed "<38><BOT><>"
+L 03/19/2025 - 03:46:09: [playercommands.smx] "bauxite<24><STEAM_0:0:5757747><>" slayed "<39><BOT><>"
+L 03/19/2025 - 03:46:09: [playercommands.smx] "bauxite<24><STEAM_0:0:5757747><>" slayed "<40><BOT><>"
+L 03/19/2025 - 03:46:09: [playercommands.smx] "bauxite<24><STEAM_0:0:5757747><>" slayed "<41><BOT><>"
+L 03/19/2025 - 03:46:09: [playercommands.smx] "bauxite<24><STEAM_0:0:5757747><>" slayed "<42><BOT><>"
+L 03/19/2025 - 03:46:09: [playercommands.smx] "bauxite<24><STEAM_0:0:5757747><>" slayed "<43><BOT><>"
+L 03/19/2025 - 03:46:09: [playercommands.smx] "bauxite<24><STEAM_0:0:5757747><>" slayed "<44><BOT><>"
+L 03/19/2025 - 03:46:09: [playercommands.smx] "bauxite<24><STEAM_0:0:5757747><>" slayed "<45><BOT><>"
+L 03/19/2025 - 03:46:09: [playercommands.smx] "bauxite<24><STEAM_0:0:5757747><>" slayed "<46><BOT><>"
+L 03/19/2025 - 03:46:09: [playercommands.smx] "bauxite<24><STEAM_0:0:5757747><>" slayed "<47><BOT><>"
+L 03/19/2025 - 03:46:09: [playercommands.smx] "bauxite<24><STEAM_0:0:5757747><>" slayed "<48><BOT><>"
+L 03/19/2025 - 03:46:09: [playercommands.smx] "bauxite<24><STEAM_0:0:5757747><>" slayed "<49><BOT><>"
+L 03/19/2025 - 03:54:03: [basecommands.smx] "bauxite<24><STEAM_0:0:5757747><>" console command (cmdline "sm plugins unload dcomp")
+L 03/19/2025 - 06:24:35: [basecommands.smx] "[playing] Loose<55><STEAM_0:1:28848445><>" console command (cmdline "_restart")
+L 03/19/2025 - 06:24:35: Log file closed.
+L 03/19/2025 - 07:02:53: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250319.log") (Version "1.11.0.6939")
+L 03/19/2025 - 07:02:53: [basecommands.smx] "[playing] Loose<3><STEAM_0:1:28848445><>" changed cvar (cvar "sv_cheats") (value "1")
+L 03/19/2025 - 07:04:46: [basecommands.smx] "[playing] Loose<3><STEAM_0:1:28848445><>" changed cvar (cvar "sv_cheats") (value "0")
+L 03/19/2025 - 21:39:24: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250319.log") (Version "1.11.0.6939")
+L 03/19/2025 - 21:39:24: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/19/2025 - 21:39:24: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/19/2025 - 21:39:57: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_envoy_ctg.
+L 03/19/2025 - 21:39:59: [SM] Changed map to "nt_envoy_ctg"
+L 03/19/2025 - 21:40:00: -------- Mapchange to nt_envoy_ctg --------
+L 03/19/2025 - 21:49:10: [basecommands.smx] "bauxite<7><STEAM_0:0:5757747><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/19/2025 - 22:12:12: [nt_mapchooser_new.smx] Starting map vote because outside request
+L 03/19/2025 - 22:12:12: [nt_mapchooser_new.smx] Voting for next map has started.
+L 03/19/2025 - 22:12:46: [nt_mapchooser_new.smx] Voting for next map has finished. Nextmap: nt_veil_ctg_a4f.
+L 03/19/2025 - 22:12:48: [SM] Changed map to "nt_veil_ctg_a4f"
+L 03/19/2025 - 22:12:48: -------- Mapchange to nt_veil_ctg_a4f --------
+L 03/19/2025 - 22:20:04: [basecommands.smx] "Excavator Lizard<3><STEAM_0:1:20336729><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/19/2025 - 22:22:11: [basecommands.smx] "bauxite<7><STEAM_0:0:5757747><>" changed cvar (cvar "mp_forcecamera") (value "0")
+L 03/19/2025 - 23:35:11: [basecommands.smx] "[playing] Loose<18><STEAM_0:1:28848445><>" changed map to "nt_ttk_a1"
+L 03/19/2025 - 23:35:14: [SM] Changed map to "nt_ttk_a1"
+L 03/19/2025 - 23:35:14: -------- Mapchange to nt_ttk_a1 --------
+L 03/19/2025 - 23:35:36: [basecommands.smx] "[playing] Loose<18><STEAM_0:1:28848445><>" changed cvar (cvar "sv_cheats") (value "1")
+L 03/19/2025 - 23:36:47: [basecommands.smx] "[playing] Loose<18><STEAM_0:1:28848445><>" console command (cmdline "bot_mimic 1")
+L 03/19/2025 - 23:37:04: [basecommands.smx] "[playing] Loose<18><STEAM_0:1:28848445><>" console command (cmdline "bot_mimic 3")
+L 03/19/2025 - 23:37:30: [playercommands.smx] "[playing] Loose<18><STEAM_0:1:28848445><>" slayed "<19><BOT><>"
+L 03/19/2025 - 23:37:30: [playercommands.smx] "[playing] Loose<18><STEAM_0:1:28848445><>" slayed "<20><BOT><>"
+L 03/19/2025 - 23:37:30: [playercommands.smx] "[playing] Loose<18><STEAM_0:1:28848445><>" slayed "<21><BOT><>"
+L 03/19/2025 - 23:37:30: [playercommands.smx] "[playing] Loose<18><STEAM_0:1:28848445><>" slayed "<22><BOT><>"
+L 03/19/2025 - 23:37:30: [playercommands.smx] "[playing] Loose<18><STEAM_0:1:28848445><>" slayed "<23><BOT><>"
+L 03/19/2025 - 23:37:30: [playercommands.smx] "[playing] Loose<18><STEAM_0:1:28848445><>" slayed "<24><BOT><>"
+L 03/19/2025 - 23:37:30: [playercommands.smx] "[playing] Loose<18><STEAM_0:1:28848445><>" slayed "<25><BOT><>"
+L 03/19/2025 - 23:37:30: [playercommands.smx] "[playing] Loose<18><STEAM_0:1:28848445><>" slayed "<26><BOT><>"
+L 03/19/2025 - 23:37:30: [playercommands.smx] "[playing] Loose<18><STEAM_0:1:28848445><>" slayed "<27><BOT><>"
+L 03/19/2025 - 23:37:30: [playercommands.smx] "[playing] Loose<18><STEAM_0:1:28848445><>" slayed "<28><BOT><>"
+L 03/19/2025 - 23:37:30: [playercommands.smx] "[playing] Loose<18><STEAM_0:1:28848445><>" slayed "<29><BOT><>"
+L 03/19/2025 - 23:37:30: [playercommands.smx] "[playing] Loose<18><STEAM_0:1:28848445><>" slayed "<30><BOT><>"
+L 03/19/2025 - 23:39:36: [basecommands.smx] "[playing] Loose<18><STEAM_0:1:28848445><>" console command (cmdline "sm plugins unload nt_comp_warmup_godmode")
+L 03/19/2025 - 23:40:29: [basecommands.smx] "[playing] Loose<18><STEAM_0:1:28848445><>" kicked "<19><BOT><>" (reason "")
+L 03/19/2025 - 23:40:29: [basecommands.smx] "[playing] Loose<18><STEAM_0:1:28848445><>" kicked "<20><BOT><>" (reason "")
+L 03/19/2025 - 23:40:29: [basecommands.smx] "[playing] Loose<18><STEAM_0:1:28848445><>" kicked "<21><BOT><>" (reason "")
+L 03/19/2025 - 23:40:29: [basecommands.smx] "[playing] Loose<18><STEAM_0:1:28848445><>" kicked "<22><BOT><>" (reason "")
+L 03/19/2025 - 23:40:29: [basecommands.smx] "[playing] Loose<18><STEAM_0:1:28848445><>" kicked "<23><BOT><>" (reason "")
+L 03/19/2025 - 23:40:29: [basecommands.smx] "[playing] Loose<18><STEAM_0:1:28848445><>" kicked "<24><BOT><>" (reason "")
+L 03/19/2025 - 23:40:29: [basecommands.smx] "[playing] Loose<18><STEAM_0:1:28848445><>" kicked "<25><BOT><>" (reason "")
+L 03/19/2025 - 23:40:29: [basecommands.smx] "[playing] Loose<18><STEAM_0:1:28848445><>" kicked "<26><BOT><>" (reason "")
+L 03/19/2025 - 23:40:29: [basecommands.smx] "[playing] Loose<18><STEAM_0:1:28848445><>" kicked "<27><BOT><>" (reason "")
+L 03/19/2025 - 23:40:29: [basecommands.smx] "[playing] Loose<18><STEAM_0:1:28848445><>" kicked "PGR Bot<14><BOT><>" (reason "")
+L 03/19/2025 - 23:40:29: [basecommands.smx] "[playing] Loose<18><STEAM_0:1:28848445><>" kicked "<28><BOT><>" (reason "")
+L 03/19/2025 - 23:40:29: [basecommands.smx] "[playing] Loose<18><STEAM_0:1:28848445><>" kicked "<29><BOT><>" (reason "")
+L 03/19/2025 - 23:40:29: [basecommands.smx] "[playing] Loose<18><STEAM_0:1:28848445><>" kicked "<30><BOT><>" (reason "")
+L 03/19/2025 - 23:42:09: [basecommands.smx] "[playing] Loose<18><STEAM_0:1:28848445><>" console command (cmdline "_restart")
+L 03/19/2025 - 23:42:09: Log file closed.
+L 03/19/2025 - 23:44:13: SourceMod log file session started (file "c:\servers\eurotokyo\NeotokyoSource\addons\sourcemod\logs\L20250319.log") (Version "1.11.0.6939")
+L 03/19/2025 - 23:44:13: [basecommands.smx] "[playing] Loose<2><STEAM_0:1:28848445><>" changed map to "nt_ttk_a1"
+L 03/19/2025 - 23:44:16: [SM] Changed map to "nt_ttk_a1"
+L 03/19/2025 - 23:44:16: -------- Mapchange to nt_ttk_a1 --------
+L 03/19/2025 - 23:44:50: [basecommands.smx] "[playing] Loose<2><STEAM_0:1:28848445><>" changed cvar (cvar "sv_cheats") (value "1")
+L 03/19/2025 - 23:45:50: [playercommands.smx] "[playing] Loose<2><STEAM_0:1:28848445><>" slayed "<4><BOT><>"
+L 03/19/2025 - 23:45:50: [playercommands.smx] "[playing] Loose<2><STEAM_0:1:28848445><>" slayed "<5><BOT><>"
+L 03/19/2025 - 23:45:50: [playercommands.smx] "[playing] Loose<2><STEAM_0:1:28848445><>" slayed "<6><BOT><>"
+L 03/19/2025 - 23:45:50: [playercommands.smx] "[playing] Loose<2><STEAM_0:1:28848445><>" slayed "<7><BOT><>"
+L 03/19/2025 - 23:45:50: [playercommands.smx] "[playing] Loose<2><STEAM_0:1:28848445><>" slayed "<8><BOT><>"
+L 03/19/2025 - 23:45:50: [playercommands.smx] "[playing] Loose<2><STEAM_0:1:28848445><>" slayed "<9><BOT><>"
+L 03/19/2025 - 23:45:50: [playercommands.smx] "[playing] Loose<2><STEAM_0:1:28848445><>" slayed "<10><BOT><>"
+L 03/19/2025 - 23:45:50: [playercommands.smx] "[playing] Loose<2><STEAM_0:1:28848445><>" slayed "<11><BOT><>"
+L 03/19/2025 - 23:45:50: [playercommands.smx] "[playing] Loose<2><STEAM_0:1:28848445><>" slayed "<12><BOT><>"
+L 03/19/2025 - 23:45:50: [playercommands.smx] "[playing] Loose<2><STEAM_0:1:28848445><>" slayed "<13><BOT><>"
+L 03/19/2025 - 23:45:50: [playercommands.smx] "[playing] Loose<2><STEAM_0:1:28848445><>" slayed "<14><BOT><>"
+L 03/19/2025 - 23:45:50: [playercommands.smx] "[playing] Loose<2><STEAM_0:1:28848445><>" slayed "<15><BOT><>"
+L 03/20/2025 - 00:36:05: Log file closed.
