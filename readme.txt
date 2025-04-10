@@ -12,4 +12,7 @@ sm_emptypassword (admin only) empties server password to "" on demand
 RTVing or changing the MAP will result in the server password being restored to "" nothing.
 
 KNOWN ISSUES:
-If you disable warmode to restore original pub server state, !rtv or use !map to leave the server to restore functionality.
+If you disable warmode to restore original pub server state, player enemies remain unkillable due to comp godmode,
+Do !rtv or !map to leave the current map to reset functionality.
+
+ALL PLUGINS AND THEIR SOURCE CODE BELONG TO THEIR RESPECTIVE OWNERS.
