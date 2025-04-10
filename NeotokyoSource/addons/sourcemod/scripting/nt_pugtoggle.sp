@@ -5,7 +5,7 @@ public Plugin myinfo = {
     name = "Warmode Toggle",
     author = "YourName",
     description = "Toggles between sm_warmode_on.cfg and sm_warmode_off.cfg using !pug",
-    version = "1.0",
+    version = "1.1",
     url = ""
 };
 
@@ -28,14 +28,19 @@ public Action Cmd_ToggleWarmode(int client, int args)
     if (warmode == 0)
     {
         g_hCvarWarmode.SetInt(1);
-        ServerCommand("exec sm_warmode_on.cfg");
+        ServerCommand("sm_execcfg sm_warmode_on.cfg");
         PrintToChatAll("[PUGMode] Enabled!");
     }
     else
     {
         g_hCvarWarmode.SetInt(0);
-        ServerCommand("exec sm_warmode_off.cfg");
-        PrintToChatAll("[PUGMode] Disabled!");
+        ServerCommand("sm_execcfg sm_warmode_off.cfg");
+        PrintToChatAll("[PUGMode] Disabled! Restarting the map...");
+
+        // Get the current map name and change to it
+        char currentMap[64];
+        GetCurrentMap(currentMap, sizeof(currentMap));
+        ServerCommand("changelevel %s", currentMap);
     }
 
     return Plugin_Handled;
