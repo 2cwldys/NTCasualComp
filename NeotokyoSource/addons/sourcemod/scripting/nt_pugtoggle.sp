@@ -111,7 +111,7 @@ public Action Cmd_ToggleWarmode(int client, int args)
 
         if (privatePug == 0)
         {
-            ServerCompetitiveDisableSnd()
+            ServerCompetitiveDisableSnd();
         }
         if (privatePug == 1)
         {
