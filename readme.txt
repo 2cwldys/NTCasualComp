@@ -11,6 +11,6 @@ sm_emptypassword (admin only) empties server password to "" on demand.
 
 RTVing or changing the MAP will result in the server password being restored to "" nothing.
 Typing !pug as admin will trigger sm_nt_pugmode 0/1 values, which handle sm_warmode_on/off.cfg(s)
-Typing !privatepug as admin will trigger sm_nt_privatepug 0/1 values, which indicate if the server will be locked in PUG mode.
+Typing !privatepug as admin will trigger sm_nt_privatepug 0/1 values, indicating if the server will be locked in PUG mode.
 
 ALL PLUGINS AND THEIR SOURCE CODE BELONG TO THEIR RESPECTIVE OWNERS.
