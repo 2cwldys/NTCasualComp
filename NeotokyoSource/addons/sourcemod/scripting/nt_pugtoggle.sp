@@ -1,6 +1,7 @@
 #pragma semicolon 1
 #include <sourcemod>
 #include <sdktools>
+#include <timers>
 
 public Plugin myinfo = {
     name = "Pugmode Toggle",
@@ -12,6 +13,8 @@ public Plugin myinfo = {
 
 ConVar g_hCvarWarmode;
 ConVar g_hCvarPrivatePug;
+//new g_iCountdown = 5;
+//new Handle:g_hTimer = INVALID_HANDLE;
 static char g_soundCD[] = "buttons/button17.wav";
 static char g_soundPUB[] = "ntcomp/server_public.mp3";
 static char g_soundPRI[] = "ntcomp/server_private.mp3";
@@ -47,18 +50,18 @@ void ServerPublicSnd()
     EmitSoundToAll(g_soundPUB, _, _, _, _, volume, pitch);
 }
 
-void ServerCompetitiveSnd()
-{
-    float volume = 0.5;	// Volume between 0.0 - 1.0 (original volume is 1.0)
-    int pitch = 100;	// Pitch between 0 - 255 (original pitch is 100)
-    EmitSoundToAll(g_soundCOMP, _, _, _, _, volume, pitch);
-}
-
 void ServerPrivateSnd()
 {
     float volume = 0.5;	// Volume between 0.0 - 1.0 (original volume is 1.0)
     int pitch = 100;	// Pitch between 0 - 255 (original pitch is 100)
     EmitSoundToAll(g_soundPRI, _, _, _, _, volume, pitch);
+}
+
+void ServerCompetitiveSnd()
+{
+    float volume = 0.5;	// Volume between 0.0 - 1.0 (original volume is 1.0)
+    int pitch = 100;	// Pitch between 0 - 255 (original pitch is 100)
+    EmitSoundToAll(g_soundCOMP, _, _, _, _, volume, pitch);
 }
 
 public Action Cmd_ToggleWarmode(int client, int args)
@@ -87,16 +90,13 @@ public Action Cmd_ToggleWarmode(int client, int args)
         g_hCvarWarmode.SetInt(0);
         ServerCommand("exec sm_warmode_off.cfg");
         PrintToChatAll("[PUGMode] Disabled!");
-        //PrintToChatAll("[PUGMode] Restarting map for public configuration in 5 seconds...");
-        ServerPublicSnd();
         CountDownBeep();
+        ServerPublicSnd();
+        //StartCountdown();
 
-        PrintToChatAll("[PUGMode] Restarting map...");
         char currentMap[64];
         GetCurrentMap(currentMap, sizeof(currentMap));
         ServerCommand("changelevel %s", currentMap);  // Restart the map
-
-        //CreateTimer(5.0, Map_Reset);
     }
 
     if (warmode == 0 && privatePug == 1)
@@ -134,11 +134,58 @@ public Action Cmd_TogglePrivatePug(int client, int args)
     return Plugin_Handled;
 }
 
-//public Action Map_Reset(Handle timer)
-//{
-//    // Time's up, restart the map
-//    PrintToChatAll("[PUGMode] Restarting map...");
-//    char currentMap[64];
-//    GetCurrentMap(currentMap, sizeof(currentMap));
-//    ServerCommand("changelevel %s", currentMap);  // Restart the map
-//}
+/* public Action Timer_Countdown(Handle timer)
+{
+    if (timer != g_hTimer)  // **Ensure this is the correct timer instance**
+    {
+        return Plugin_Stop;
+    }
+
+    if (g_iCountdown > 0)
+    {
+        PrintToChatAll("[PUGMode] Restarting map for public play in %d...", g_iCountdown);
+        CountDownBeep();
+    }
+    else
+    {
+        RestartMap();
+        
+        // **Fix: Now g_hTimer is being checked and invalidated**
+        if (g_hTimer != INVALID_HANDLE)
+        {
+            KillTimer(g_hTimer);
+            g_hTimer = INVALID_HANDLE;
+        }
+
+        return Plugin_Stop;
+    }
+
+    g_iCountdown--;
+    return Plugin_Continue;
+} */
+
+/* public void StartCountdown()
+{
+    if (g_hTimer != INVALID_HANDLE)
+    {
+        KillTimer(g_hTimer);
+        g_hTimer = INVALID_HANDLE;  // Reset handle
+    }
+
+    g_iCountdown = 5; // Reset countdown
+    g_hTimer = CreateTimer(1.0, Timer_Countdown, _, TIMER_REPEAT);  // Assign timer handle
+
+    if (g_hTimer == INVALID_HANDLE)
+    {
+        PrintToChatAll("Failed to create timer!");
+    }
+} */
+
+/* public void RestartMap()
+{
+    PrintToChatAll("[PUGMode] Restarting map...");
+    CountDownBeep();
+    char currentMap[64];
+    GetCurrentMap(currentMap, sizeof(currentMap));
+    ServerCommand("changelevel %s", currentMap);  // Restart the map
+} */
