@@ -18,7 +18,8 @@ ConVar g_hCvarPrivatePug;
 static char g_soundCD[] = "buttons/button17.wav";
 static char g_soundPUB[] = "ntcomp/server_public.mp3";
 static char g_soundPRI[] = "ntcomp/server_private.mp3";
-static char g_soundCOMP[] = "ntcomp/comp_play_enabled.mp3";
+static char g_soundCOMPE[] = "ntcomp/comp_play_enabled.mp3";
+static char g_soundCOMPD[] = "ntcomp/comp_play_disabled.mp3";
 
 public void OnPluginStart()
 {
@@ -30,10 +31,12 @@ public void OnPluginStart()
     AddFileToDownloadsTable("sound/ntcomp/server_private.mp3");
     AddFileToDownloadsTable("sound/ntcomp/server_public.mp3");
     AddFileToDownloadsTable("sound/ntcomp/comp_play_enabled.mp3");
+    AddFileToDownloadsTable("sound/ntcomp/comp_play_disabled.mp3");
 
     PrecacheSound("ntcomp/server_private.mp3");
     PrecacheSound("ntcomp/server_public.mp3");
     PrecacheSound("ntcomp/comp_play_enabled.mp3");
+    PrecacheSound("ntcomp/comp_play_disabled.mp3");
 }
 
 void CountDownBeep()
@@ -57,11 +60,18 @@ void ServerPrivateSnd()
     EmitSoundToAll(g_soundPRI, _, _, _, _, volume, pitch);
 }
 
-void ServerCompetitiveSnd()
+void ServerCompetitiveEnableSnd()
 {
     float volume = 0.5;	// Volume between 0.0 - 1.0 (original volume is 1.0)
     int pitch = 100;	// Pitch between 0 - 255 (original pitch is 100)
-    EmitSoundToAll(g_soundCOMP, _, _, _, _, volume, pitch);
+    EmitSoundToAll(g_soundCOMPE, _, _, _, _, volume, pitch);
+}
+
+void ServerCompetitiveDisableSnd()
+{
+    float volume = 0.5;	// Volume between 0.0 - 1.0 (original volume is 1.0)
+    int pitch = 100;	// Pitch between 0 - 255 (original pitch is 100)
+    EmitSoundToAll(g_soundCOMPD, _, _, _, _, volume, pitch);
 }
 
 public Action Cmd_ToggleWarmode(int client, int args)
@@ -82,7 +92,13 @@ public Action Cmd_ToggleWarmode(int client, int args)
         CountDownBeep();
         if (privatePug == 0)
         {
-            ServerCompetitiveSnd();
+            ServerCompetitiveEnableSnd();
+        }
+        if (privatePug == 1)
+        {
+            ServerCommand("sv_password casualpug");
+            ServerPrivateSnd();
+            PrintToChatAll("[PUGMode] !! Session locked with password (casualpug) !!");
         }
     }
     else
@@ -91,19 +107,20 @@ public Action Cmd_ToggleWarmode(int client, int args)
         ServerCommand("exec sm_warmode_off.cfg");
         PrintToChatAll("[PUGMode] Disabled!");
         CountDownBeep();
-        ServerPublicSnd();
         //StartCountdown();
+
+        if (privatePug == 0)
+        {
+            ServerCompetitiveDisableSnd()
+        }
+        if (privatePug == 1)
+        {
+            ServerPublicSnd();
+        }
 
         char currentMap[64];
         GetCurrentMap(currentMap, sizeof(currentMap));
         ServerCommand("changelevel %s", currentMap);  // Restart the map
-    }
-
-    if (warmode == 0 && privatePug == 1)
-    {
-        ServerCommand("sv_password casualpug");
-        ServerPrivateSnd();
-        PrintToChatAll("[PUGMode] !! Session locked with password (casualpug) !!");
     }
 
     return Plugin_Handled;
