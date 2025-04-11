@@ -13,8 +13,10 @@ public Plugin myinfo = {
 
 ConVar g_hCvarWarmode;
 ConVar g_hCvarPrivatePug;
-//new g_iCountdown = 5;
-//new Handle:g_hTimer = INVALID_HANDLE;
+//Handle:g_hTimer = INVALID_HANDLE;
+//int g_iCountdown = 5;
+//bool g_bTimerRunning = false;
+//static const float g_fInterval = 1.0;
 static char g_soundCD[] = "buttons/button17.wav";
 static char g_soundPUB[] = "ntcomp/server_public.mp3";
 static char g_soundPRI[] = "ntcomp/server_private.mp3";
@@ -151,53 +153,6 @@ public Action Cmd_TogglePrivatePug(int client, int args)
     return Plugin_Handled;
 }
 
-/* public Action Timer_Countdown(Handle timer)
-{
-    if (timer != g_hTimer)  // **Ensure this is the correct timer instance**
-    {
-        return Plugin_Stop;
-    }
-
-    if (g_iCountdown > 0)
-    {
-        PrintToChatAll("[PUGMode] Restarting map for public play in %d...", g_iCountdown);
-        CountDownBeep();
-    }
-    else
-    {
-        RestartMap();
-        
-        // **Fix: Now g_hTimer is being checked and invalidated**
-        if (g_hTimer != INVALID_HANDLE)
-        {
-            KillTimer(g_hTimer);
-            g_hTimer = INVALID_HANDLE;
-        }
-
-        return Plugin_Stop;
-    }
-
-    g_iCountdown--;
-    return Plugin_Continue;
-} */
-
-/* public void StartCountdown()
-{
-    if (g_hTimer != INVALID_HANDLE)
-    {
-        KillTimer(g_hTimer);
-        g_hTimer = INVALID_HANDLE;  // Reset handle
-    }
-
-    g_iCountdown = 5; // Reset countdown
-    g_hTimer = CreateTimer(1.0, Timer_Countdown, _, TIMER_REPEAT);  // Assign timer handle
-
-    if (g_hTimer == INVALID_HANDLE)
-    {
-        PrintToChatAll("Failed to create timer!");
-    }
-} */
-
 /* public void RestartMap()
 {
     PrintToChatAll("[PUGMode] Restarting map...");
@@ -205,4 +160,49 @@ public Action Cmd_TogglePrivatePug(int client, int args)
     char currentMap[64];
     GetCurrentMap(currentMap, sizeof(currentMap));
     ServerCommand("changelevel %s", currentMap);  // Restart the map
+} */
+
+/* public void StartCountdown()
+{
+    if (g_bTimerRunning)
+    {
+        PrintToServer("[DEBUG] Countdown already running...");
+        return;
+    }
+    else
+    {
+        g_bTimerRunning = true;
+        g_iCountdown = 5;
+        PrintToServer("[DEBUG] StartCountdown() called.");
+        PrintToServer("[DEBUG] Creating timer...");
+        CreateTimer(g_fInterval, Timer_Countdown, _, TIMER_REPEAT);  // Assign timer handle
+        PrintToServer("[DEBUG] Countdown started.");
+    }
+} */
+
+/* public Action Timer_Countdown(Handle timer, any data)
+{
+    PrintToServer("[DEBUG] Timer_Countdown() called, g_iCountdown: %d", g_iCountdown);
+
+    if (g_iCountdown > 0)
+    {
+        PrintToChatAll("[PUGMode] Restarting map for public play in %d...", g_iCountdown);
+        CountDownBeep();
+        g_iCountdown--;
+        Sleep(1000);
+        return Plugin_Continue;
+    }
+
+    PrintToServer("[DEBUG] Countdown reached 0, restarting map now...");
+
+    if (g_iCountdown == 0)
+    {
+        // Once countdown reaches 0, restart the map
+        RestartMap();
+        g_bTimerRunning = false;
+        CloseHandle(timer);
+        return Plugin_Stop;
+    }
+
+    return Plugin_Continue;
 } */
