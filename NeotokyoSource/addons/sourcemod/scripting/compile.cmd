@@ -39,6 +39,9 @@ powershell -Command "Add-Type -TypeDefinition 'using System; using System.Runtim
 :: Wait briefly to ensure that Enter has been sent
 timeout /t 1 >nul
 
+:: Open the generated log file
+start notepad "%LOG_FILE%"
+
 :: Loop start function
 goto Start
 
