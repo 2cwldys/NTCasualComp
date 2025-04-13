@@ -2,18 +2,18 @@
 #include <sourcemod>
 #include <sdktools>
 
-#define EMPTY_MAP "nt_transit_ctg"
+ConVar g_EmptyMap;
 
 public Plugin myinfo = {
     name = "Empty Server Map Changer",
     author = "2cwldys",
-    description = "Changes map to EMPTY_MAP when server is empty",
+    description = "Changes to desired map when the server is empty",
     version = "1.0"
 };
 
 public void OnPluginStart()
 {
-	//placeholding
+	g_EmptyMap = CreateConVar("sm_nt_empty_map", "nt_transit_ctg", "Map to change to when the server is empty", FCVAR_NOTIFY);
 }
 
 public void OnClientDisconnect(int client)
@@ -35,8 +35,11 @@ public Action CheckForEmptyServer(Handle timer)
 
     if (playerCount == 0)
     {
-        PrintToServer("[EmptyMapChanger] No players detected. Changing map to %s...", EMPTY_MAP);
-        ForceChangeLevel(EMPTY_MAP, "Server empty - returning to default map.");
+        char mapName[64];
+        g_EmptyMap.GetString(mapName, sizeof(mapName));
+
+        PrintToServer("[EmptyMapChanger] No players detected. Changing map to %s...", mapName);
+        ForceChangeLevel(mapName, "Server empty - returning to default map.");
         return Plugin_Stop;
     }
 
