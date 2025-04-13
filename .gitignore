@@ -1,2 +1,3 @@
 NeotokyoSource/addons/sourcemod/scripting/compiled/*
-NeotokyoSource/addons/sourcemod/scripting/*.dat
+NeotokyoSource/addons/sourcemod/scripting/*compile_log*.txt
+*.dat
