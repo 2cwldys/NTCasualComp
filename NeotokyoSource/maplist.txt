@@ -3,7 +3,7 @@ nt_ballistremade_ctg_a22
 nt_ballistrade_ctg
 nt_bullet_tdm
 nt_commute_ctg_b3
-nt_club_ctg_beta_06
+nt_club_ctg_beta06
 nt_culvert_ctg_b4
 nt_dawn_ctg
 nt_decom_ctg
